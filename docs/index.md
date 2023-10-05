@@ -1,4 +1,4 @@
-<link rel="apple-touch-icon" href="/assets/favicon.png.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
 
 <link rel="icon" type="image/png" href="/assets/favicon.png" />
 
