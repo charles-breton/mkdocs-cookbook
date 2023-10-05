@@ -1,6 +1,5 @@
-<link rel="apple-touch-icon" href="/assets/favicon.png"/>
+<link rel="apple-touch-icon" href="/assets/favicon.png?v=2" />
 <link rel="icon" type="image/png" href="/assets/favicon.png" />
-
 
 
 # Welcome To Our Family Cookbook 
