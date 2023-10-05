@@ -1,6 +1,8 @@
 site_name: BRETON COOKBOOK
 theme:
   name: material
+  logo: 'assets/logo.png'
+  favicon: 'assets/favicon.png'
   features:
     - navigation.tabs
     - navigation.sections
@@ -47,4 +49,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  BRETONS
+  &copy; 2023 <a href="https://example.com"  target="_blank" rel="noopener">BRETON</a>
