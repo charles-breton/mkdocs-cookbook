@@ -22,7 +22,7 @@ ingredients:
   - white sugar
 ---
 
-![[Pasted image 20230919130533.png]]
+![[image_163.png]]
 ###### *RELATED* : 
 ---
 This pie crust can be made and frozen for up to 2 months before using.
@@ -62,7 +62,7 @@ This pie crust can be made and frozen for up to 2 months before using.
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230919130821.png]]
+![[image_164.png]]
 
 ---
 ### *EXTRA* :

@@ -28,7 +28,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002105517.png]]
+![[image_688.png]]
 ###### *RELATED* : 
 ---
 A simple keto bread recipe that has become a staple in our house. Just a handful of ingredients is all you need.
@@ -71,7 +71,7 @@ PREP TIME: 10 MINUTESCOOK TIME: 30 MINUTESTOTAL TIME: 40 MINUTES SERVINGS: 20 SL
 ---
 ## NUTRITIONS
 
-![[Pasted image 20231002105701.png]]
+![[image_689.png]]
 
 ---
 ### *EXTRA* :

@@ -25,7 +25,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001224843.png]]
+![[image_640.png]]
 ###### *RELATED* : 
 ---
 These tortillas are really good. I like to make a bunch ahead of time and have them on hand for lunch, between meals, breakfast burritos or for all sorts of dinner uses, like tacos, burritos, wraps, fajitas, enchiladas – or even in place of naan, pitas or bread. Because they are a lot easier to make than bread and store better.

@@ -68,7 +68,7 @@ ingredients:
 
 Serving Size About 2 mushrooms
 
-![[Pasted image 20230918222805.png]]
+![[image_109.png]]
 * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
 
 

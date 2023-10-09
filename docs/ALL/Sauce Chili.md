@@ -20,7 +20,7 @@ source: Sophie
 servings: 170 ml
 calories:
 ---
-![[Pasted image 20230913230057.png]]
+![[image_17.png]]
 ## NOTES
 
 

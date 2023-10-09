@@ -26,7 +26,7 @@ ingredients:
   - grapeseed oil
 ---
 
-![[Pasted image 20230918131501.png]]
+![[image_58.png]]
 
 ## PREP
 

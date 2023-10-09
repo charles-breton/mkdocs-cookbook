@@ -31,7 +31,7 @@ ingredients:
   - noodles
 ---
 
-![[Pasted image 20230928000132.png]]
+![[image_497.png]]
 ###### *RELATED* : 
 ---
 Sriracha Noodles with Tofu is an easy weeknight meal that can easily be made in 20 minutes start to finish. Even quicker if you used precooked noodles. Loaded with tofu, cabbage, and carrots plus a sauce that really packs some flavor, this is a light, but filling vegetarian meal.

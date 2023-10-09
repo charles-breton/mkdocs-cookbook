@@ -53,17 +53,17 @@ equipments:
 # INSTRUCTIONS
 
 1. Preheat the oven to 325 degrees.  Add coconut flour, baking soda, and sea salt to a medium mixing bowl.
-![[Pasted image 20231002113041.png]]
+![[image_701.png]]
 2. Add the eggs, olive oil, and water to the dry ingredients.
-![[Pasted image 20231002113054.png]]
+![[image_702.png]]
 3. Mix well and let sit for about 5 minutes. (This will allow for the coconut flour to really soak up the wet ingredients.
-![[Pasted image 20231002113111.png]]
+![[image_703.png]]
 4.  Divide the dough into 4-5 equal parts (4 for larger buns and 5 for smaller buns).  Form a bun shapes from the dough and place on a baking sheet lined with parchment paper.
-![[Pasted image 20231002113128.png]]
+![[image_704.png]]
 5. Bake in the oven for 30 minutes at 325 degrees.
-![[Pasted image 20231002113143.png]]
+![[image_705.png]]
 6. Using a knife, slice the buns in half horizontally.
-![[Pasted image 20231002113157.png]]
+![[image_706.png]]
 
 ---
 ## NOTES

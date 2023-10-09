@@ -37,7 +37,7 @@ ingredients:
   - vitamin C
 ---
 
-![[Pasted image 20230918172531.png]]
+![[image_90.png]]
 
 Disks of crisp zucchini slices topped with spicy beef, olives, green onions and dairy-free cheese. Made paleo-friendly without the cheese. Served alongside MCT guacamole enriched with Equip Collagen Peptides. MACROS Fat 60% Carbs 10% Protein 30%.
 
@@ -114,7 +114,7 @@ Disks of crisp zucchini slices topped with spicy beef, olives, green onions and 
 
 ## NUTRITIONS
 
-![[Pasted image 20230918172910.png]]
+![[image_91.png]]
 
 
 ## NOTES

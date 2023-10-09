@@ -27,7 +27,7 @@ ingredients:
   - coconut oil
 ---
 
-![[Pasted image 20230919215938.png]]
+![[image_206.png]]
 ###### *RELATED* : 
 ---
 

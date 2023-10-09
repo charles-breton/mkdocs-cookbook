@@ -27,7 +27,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002122052.png]]
+![[image_719.png]]
 ###### *RELATED* : 
 ---
 This gluten free artisan bread will CHANGE.YOUR.LIFE!!  Seriously.  Crusty bread that you thought you’d never have again.   Better still, no one will know it’s gluten free!

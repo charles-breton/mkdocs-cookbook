@@ -28,7 +28,7 @@ ingredients:
   - cocoa powder
 ---
 
-![[Pasted image 20230919152232.png]]
+![[image_188.png]]
 ###### *RELATED* : 
 ---
 My easy 10 Minute Tiramisu recipe takes all the fuss out of a classic Tiramisu by simplifying the method while delivering you maximum delicious results!

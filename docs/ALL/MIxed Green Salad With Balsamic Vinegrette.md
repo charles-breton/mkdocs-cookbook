@@ -26,7 +26,7 @@ ingredients:
   - almond
 ---
 
-![[Pasted image 20230926232050.png]]
+![[image_421.png]]
 ###### *RELATED* : 
 ---
 _**This mixed green salad with balsamic vinaigrette is a quick and easy side dish! In just 10 minutes you have a healthy accompaniment to any meal.**_
@@ -74,7 +74,7 @@ Pour 8 t. de laitues
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230926232256.png]]
+![[image_422.png]]
 
 ---
 ### *EXTRA* :

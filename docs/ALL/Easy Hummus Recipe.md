@@ -84,7 +84,7 @@ How to make hummus the traditional way. No fuss. No extra flavors added. Just a 
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230927122556.png]]
+![[image_424.png]]
 
 ---
 ### *EXTRA* :

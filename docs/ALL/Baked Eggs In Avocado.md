@@ -22,7 +22,7 @@ ingredients:
   - spice
 ---
 
-![[Pasted image 20230927151625.png]]
+![[image_446.png]]
 ###### *RELATED* : 
 ---
 Everyone always tells me breakfast can get boring, but I disagree. Breakfast is my favorite meal of the day. Some people eat breakfast around lunch time, especially with the intermittent fasting hype. But let’s be honest, you can eat breakfast food at any time of day! I recently got on an avocado kick, and decided to try this idea out. It’s so simple and such a great combination of textures.

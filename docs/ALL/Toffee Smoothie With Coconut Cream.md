@@ -28,7 +28,7 @@ ingredients:
   - bananes
 ---
 
-![[Pasted image 20230925004641.png]]
+![[image_326.png]]
 ###### *RELATED* : 
 ---
 

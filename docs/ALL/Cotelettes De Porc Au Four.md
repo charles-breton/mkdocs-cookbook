@@ -3,7 +3,7 @@ project: cookbook
 type: food
 folder: recipes
 date: 2023-09-12T17:46
-tags: []
+tags: 
 genre:
   - porc
 rating: 

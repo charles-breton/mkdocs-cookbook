@@ -26,7 +26,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001234523.png]]
+![[image_656.png]]
 ###### *RELATED* : 
 ---
 This bread is gluten-free - dairy free - egg free + sugar-free. Perfect for anyone with a food allergy or intolerance. Technically quinoa is not a grain but a seed and is also a complete protein, which means it contains all the 9 essential amino acids that the body needs for repair. Quinoa is also a good source of lysine, an amino acid important for tissue growth and repair and the formation of collagen which is important for healthy skin.

@@ -25,7 +25,7 @@ ingredients:
   - black pepper
 ---
 
-![[Pasted image 20230930222751.png]]
+![[image_558.png]]
 ###### *RELATED* : 
 ---
 _THESE RIDICULOUSLY good-looking sisters have made a ridiculously good-looking cookbook we’re ready to display with our collection of art books. With a school bus yellow-colored hardcover the size of an old school textbook, [The Art of Eating Well](https://www.amazon.com/gp/product/1576877272/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1576877272&linkCode=as2&tag=thechamag-20&linkId=7CWWHM3PNJUN3LUD) is perfect for styling up any fall coffee table. A cookbook for the coffee table? Why not! It’s gorgeous, interesting, and may just get you up from your OITNB marathon long enough for a healthy home-cooked dinner._

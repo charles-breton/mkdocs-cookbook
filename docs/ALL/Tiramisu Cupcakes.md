@@ -31,7 +31,7 @@ ingredients:
   - kahlua
 ---
 
-![[Pasted image 20230920195559.png]]
+![[image_264.png]]
 ###### *RELATED* : 
 ---
 Filled with tiramisu cream and topped with a Kahlua mascarpone buttercream frosting, these **Tiramisu Cupcakes** are light, fluffy, and absolutely irresistible.

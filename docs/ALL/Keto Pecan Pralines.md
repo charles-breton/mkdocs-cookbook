@@ -26,7 +26,7 @@ ingredients:
   - salt
 ---
 
-![[Pasted image 20230919133930.png]]
+![[image_171.png]]
 ###### *RELATED* : 
 ---
 Pecan Pralines are creamy and sweet with toasted pecans. My Keto Pecan Pralines Recipe cooks in about ten minutes and is ready to eat in under an hour!

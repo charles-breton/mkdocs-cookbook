@@ -42,7 +42,7 @@ ingredients:
   - couscous
 ---
 
-![[Pasted image 20230927123411.png]]
+![[image_427.png]]
 ###### *RELATED* : 
 ---
 Wholesome vegetable and chickpea stew inspired by Moroccan flavours--lots of warm spices and a little textural interest from chopped dates. The warm spice mixture that includes cinnamon can also be traced to [harira](https://tasteofmaroc.com/moroccan-harira-soup-recipe/).

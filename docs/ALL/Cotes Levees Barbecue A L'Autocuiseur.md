@@ -30,7 +30,7 @@ ingredients:
   - sauce Worcestershire
 ---
 
-![[Pasted image 20230927175625.png]]
+![[image_461.png]]
 ###### *RELATED* : 
 ---
 

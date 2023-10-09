@@ -27,7 +27,7 @@ ingredients:
   - milk
 ---
 
-![[Pasted image 20230919110919.png]]
+![[image_154.png]]
 ###### *RELATED* : 
 ---
 Gluten Free Quick And Easy Morning Pancakes

@@ -42,7 +42,7 @@ ingredients:
   - coconut yogurt
 ---
 
-![[Pasted image 20230926160708.png]]
+![[image_401.png]]
 ###### *RELATED* : 
 ---
 

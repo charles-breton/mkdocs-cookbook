@@ -24,7 +24,7 @@ ingredients:
   - spinach
 ---
 
-![[Pasted image 20230927230525.png]]
+![[image_487.png]]
 ###### *RELATED* : 
 ---
 This EASY Spinach Artichoke Dip recipe is warm, cheesy, and DELICIOUS! It can be made up to 2 days ahead of time, and is always a crowd pleaser!

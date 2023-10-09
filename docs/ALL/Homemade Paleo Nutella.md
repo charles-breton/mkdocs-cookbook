@@ -24,7 +24,7 @@ ingredients:
   - maple syrup
 ---
 
-![[Pasted image 20230920154558.png]]
+![[image_252.png]]
 ###### *RELATED* : 
 ---
 When I first found this recipe for Homemade Nutella, I knew just who my first jar would go to.

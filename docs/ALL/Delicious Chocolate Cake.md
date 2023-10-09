@@ -26,7 +26,7 @@ ingredients:
   - ganache
 ---
 
-![[Pasted image 20230924141344.png]]
+![[image_304.png]]
 ###### *RELATED* : 
 ---
 This is a delicious chocolate cake from [The Healthy Chef APP](https://thehealthychef.com/pages/app) that's perfect for celebrations! This cake is gluten free with exceptional tasting notes of chocolate, almond, orange and vanilla bean. It's not too sweet and it's more for the sophisticated dark chocolate lover. Cut into small slices and savour the goodness, or you can coat it with [chocolate ganache](https://www.thehealthychef.com/2015/02/ganache/) and decorate with fresh raspberries.

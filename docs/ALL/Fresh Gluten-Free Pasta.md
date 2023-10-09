@@ -25,7 +25,7 @@ ingredients:
   - kosher salt
 ---
 
-![[Pasted image 20230920180849.png]]
+![[image_256.png]]
 ###### *RELATED* : 
 ---
 After many trials and tests, my gluten free pasta dough is here! If you have any wheat sensitivities, this is the fresh pasta recipe for you. The blend of [gluten free Petra flour](https://giadzy.com/products/petra-gluten-free-pasta-flour-2-2-lbs) works out perfectly to create a pasta with great chew and flavor.
@@ -65,7 +65,7 @@ TOTAL TIME 42 minutes
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230920180926.png]]
+![[image_257.png]]
 
 ---
 ### *EXTRA* :

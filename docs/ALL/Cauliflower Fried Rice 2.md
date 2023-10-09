@@ -27,7 +27,7 @@ ingredients:
   - sesame seeds
 ---
 
-![[Pasted image 20230926123530.png]]
+![[image_379.png]]
 ###### *RELATED* : 
 ---
 

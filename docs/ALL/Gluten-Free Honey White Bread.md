@@ -20,7 +20,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002111046.png]]
+![[image_695.png]]
 ###### *RELATED* : 
 ---
 

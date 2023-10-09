@@ -27,7 +27,7 @@ ingredients:
   - basil
 ---
 
-![[Pasted image 20230926151757.png]]
+![[image_389.png]]
 ###### *RELATED* : 
 ---
 

@@ -33,7 +33,7 @@ ingredients:
   - chocolate chips
 ---
 
-![[Pasted image 20230920131143.png]]
+![[image_234.png]]
 ###### *RELATED* : 
 ---
 Crust from Healthy Hoggin. Chocolate avocado mousse from my [Chilled Double Chocolate Torte](https://ohsheglows.com/2010/12/09/chilled-double-chocolate-torte/).

@@ -32,7 +32,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001211910.png]]
+![[image_616.png]]
 ###### *RELATED* : 
 ---
 Gluten free, grain free, nut free, no yeast, easy, healthy, paleo bagel recipe. Best easy to make paleo bagels that taste "real"! You wont even know they don't have grains- because they taste and look like the real thing!
@@ -86,7 +86,7 @@ Gluten free, grain free, nut free, no yeast, easy, healthy, paleo bagel recipe. 
 ---
 ## NUTRITIONS
 
-![[Pasted image 20231001211942.png]]
+![[image_617.png]]
 
 ---
 ### *EXTRA* :

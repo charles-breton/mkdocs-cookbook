@@ -24,7 +24,7 @@ ingredients:
   - noix
 ---
 
-![[Pasted image 20230925121852.png]]
+![[image_333.png]]
 ###### *RELATED* : 
 ---
 

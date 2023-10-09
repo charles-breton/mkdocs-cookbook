@@ -31,7 +31,7 @@ ingredients:
   - oil
 ---
 
-![[Pasted image 20230927171233.png]]
+![[image_448.png]]
 ###### *RELATED* :  [[Vietnamese Fish Sauce Dipping Sauce]]
 ---
 _**This tender and juicy, easy-to-make sweet and savory grilled Vietnamese lemongrass pork chops recipe (Thit Heo Nuong Xa) is full of flavors from lemongrass, garlic, and fish sauce and grilled for that extra char and caramelization. If you don't have a BBQ, not to worry - I have included stovetop instructions as well.**_

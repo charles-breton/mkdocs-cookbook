@@ -33,7 +33,7 @@ ingredients:
   - kale
 ---
 
-![[Pasted image 20230918160043.png]]
+![[image_70.png]]
 
 ## PREP
 

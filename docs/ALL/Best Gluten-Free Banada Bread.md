@@ -43,7 +43,7 @@ equipments:
   - loaf pan
 ---
 
-![[Pasted image 20231001222919.png]]
+![[image_637.png]]
 ###### *RELATED* : 
 ---
 _My favorite easy gluten free banana bread – this recipe is unbelievably simple to make, moist and super flavorful. It can also be made dairy free!_

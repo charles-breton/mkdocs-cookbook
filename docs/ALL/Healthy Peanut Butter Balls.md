@@ -28,7 +28,7 @@ ingredients:
   - coconut oil
 ---
 
-![[Pasted image 20230925130523.png]]
+![[image_339.png]]
 ###### *RELATED* : 
 ---
 These healthy peanut butter balls come together so easily and are perfect for holiday parties! They're gluten-free, grain-free and vegan.

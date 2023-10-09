@@ -25,7 +25,7 @@ ingredients:
   - salt
 ---
 
-![[Pasted image 20230920122856.png]]
+![[image_229.png]]
 ###### *RELATED* : 
 ---
 When the word “pudding” comes to mind, most people think of a very sweet and creamy food item. Pudding is usually made with a sweet milk base to produce a dish with a similar consistency to egg-based custards or mousse.1 However, if you’re tired of that typical heavy texture, you can use seeds to make a light but delicious pudding.

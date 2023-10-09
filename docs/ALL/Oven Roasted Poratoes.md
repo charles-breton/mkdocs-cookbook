@@ -27,7 +27,7 @@ ingredients:
   - pepper
 ---
 
-![[Pasted image 20230924185309.png]]
+![[image_314.png]]
 ###### *RELATED* : 
 ---
 

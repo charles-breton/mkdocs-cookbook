@@ -19,7 +19,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001232615.png]]
+![[image_650.png]]
 ###### *RELATED* : 
 ---
 Make this gluten free pita bread to use for sandwiches, dipping, and more. This gf pita bread recipe takes less than 30 minutes to prepare with no yeast.

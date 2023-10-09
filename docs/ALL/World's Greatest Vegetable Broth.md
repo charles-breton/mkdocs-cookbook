@@ -29,7 +29,7 @@ ingredients:
   - bay leaf
 ---
 
-![[Pasted image 20230918214940.png]]
+![[image_108.png]]
 ###### *RELATED* : 
 
 This vegan broth is slightly thick with rich color and full flavor. The broth can be frozen in 1- or 1 1/2-cup blocks for later use. This recipe also leaves you with a bowl full of deliciously cooked vegetables.

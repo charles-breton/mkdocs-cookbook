@@ -31,7 +31,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002124047.png]]
+![[image_724.png]]
 ###### *RELATED* : 
 ---
 Bring crusty bread back to the table with this gluten free artisan bread recipe. This gf bread recipe requires no kneading and tastes just like "real" bread.

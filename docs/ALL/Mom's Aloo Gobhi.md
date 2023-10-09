@@ -31,7 +31,7 @@ ingredients:
   - coriander
 ---
 
-![[Pasted image 20230925104547.png]]
+![[image_327.png]]
 ###### *RELATED* : 
 ---
 

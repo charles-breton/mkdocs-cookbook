@@ -20,7 +20,7 @@ keywords: stir-fry
 ---
 
 ![[20231001_150728.jpg]]
-![[Pasted image 20231002142309.png]]
+![[image_731.png]]
 
 ## NOTES
 

@@ -25,7 +25,7 @@ ingredients:
   - pecans
 ---
 
-![[Pasted image 20230920115028.png]]
+![[image_224.png]]
 ###### *RELATED* : 
 ---
 _Raw Pecan Pie Tartlets made with just three ingredients! That's right, this decadent dessert is made from walnuts, dates, and pecans alone for a vegan, gluten-free, refined sugar-free, and wholesome holiday dessert._

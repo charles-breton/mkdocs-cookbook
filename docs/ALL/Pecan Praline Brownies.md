@@ -28,7 +28,7 @@ ingredients:
   - creamy pecan pralines
 ---
 
-![[Pasted image 20230919133723.png]]
+![[image_170.png]]
 ###### *RELATED* : 
 ---
 They Pecan Praline Brownies are fudgy, full of chocolate chips, and covered with a layer of pecan praline. Low Carb, Keto, Grain Gluten Sugar-Free, THM S.

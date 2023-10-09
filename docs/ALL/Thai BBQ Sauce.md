@@ -34,7 +34,12 @@ equipments:
 ---
 # INGREDIENTS
 
-- [ ] 
+- [ ] 1 t. minced garlic
+- [ ] 1/2 t. minced chill or ...
+- [ ] 4 T. ea: sugar, water
+- [ ] 1/4 t. salt
+- [ ] 6 T. vinegar
+
 
 ---
 # INSTRUCTIONS

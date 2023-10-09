@@ -27,7 +27,7 @@ ingredients:
   - olive oil
 ---
 
-![[Pasted image 20230928131311.png]]
+![[image_514.png]]
 ###### *RELATED* : 
 ---
 _The only gluten-free pizza crust recipe you’ll ever need! Easy to make and works with basically any gluten-free flour blend. Bakes up chewy and crispy!_

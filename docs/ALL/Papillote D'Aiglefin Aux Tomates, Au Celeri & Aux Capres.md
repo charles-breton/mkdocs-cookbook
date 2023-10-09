@@ -27,7 +27,7 @@ ingredients:
   - beurre
 ---
 
-![[Pasted image 20231001165100.png]]
+![[image_590.png]]
 ###### *RELATED* : 
 ---
 

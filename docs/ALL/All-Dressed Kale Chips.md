@@ -30,7 +30,7 @@ ingredients:
   - cayenne pepper
 ---
 
-![[Pasted image 20230926210700.png]]
+![[image_413.png]]
 ###### *RELATED* : 
 ---
 

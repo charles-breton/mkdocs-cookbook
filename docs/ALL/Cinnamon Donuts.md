@@ -29,7 +29,7 @@ ingredients:
   - sugar
 ---
 
-![[Pasted image 20230919215540.png]]
+![[image_205.png]]
 ###### *RELATED* : 
 ---
 This keto cinnamon donuts are a delicious baked light and tasty donut. These are a great gluten free alternative to a sugary donut that do not compromise on taste.

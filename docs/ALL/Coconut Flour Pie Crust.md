@@ -35,7 +35,7 @@ ingredients:
   - garlic powder
 ---
 
-![[Pasted image 20230919221041.png]]
+![[image_208.png]]
 ###### *RELATED* : 
 ---
 **The Coconut Flour Pie Crust is a 4 ingredient easy gluten free, grain free, paleo and low carb pie crust perfect for a healthy pumpkin pie or savory quiche.**
@@ -113,7 +113,7 @@ ingredients:
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230919221529.png]]
+![[image_209.png]]
 
 ---
 ### *EXTRA* :

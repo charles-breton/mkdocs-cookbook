@@ -32,7 +32,7 @@ ingredients:
   - creme sure
 ---
 
-![[Pasted image 20230918164141.png]]
+![[image_78.png]]
 
 Voici le MEILLEUR pâté mexicain, rien de moins! Intégrez cette recette incontournable à base de boeuf haché au menu pour régaler toute la famille!
 

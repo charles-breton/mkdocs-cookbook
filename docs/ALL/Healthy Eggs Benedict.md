@@ -27,7 +27,7 @@ ingredients:
   - salmon
 ---
 
-![[Pasted image 20230927145126.png]]
+![[image_439.png]]
 ###### *RELATED* : 
 ---
 English muffins topped with ham topped with poached eggs, swimming in buttery hollandaise sauce—eggs Benedict is the all-time classic, super-rich brunch dish. But if you don't want to spend the rest of your Sunday asleep on the couch (not that there's anything wrong with that!), the eggy favorite needs an update.

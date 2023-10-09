@@ -32,7 +32,7 @@ ingredients:
   - water
 ---
 
-![[Pasted image 20231001120641.png]]
+![[image_575.png]]
 ###### *RELATED* : 
 ---
 8-ingredient creamy tomato soup without the cream. This easy, blend and go recipe is high in flavor, nutrients and feel-good whole food ingredients.

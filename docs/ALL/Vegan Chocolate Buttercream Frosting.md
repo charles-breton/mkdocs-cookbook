@@ -27,7 +27,7 @@ ingredients:
   - vanilla extract
 ---
 
-![[Pasted image 20230921232914.png]]
+![[image_301.png]]
 ###### *RELATED* : 
 ---
 This **vegan chocolate buttercream frosting** is dairy-free and can be modified into a paleo buttercream frosting as well. It’s luxuriously rich, creamy and decadent. The perfect frosting for a chocolate cake or cupcakes.

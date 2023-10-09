@@ -28,7 +28,7 @@ ingredients:
   - rice vinegar
 ---
 
-![[Pasted image 20230921013021.png]]
+![[image_289.png]]
 ###### *RELATED* : 
 ---
 Vegan Sweet and sour cauliflower on a bed of rice are what a perfect dinner sounds to me. A simple vegan and gluten-free recipe with amazingly delicious Asian flavors.

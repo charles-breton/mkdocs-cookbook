@@ -31,7 +31,7 @@ ingredients:
   - water
 ---
 
-![[Pasted image 20230927124458.png]]
+![[image_428.png]]
 ###### *RELATED* : 
 ---
 Hearty lentil bolognese makes an easy pasta sauce that's full of good-for-you ingredients.

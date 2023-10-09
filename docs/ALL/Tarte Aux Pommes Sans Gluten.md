@@ -29,7 +29,7 @@ ingredients:
   - poudre d'amandes
 ---
 
-![[Pasted image 20230919221706.png]]
+![[image_210.png]]
 ###### *RELATED* : 
 ---
 **Paru dans le Magazine RICARDO Volume 11 Numéro 7** (p. 119)

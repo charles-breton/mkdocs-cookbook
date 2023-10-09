@@ -26,7 +26,7 @@ ingredients:
   - coconut
 ---
 
-![[Pasted image 20230919224458.png]]
+![[image_217.png]]
 ###### *RELATED* : 
 ---
 These delicious coconut macaroons are the perfect snack to have in your repertoire. Most of us have shredded coconut in our pantries, and eggs in the fridge. And that plus 10 minutes is basically all you need to whip these up. Which means, you can make them on a whim for a healthy sweet tooth fix, snacky kids, or unexpected guests. They also pack well for hikes, road trips, etc.

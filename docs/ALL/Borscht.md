@@ -32,7 +32,7 @@ ingredients:
   - pommes de terre
 ---
 
-![[Pasted image 20231001111343.png]]
+![[image_566.png]]
 ###### *RELATED* : 
 ---
 

@@ -30,7 +30,7 @@ ingredients:
   - vanilla
 ---
 
-![[Pasted image 20230920223014.png]]
+![[image_274.png]]
 ###### *RELATED* : 
 ---
 **These are THE BEST cinnamon rolls! The recipe is from Todd Wilbur's "More Top Secret Recipes." and www.TopSecretRecipes.com. They're oooey, goooey and rich! I put the ingredients in the night before, and then roll out and bake in the morning. I would like to share the following suggestions by reviewers about the filling "leaking out" during baking: 1) add a few tablespoons flour to the brown sugar/cinnamon mixture 2) using a flour "shaker" or sifter, I lightly dust the margarine with flour before sprinkling with the brown sugar/cinnamon mixture, then again on top of the BS/cinnamon mixture, before rolling up the dough.**
@@ -100,7 +100,7 @@ ingredients:
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230920223055.png]]
+![[image_275.png]]
 
 ---
 ### *EXTRA* :

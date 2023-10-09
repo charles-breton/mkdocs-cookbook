@@ -25,7 +25,7 @@ ingredients:
   - parsley
 ---
 
-![[Pasted image 20230915132111.png]]
+![[image_32.png]]
 ###### *RELATED* : 
 ---
 This Greek rice recipe just needs about 5 minutes of hands on time and it turns out so fresh and flavorful, thanks to the lemon and fresh herbs. We serve this up often and it's a huge hit with my family.

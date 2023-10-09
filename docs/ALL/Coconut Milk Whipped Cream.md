@@ -26,7 +26,7 @@ ingredients:
   - vanilla extract
 ---
 
-![[Pasted image 20230919100749.png]]
+![[image_123.png]]
 ###### *RELATED* : 
 
 This trick to this recipe is chilling the can of coconut milk to get a perfectly whipped, vegan whipped cream.
@@ -56,7 +56,7 @@ This trick to this recipe is chilling the can of coconut milk to get a perfectly
 
 ## NUTRITIONS
 
-![[Pasted image 20230919100417.png]]
+![[image_122.png]]
 
 ## NOTES
 

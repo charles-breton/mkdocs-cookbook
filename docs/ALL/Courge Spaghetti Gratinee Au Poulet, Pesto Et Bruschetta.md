@@ -23,7 +23,7 @@ ingredients:
   - mozarella
 ---
 
-![[Pasted image 20230929113846.png]]
+![[image_521.png]]
 ###### *RELATED* : 
 ---
 

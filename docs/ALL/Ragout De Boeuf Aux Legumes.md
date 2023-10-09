@@ -30,7 +30,7 @@ ingredients:
   - pois
 ---
 
-![[Pasted image 20230918174953.png]]
+![[image_98.png]]
 
 Ce ragoût de bœuf nourrissant et facile à réaliser est formidable pour un souper hivernal. Vous pouvez remplacer le bœuf par du chevreuil.
 

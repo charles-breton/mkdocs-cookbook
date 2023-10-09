@@ -28,7 +28,7 @@ servings:
 calories:
 ---
 
-![[Pasted image 20230915120423.png]]
+![[image_30.png]]
 
 ## NOTES
 

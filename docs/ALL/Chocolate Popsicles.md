@@ -31,7 +31,7 @@ ingredients:
   - dark chocolate
 ---
 
-![[Pasted image 20230919135606.png]]
+![[image_174.png]]
 ###### *RELATED* : 
 ---
 Ultra **creamy**, **easy-peasy** and packed with **healthy fats**, these paleo and keto chocolate popsicles are bound to become your favorite summertime treat!

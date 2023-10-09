@@ -21,7 +21,7 @@ ingredients:
   - coriandre
 ---
 
-![[Pasted image 20230921000151.png]]
+![[image_283.png]]
 ###### *RELATED* : 
 ---
 

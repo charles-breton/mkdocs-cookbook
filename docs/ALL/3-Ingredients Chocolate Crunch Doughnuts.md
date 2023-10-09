@@ -27,7 +27,7 @@ ingredients:
   - nut butter
 ---
 
-![[Pasted image 20230925140815.png]]
+![[image_348.png]]
 ###### *RELATED* : 
 ---
 A yummy crunchy treat that’s so easy anyone and everyone can make it! These _3-ingredient chocolate crunch doughnuts_ are perfect for when you’re craving something sweet, but don’t feel like baking or making anything too complicated.

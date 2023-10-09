@@ -23,7 +23,7 @@ ingredients:
   - monkfruit powder
 ---
 
-![[Pasted image 20230918231322.png]]
+![[image_113.png]]
 ###### *RELATED* : 
 
 This easy keto ice cream recipe is ready in minutes and only requires 3 ingredients!

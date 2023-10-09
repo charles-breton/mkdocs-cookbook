@@ -22,7 +22,7 @@ ingredients:
   - moutarde
 ---
 
-![[Pasted image 20230926213235.png]]
+![[image_414.png]]
 ###### *RELATED* : 
 ---
 
@@ -35,7 +35,7 @@ ingredients:
 ---
 # INGREDIENTS
 
-- [ ]  3 tranches de bacon, coupées en petits dés  (J'ai utilisé genre 350g de lard salé)
+- [ ]  3 tranches de bacon, coupées en petits dés  (J'ai utilisé genre 175 g de lard salé)
 - [ ] 15 ml (1 c. à soupe) d’huile d’olive 
 - [ ] 720 g (6 tasses) de choux de Bruxelles, coupés en deux 
 - [ ] 180 ml (3/4 tasse) de bouillon de poulet ou de jus de pomme 

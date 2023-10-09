@@ -29,7 +29,7 @@ ingredients:
   - vanilla extract
 ---
 
-![[Pasted image 20230925125444.png]]
+![[image_337.png]]
 ###### *RELATED* : 
 ---
 These Low-Carb No-Bake Chocolate Coconut Bars are made with walnuts, cashews, coconut, natural peanut butter, and dark chocolate. They are gluten-free and very delicious! This bar recipe will become your favourite of all the low-carb snacks!

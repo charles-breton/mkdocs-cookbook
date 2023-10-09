@@ -30,7 +30,7 @@ ingredients:
   - cilantro
 ---
 
-![[Pasted image 20230927124619.png]]
+![[image_429.png]]
 ###### *RELATED* : 
 ---
 This easy to make  takes less than an hour to make (mostly hands off time) and is packed full of delicious Indian flavors. It's a healthy vegan recipe that makes a perfect meatless Monday dinner recipe. Make extras any you'll have a giant smile on your face at lunch the next day.

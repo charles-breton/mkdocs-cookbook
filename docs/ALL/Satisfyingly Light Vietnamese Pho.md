@@ -32,7 +32,7 @@ ingredients:
   - jalapenos
 ---
 
-![[Pasted image 20231001121814.png]]
+![[image_584.png]]
 ###### *RELATED* : 
 ---
 If there’s a dish that Vietnamese cuisine is most known for, it’s a steaming and comforting bowl of pho (pronounced as “fuh”). Considered Vietnam’s national dish,1 pho begins with tender rice noodles and thinly sliced raw beef. Hot and flavorful broth is poured over these ingredients, cooking the beef.2 Finishing touches include herbs, bean sprouts, scallions, chili peppers, lime wedges and other garnishes.3

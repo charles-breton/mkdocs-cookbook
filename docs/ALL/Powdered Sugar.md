@@ -20,7 +20,7 @@ ingredients:
   - arrowroot powder
 ---
 
-![[Pasted image 20230921134155.png]]
+![[image_293.png]]
 ###### *RELATED* : 
 ---
 Learn how to make powdered sugar at home with the sugar of your choice. Homemade powdered sugar is really easy - watch my video above to see how I do it!

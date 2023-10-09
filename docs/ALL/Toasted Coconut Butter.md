@@ -23,7 +23,7 @@ ingredients:
   - sea salt
 ---
 
-![[Pasted image 20230925193413.png]]
+![[image_362.png]]
 ###### *RELATED* : 
 ---
 _This Toasted Coconut Butter is a one-ingredient treat that only takes minutes to make! It’s a smooth and creamy spread that’s full of flavor and naturally paleo, vegan, and gluten-free._

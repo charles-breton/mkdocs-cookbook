@@ -17,7 +17,7 @@ calories:
 ingredients:
 ---
 
-![[Pasted image 20230918150954.png]]
+![[image_64.png]]
 
 ## PREP
 
@@ -48,7 +48,7 @@ ingredients:
 
 ## NUTRITIONS
 
-![[Pasted image 20230918151031.png]]
+![[image_65.png]]
 
 ## NOTES
 

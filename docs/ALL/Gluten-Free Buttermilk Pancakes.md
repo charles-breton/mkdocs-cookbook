@@ -30,7 +30,7 @@ ingredients:
   - vanilla extract
 ---
 
-![[Pasted image 20230919112436.png]]
+![[image_157.png]]
 ###### *RELATED* : 
 ---
 Best Gluten Free Buttermilk Pancakes recipe, the only _recipe_ you’ll ever need for classic buttermilk pancakes that are light and fluffy. Just 77 calories per pancake!

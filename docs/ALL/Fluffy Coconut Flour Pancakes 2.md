@@ -26,7 +26,7 @@ ingredients:
   - sea salt
 ---
 
-![[Pasted image 20230919112857.png]]
+![[image_158.png]]
 ###### *RELATED* : 
 ---
 _These coconut flour pancakes are what breakfast dreams are made of. Just a few simple ingredients come together to make fluffy and tender gluten free pancakes perfect for any morning of the week._
@@ -70,7 +70,7 @@ _These coconut flour pancakes are what breakfast dreams are made of. Just a few 
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230919113106.png]]
+![[image_159.png]]
 
 ---
 ### *EXTRA* :

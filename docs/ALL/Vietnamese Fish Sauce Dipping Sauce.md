@@ -25,7 +25,7 @@ ingredients:
   - chili pepper
 ---
 
-![[Pasted image 20230927171952.png]]
+![[image_449.png]]
 ###### *RELATED* : [[Vietnamese Grilled Lemongrass Pork Chops]]
 ---
 A **quick and easy** recipe for **Vietnamese Dipping Sauce** (**Nuoc Cham** / **Nuoc Mam**) made with **fish sauce**, **fresh lime juice**, **garlic,** and **sugar**. Delicious with spring rolls, grilled meat, or vermicelli bowls!
@@ -50,13 +50,13 @@ A **quick and easy** recipe for **Vietnamese Dipping Sauce** (**Nuoc Cham**�
 # INSTRUCTIONS
 
 1. Peel the garlic and finely chop it. Add it to a small bowl (or jar if you are making a bigger batch)
-![[Pasted image 20230927172611.png]]
+![[image_450.png]]
 2. Cut the lime in half and squeeze all the lime juice into the bowl (or jar) with the garlic and let it sit for about 10-15 minutes. The acid from the lime juice will cut the sharp garlic spicy bite.
-![[Pasted image 20230927172634.png]]
+![[image_451.png]]
 3. Once 10-15 minutes is up, add the sugar into the garlic/lime juice mix and pour in the hot water. Stir everything together until the sugar dissolves completely.
 4. Once the sugar has dissolved, add in the fish sauce and mix.
 5. Voila! Nuoc cham is done! It can be stored in the fridge or used right away! 🙂
-![[Pasted image 20230927172712.png]]
+![[image_452.png]]
 
 ---
 ## NOTES

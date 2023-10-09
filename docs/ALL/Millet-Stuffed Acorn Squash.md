@@ -29,7 +29,7 @@ ingredients:
   - eggs
 ---
 
-![[Pasted image 20230926190507.png]]
+![[image_406.png]]
 ###### *RELATED* : 
 ---
 

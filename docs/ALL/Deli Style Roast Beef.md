@@ -26,7 +26,7 @@ ingredients:
   - paprika
 ---
 
-![[Pasted image 20230918145300.png]]
+![[image_61.png]]
 
 ## PREP
 

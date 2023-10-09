@@ -30,7 +30,7 @@ ingredients:
   - parsley
 ---
 
-![[Pasted image 20231001170403.png]]
+![[image_593.png]]
 ###### *RELATED* : 
 ---
 

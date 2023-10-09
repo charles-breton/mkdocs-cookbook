@@ -25,7 +25,7 @@ servings: 2 - 4
 link: https://happybodyformula.com/zucchini-pasta-with-chicken-pistachios/
 ---
 
-![[Pasted image 20230910230401.png]]
+![[image_9.png]]
 [**Essai le 12 janvier avec spaghetti. 1 kg de zucchinis + 340 g de spaghetti. Était trop de spaghetti en proportion donc  prochaine fois  mettre plus de zucchinis et mélanger les deux.**]
 
 ## NOTES

@@ -30,7 +30,7 @@ ingredients:
   - cheese
 ---
 
-![[Pasted image 20231001120557.png]]
+![[image_574.png]]
 ###### *RELATED* : 
 ---
 

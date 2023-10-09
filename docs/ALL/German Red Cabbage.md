@@ -24,7 +24,7 @@ ingredients:
   - pepper
 ---
 
-![[Pasted image 20230926115702.png]]
+![[image_375.png]]
 ###### *RELATED* : 
 ---
 Sunday afternoons were a time for family gatherings when I was a kid. While the uncles played cards, the aunts made treats such as this traditional German red cabbage recipe. —Jeannette Heim, Dunlap, Tennessee

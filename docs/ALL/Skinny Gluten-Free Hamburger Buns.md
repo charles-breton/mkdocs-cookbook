@@ -32,7 +32,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001231735.png]]
+![[image_648.png]]
 ###### *RELATED* : 
 ---
 _A perfect fit in my favorite bakeware, [Revol Les Naturels](http://www.revol1768.com/us/43-les-naturels), as **[seen in Williams-Sonoma](http://www.williams-sonoma.com/products/revol-porcelain-tartlet-pans/?cm_src=AutoRel)**. These are the toxin-free [Tartlet Pans](http://www.revol1768.com/us/ramekins-and-souffles/118-les-naturels-set-of-2-tartlet-pans.html) in Cream and Sesame Grey, which are sized just right (4-1/2 inches in diameter) for making spot on burger buns to fit both veggie burgers and meat patties._

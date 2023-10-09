@@ -26,7 +26,7 @@ ingredients:
   - cayenne pepper
 ---
 
-![[Pasted image 20230918144859.png]]
+![[image_60.png]]
 
 ## PREP
 

@@ -23,7 +23,7 @@ ingredients:
   - red peppers
 ---
 
-![[Pasted image 20230926145636.png]]
+![[image_386.png]]
 ###### *RELATED* : 
 ---
 Crisp, fresh, and bursting with loads of unexpected flavor, this **Garlic Bok Choy Recipe** is guaranteed to be your new favorite side dish. Ready in just 10 minutes, enjoy this easy vegetarian side dish with chicken, beef, or fish.

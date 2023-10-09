@@ -29,7 +29,7 @@ ingredients:
   - chia seeds
 ---
 
-![[Pasted image 20230920113451.png]]
+![[image_222.png]]
 ###### *RELATED* : 
 ---
 _These creamy and delicious Vegan No-Bake Lemon Raspberry Bars are free of eggs, grains, gluten, dairy, and refined sugar. They’re a wholesome treat you can enjoy all summer long._

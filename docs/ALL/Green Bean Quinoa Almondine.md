@@ -29,7 +29,7 @@ ingredients:
   - green beans
 ---
 
-![[Pasted image 20230921005406.png]]
+![[image_284.png]]
 ###### *RELATED* : 
 ---
 This is a heartier take on a classic dish that typically pairs green and almonds. Slivered almonds are accompanied by a little extra spice and a hint of sweetness. The lemon-dressed quinoa pilaf add moisture to help steam the green beans, while imparting all of its bright flavour Be sure to select young, tender beans for maximum flavour and a beautiful delicate texture
@@ -90,5 +90,5 @@ Bon goût mais faire cuire les fèves à part avec ail et oignons coupés fin da
 ### *EXTRA* :
 
 
-![[Pasted image 20230921010013.png]]
-![[Pasted image 20230921010027.png]]
+![[image_285.png]]
+![[image_286.png]]

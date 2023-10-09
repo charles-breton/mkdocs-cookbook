@@ -29,7 +29,7 @@ ingredients:
   - vodka
 ---
 
-![[Pasted image 20230918232759.png]]
+![[image_116.png]]
 ###### *RELATED* : 
 
 This (no-churn!!) low carb and keto chocolate ice cream is ridiculously creamy and a breeze to whip up! i.e. it's ideal.

@@ -30,7 +30,7 @@ ingredients:
   - mascarpone cheese
 ---
 
-![[Pasted image 20230920201516.png]]
+![[image_267.png]]
 ###### *RELATED* : 
 ---
 This **Berry Mascarpone Layer Cake** has layers of fluffy vanilla cake, fresh berry filling and mascarpone whipped cream frosting! It’s light, fruity and perfect for spring!

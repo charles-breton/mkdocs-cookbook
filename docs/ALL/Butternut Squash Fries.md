@@ -22,7 +22,7 @@ ingredients:
   - butternut squash
 ---
 
-![[Pasted image 20230926215050.png]]
+![[image_415.png]]
 ###### *RELATED* : 
 ---
 
@@ -64,7 +64,7 @@ ingredients:
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230926215209.png]]
+![[image_416.png]]
 
 ---
 ### *EXTRA* :

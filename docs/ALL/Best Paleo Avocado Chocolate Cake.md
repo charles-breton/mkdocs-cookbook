@@ -32,7 +32,7 @@ ingredients:
   - vanilla extract
 ---
 
-![[Pasted image 20230921140951.png]]
+![[image_297.png]]
 ###### *RELATED* : 
 ---
 Best paleo chocolate cake you will ever have! Made with sweet potatoes instead of flour and avocado chocolate frosting. This flourless and dairy free chocolate cake is made in the food processor and perfect for any celebration! Are you ready for this easy gluten free chocolate cake recipe?
@@ -90,7 +90,7 @@ Servings 12
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230921141013.png]]
+![[image_298.png]]
 
 ---
 ### *EXTRA* :

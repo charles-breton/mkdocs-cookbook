@@ -21,7 +21,7 @@ ingredients:
   - kosher salt
 ---
 
-![[Pasted image 20230920182204.png]]
+![[image_261.png]]
 ###### *RELATED* : 
 ---
 You’re going to love making – and EATING – homemade gluten-free pasta. The texture of these noodles is amazing and nothing beats the taste of homemade pasta. You won't miss the gluten either!

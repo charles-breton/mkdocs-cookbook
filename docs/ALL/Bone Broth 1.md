@@ -65,7 +65,7 @@ Use a shallow spoon to carefully skim the  lm o  the top of the broth. Pour th
   
 The broth will keep for three days in the fridge and three months in your freezer. Substitute: Feel free to substitute chicken,  sh, or pork bones or to combine them all.
 
-![[Pasted image 20230919092606.png]]
+![[image_120.png]]
 
 ## NUTRITIONS
 

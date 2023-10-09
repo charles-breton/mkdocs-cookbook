@@ -26,7 +26,7 @@ ingredients:
   - parsley
 ---
 
-![[Pasted image 20230926130346.png]]
+![[image_380.png]]
 ###### *RELATED* : 
 ---
 Cutting the cauliflower florets into small pieces before roasting ensures that they'll be just the right size to get trapped inside the orecchiette, ensuring maximum cauliflower flavor in every single bite.

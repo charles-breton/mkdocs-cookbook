@@ -28,7 +28,7 @@ ingredients:
   - black pepper
 ---
 
-![[Pasted image 20230926153552.png]]
+![[image_394.png]]
 ###### *RELATED* : 
 ---
 A low carb alternative to rice that doesn't involve cauliflower. This riced cabbage dish is perfect as a side dish or a healthy meatless meal.

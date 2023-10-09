@@ -25,7 +25,7 @@ ingredients:
   - pepper
 ---
 
-![[Pasted image 20230926132954.png]]
+![[image_382.png]]
 ###### *RELATED* : 
 ---
 Simple and tasty mushrooms roasted in a balsamic-soy and garlic sauce!

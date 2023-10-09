@@ -33,7 +33,7 @@ ingredients:
   - xylitol
 ---
 
-![[Pasted image 20230928105236.png]]
+![[image_504.png]]
 ###### *RELATED* : 
 ---
 This gluten free, paleo and keto bbq sauce is so awesome, easy-peasy and super quick! Think just 15 minutes and trust you’ll never go bottled again.

@@ -67,7 +67,7 @@ Total Time:25 mins
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230926150210.png]]
+![[image_387.png]]
 
 ---
 ### *EXTRA* :

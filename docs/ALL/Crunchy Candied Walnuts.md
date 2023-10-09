@@ -22,7 +22,7 @@ ingredients:
   - walnuts
 ---
 
-![[Pasted image 20230927212631.png]]
+![[image_478.png]]
 ###### *RELATED* : 
 ---
 Whether you’re looking for a sweet and crunchy snack, a little sweet to balance out the acid in your salad, or a tasty topping for your morning smoothie bowl, this omega-3 rich nut coated in spices and a touch of maple will do the trick! There are so many ways to use this snack as a complement to a variety of recipes — let us know how you choose to enjoy them below!

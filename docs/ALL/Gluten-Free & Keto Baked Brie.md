@@ -25,7 +25,7 @@ ingredients:
   - strawberries
 ---
 
-![[Pasted image 20230920233722.png]]
+![[image_278.png]]
 ###### *RELATED* : 
 ---
 This keto baked brie, all wrapped up with our super flaky pie crust, is surely a low carb entree for the books!

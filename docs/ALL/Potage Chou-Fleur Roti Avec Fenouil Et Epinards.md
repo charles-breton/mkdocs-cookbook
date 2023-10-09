@@ -30,7 +30,7 @@ ingredients:
   - tahini
 ---
 
-![[Pasted image 20231001113001.png]]
+![[image_569.png]]
 ###### *RELATED* : 
 ---
 En utilisant du bouillon de légumes, on obtient un potage sans gluten et sans produits laitiers. Vous pouvez utiliser des oignons rouges marinés du commerce ou rapidement mariner les oignons vous-même. Vous pouvez également les omettre, mais leur goût piquant donne un superbe équilibre au potage. Et la pâte de cari transforme une bonne soupe en un potage extraordinaire.

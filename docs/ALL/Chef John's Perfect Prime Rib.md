@@ -22,7 +22,7 @@ ingredients:
   - kosher salt
 ---
 
-![[Pasted image 20230918165652.png]]
+![[image_82.png]]
 
 Use Chef John's easy "mathematical method," and you'll get the best prime rib, cooked to a perfect medium rare, every time.
 
@@ -56,7 +56,7 @@ Step 4 Roast the 4-pound prime rib (see footnote if using a larger and smaller r
 
 ## NUTRITIONS
 
-![[Pasted image 20230918165634.png]]
+![[image_81.png]]
 
 
 

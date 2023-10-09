@@ -30,7 +30,7 @@ ingredients:
   - cacao nibs
 ---
 
-![[Pasted image 20230918234701.png]]
+![[image_121.png]]
 ###### *RELATED* : 
 
 5-ingredient no-churn vegan chocolate ice cream that has all the creaminess, flavor, and richness of the real thing! Naturally sweetened, vegan, and gluten-free.

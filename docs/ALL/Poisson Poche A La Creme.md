@@ -28,7 +28,7 @@ ingredients:
   - huile d'olive
 ---
 
-![[Pasted image 20231001165630.png]]
+![[image_592.png]]
 ###### *RELATED* : 
 ---
 Une recette du restaurant Mille fleurs de l’hôtel Mocking Bird Hill, à Port Antonio.

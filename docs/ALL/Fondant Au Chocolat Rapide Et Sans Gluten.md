@@ -25,7 +25,7 @@ ingredients:
   - fecule de patates
 ---
 
-![[Pasted image 20230920120825.png]]
+![[image_226.png]]
 ###### *RELATED* : 
 ---
 FONDANT AU CHOCOLAT RAPIDE ET SANS GLUTEN

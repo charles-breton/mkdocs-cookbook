@@ -26,7 +26,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001204641.png]]
+![[image_604.png]]
 ###### *RELATED* : 
 ---
 This easy gluten-free sandiwch bread is soft, fluffy, and holds together perfectly! Perfect for grilled cheese, toast, and even french toast!

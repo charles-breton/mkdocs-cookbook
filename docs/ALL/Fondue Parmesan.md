@@ -84,7 +84,7 @@ _sur des essuie-tout._Ou mettre sur des petits cabarets et congeler. Faire dége
 
 
 [IDK ]
-![[Pasted image 20230911122635.png]]
+![[image_11.png]]
 
 
 ## TIPS

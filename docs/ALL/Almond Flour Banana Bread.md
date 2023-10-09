@@ -34,7 +34,7 @@ equipments:
   - parchment paper
 ---
 
-![[Pasted image 20231002110111.png]]
+![[image_691.png]]
 ###### *RELATED* : 
 ---
 An almond flour banana bread recipe that's super moist with a naturally sweet and nutty banana flavor. Make this recipe as a quick bread or muffins. Keeps for up to 1 week for a make-ahead breakfast or snack.

@@ -31,7 +31,7 @@ equipments:
   - loaf pan
 ---
 
-![[Pasted image 20231001222040.png]]
+![[image_636.png]]
 ###### *RELATED* : 
 ---
 The BEST Almond Flour Paleo Banana Bread with chocolate chips – SO good and simple to make. Naturally sweetened with just bananas! Reader favorite recipe.

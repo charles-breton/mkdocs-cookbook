@@ -27,7 +27,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001205933.png]]
+![[image_607.png]]
 ###### *RELATED* : 
 ---
 Delicious Paleo Dinner Rolls that bake up quickly and easily - best served warm from the oven with a generous pat of butter!

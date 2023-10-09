@@ -27,7 +27,7 @@ ingredients:
   - salt
 ---
 
-![[Pasted image 20230918233552.png]]
+![[image_118.png]]
 ###### *RELATED* : 
 
 The creamiest homemade dairy-free vanilla ice cream ever! Made with only 5 ingredients and is vegan, paleo, gluten-free & refined sugar free!

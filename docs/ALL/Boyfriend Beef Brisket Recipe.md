@@ -58,23 +58,23 @@ ingredients:
 # INSTRUCTIONS
 
 1.   
-![[Pasted image 20230918173141.png]]
+![[image_92.png]]
     Allow the beef to set out at room temperature for 30 minutes. Place the brisket (fat side up) on a cutting board and score 1-inch lines across and along the fat in a grid-like pattern.
     
 2. 
-![[Pasted image 20230918173153.png]]
+![[image_93.png]]
     Heat the oven to 300 degrees Fahrenheit and place the sliced onions in the bottom of a large oven-safe roasting pan.
     
 3. 
-    ![[Pasted image 20230918173217.png]]
+    ![[image_94.png]]
     Pour the beef stock on top. Combine the dried seasonings and sprinkle them evenly over the fatty side of the beef. Use your fingers to press the seasoning onto the beef. Place the beef on top of the onions and add the rosemary sprigs to the pan.
     
 4. 
-    ![[Pasted image 20230918173228.png]]
+    ![[image_95.png]]
     Cover and roast in the oven for four hours, flipping halfway through. Flip the roast once more with the fatty side facing up. Remove the rosemary and turn the oven to broil. Broil uncovered until the top of the beef is browned, about five to seven minutes.
     
 5. 
-    ![[Pasted image 20230918173236.png]]
+    ![[image_96.png]]
     Remove the beef from the oven and rest covered at room temperature for 15 minutes. Slice into thin slices against the grain of the meat. Serve warm alongside onions. Add several spoonsful of drippings from the pan on top and enjoy!
 
 ## NUTRITIONS

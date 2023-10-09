@@ -23,7 +23,7 @@ ingredients:
   - kosher salt
 ---
 
-![[Pasted image 20230920172500.png]]
+![[image_255.png]]
 ###### *RELATED* : 
 ---
 This homemade paleo and keto nutella hazelnut spread is **truly unbelievable**! Ultra rich and chocolatey, **its taste is so spot** on that you’ll never miss the store-bought version again (for real!).

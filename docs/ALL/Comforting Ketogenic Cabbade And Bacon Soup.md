@@ -27,7 +27,7 @@ ingredients:
   - parsley
 ---
 
-![[Pasted image 20231001121542.png]]
+![[image_583.png]]
 ###### *RELATED* : 
 ---
 I’m sure that many of you have already read my latest book, “Fat for Fuel” — if you haven’t yet, I encourage you to pick up your copy now, as it is one of the most important health books you will read in your life — and you’re determined to incorporate the ketogenic diet into your lifestyle. Now the challenge is: How can you make sure that the meals you prepare are keto-friendly? Well, you don’t have to worry — we’ve made it easy for you!

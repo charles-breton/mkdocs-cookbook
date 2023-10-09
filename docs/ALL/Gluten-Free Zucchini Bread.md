@@ -29,7 +29,7 @@ ingredients:
   - chocolate chips
 ---
 
-![[Pasted image 20230919140149.png]]
+![[image_175.png]]
 ###### *RELATED* : 
 ---
 Gluten-free chocolate zucchini bread is moist and rich. _Dairy-free and easy-to-make._

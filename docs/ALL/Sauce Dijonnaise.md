@@ -22,7 +22,7 @@ servings: 245 ml
 calories:
 ---
 
-![[Pasted image 20230913230817.png]]
+![[image_19.png]]
 
 
 ## NOTES

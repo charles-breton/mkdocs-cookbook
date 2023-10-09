@@ -31,7 +31,7 @@ ingredients:
   - walnuts
 ---
 
-![[Pasted image 20230919210528.png]]
+![[image_200.png]]
 ###### *RELATED* : 
 ---
 Loaded Homemade Aussie bites are a copycat recipe that take the Costco favorite and makes a gluten free version filled with your favorite dried fruits and nuts. Whole grains of oats and quinoa are the base of these energy bites. Apricots, dried cherries, raisins and pistachios add to the flavor.

@@ -23,7 +23,7 @@ ingredients:
   - parsley
 ---
 
-![[Pasted image 20230926205542.png]]
+![[image_412.png]]
 ###### *RELATED* : 
 ---
 _The best crispy brussel sprouts with creamy dijon aioli dipping sauce! Oven baked and air fried methods both available in the recipe._

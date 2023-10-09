@@ -30,7 +30,7 @@ ingredients:
   - walnuts
 ---
 
-![[Pasted image 20230920124457.png]]
+![[image_231.png]]
 ###### *RELATED* : 
 ---
 These super fudgy Paleo brownies are made with plenty of chopped chocolate, finely ground almond flour and a touch of coconut flour for structure, and no refined sugars. They'll be your new favorite—whether you're Paleo or not!

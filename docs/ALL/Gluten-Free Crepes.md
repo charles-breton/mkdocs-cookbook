@@ -27,7 +27,7 @@ ingredients:
   - huile de coco
 ---
 
-![[Pasted image 20230919115016.png]]
+![[image_162.png]]
 ###### *RELATED* : 
 ---
 

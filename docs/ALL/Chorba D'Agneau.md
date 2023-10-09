@@ -30,7 +30,7 @@ ingredients:
   - citron
 ---
 
-![[Pasted image 20231001113527.png]]
+![[image_571.png]]
 ###### *RELATED* : 
 ---
 Cette soupe d'agneau, avec ses notes citronnées, se déguste très bien même avec l'arrivée des beaux jours!

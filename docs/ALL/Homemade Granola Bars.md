@@ -36,7 +36,7 @@ ingredients:
   - chia seeds
 ---
 
-![[Pasted image 20230925132212.png]]
+![[image_343.png]]
 ###### *RELATED* : 
 ---
 
@@ -84,7 +84,7 @@ ingredients:
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230925132227.png]]
+![[image_344.png]]
 
 ---
 ### *EXTRA* :

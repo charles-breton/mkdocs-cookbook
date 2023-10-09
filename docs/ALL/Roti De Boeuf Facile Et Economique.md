@@ -27,7 +27,7 @@ ingredients:
   - thym seche
 ---
 
-![[Pasted image 20230918165431.png]]
+![[image_80.png]]
 
 **Paru dans le Magazine RICARDO Volume 3 Numéro 2** (p. 71)
 

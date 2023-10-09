@@ -31,7 +31,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002103344.png]]
+![[image_678.png]]
 ###### *RELATED* : 
 ---
 Healthy, loaded with proteins, and dairy-free, these Gluten-Free Quinoa Bread Buns are filling and nutritious, perfect for anyone with a food allergy or intolerance. With no kneading or proving time, they are super easy to make and you get delicious buns for burgers or sandwiches in very little time.

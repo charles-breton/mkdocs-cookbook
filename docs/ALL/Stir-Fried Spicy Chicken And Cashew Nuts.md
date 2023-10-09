@@ -23,7 +23,7 @@ source: Sophie
 link: "Thai Cooking Made Easy - WeiChuan : p. 40"
 ---
 ![[20231001_150531.jpg]]
-![[Pasted image 20231002142115.png]]
+![[image_730.png]]
 
 ---
 ## NOTES

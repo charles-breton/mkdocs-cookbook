@@ -18,7 +18,7 @@ ingredients:
   - brussels sprouts
 ---
 
-![[Pasted image 20230926155732.png]]
+![[image_397.png]]
 ###### *RELATED* : 
 ---
 

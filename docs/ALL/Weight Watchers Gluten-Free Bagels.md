@@ -27,7 +27,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001235939.png]]
+![[image_660.png]]
 ###### *RELATED* : 
 ---
 Made with the famous gluten free 2 ingredient dough, these gluten free Weight Watchers-style gluten free bagels have only 3 WW points per serving, and are delightfully chewy and yeasty tasting—without any yeast.

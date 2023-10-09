@@ -32,7 +32,7 @@ ingredients:
   - sesame seeds
 ---
 
-![[Pasted image 20230918180457.png]]
+![[image_101.png]]
 
 This fast and easy Beef and Cabbage Stir Fry is a filling low carb dinner with big flavor and endless possibilities for customization.
 
@@ -100,7 +100,7 @@ Add the cabbage and carrots to the skillet and continue to stir and cook until t
 
 ## NUTRITIONS
 
-![[Pasted image 20230918180918.png]]
+![[image_102.png]]
 
 ## NOTES
 

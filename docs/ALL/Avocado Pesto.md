@@ -70,7 +70,7 @@ ingredients:
 
 Serving Size 1/4 cup
 
-![[Pasted image 20230918223137.png]]
+![[image_110.png]]
 * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
 
 ## NOTES

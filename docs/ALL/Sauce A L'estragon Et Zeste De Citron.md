@@ -23,7 +23,7 @@ servings: 300 ml
 calories:
 ---
 
-![[Pasted image 20230913232025.png]]
+![[image_26.png]]
 
 ## NOTES
 

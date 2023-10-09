@@ -24,7 +24,7 @@ ingredients:
   - butter
 ---
 
-![[Pasted image 20230925180403.png]]
+![[image_353.png]]
 ###### *RELATED* : 
 ---
 These are the five ingredients for my Fat Bombs, which you stir together well

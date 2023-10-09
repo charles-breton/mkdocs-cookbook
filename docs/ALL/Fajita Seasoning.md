@@ -26,7 +26,7 @@ ingredients:
   - cayenne pepper
 ---
 
-![[Pasted image 20230929142849.png]]
+![[image_550.png]]
 ###### *RELATED* : 
 ---
 This is a great recipe to make your own fajita seasoning for chicken or beef fajitas. No bouillon cubes means this is perfect for vegetarians, too! Make up a larger batch and store in an airtight container for future use.
@@ -70,7 +70,7 @@ Yield: 3 tablespoons
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230929142644.png]]
+![[image_555.png]]
 
 ---
 ### *EXTRA* :

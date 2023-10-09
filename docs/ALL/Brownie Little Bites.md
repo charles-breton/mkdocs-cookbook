@@ -30,7 +30,7 @@ ingredients:
   - chocolate chips
 ---
 
-![[Pasted image 20230919131945.png]]
+![[image_165.png]]
 ###### *RELATED* : 
 ---
 Remember Little Bites? Those nostalgic snacks where you would get three in a bag and they were the best lunch snack? Well here's how to make them, but all-grown-up. Which means simple, nutritious, packed with rich flavor and delicious. Plus they are 100% flourless, no wheat flour, no almond flour, no oat flour, nothing!

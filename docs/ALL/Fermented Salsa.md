@@ -28,7 +28,7 @@ ingredients:
   - dried spices
 ---
 
-![[Pasted image 20230928111351.png]]
+![[image_505.png]]
 ###### *RELATED* : 
 ---
 

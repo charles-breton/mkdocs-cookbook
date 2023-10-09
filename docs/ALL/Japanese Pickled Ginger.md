@@ -22,7 +22,7 @@ ingredients:
   - sugar
 ---
 
-![[Pasted image 20230925210543.png]]
+![[image_365.png]]
 ###### *RELATED* : 
 ---
 Fresh pickled ginger makes a versatile condiment and the ultimate sashimi partner.

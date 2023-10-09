@@ -26,7 +26,7 @@ ingredients:
   - ice cream
 ---
 
-![[Pasted image 20230920203458.png]]
+![[image_271.png]]
 ###### *RELATED* : 
 ---
 **Paru dans le Magazine RICARDO Volume 2 Numéro 4** (p. 24)

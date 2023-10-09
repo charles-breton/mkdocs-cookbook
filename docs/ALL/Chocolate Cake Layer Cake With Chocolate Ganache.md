@@ -34,7 +34,7 @@ ingredients:
   - coconut milk
 ---
 
-![[Pasted image 20230921141939.png]]
+![[image_300.png]]
 ###### *RELATED* : 
 ---
 Sweet Laurel’s [two-ingredient ice cream](http://thechalkboardmag.com/two-ingredient-raw-dairy-free-ice-cream-from-sweet-laurel-bakery) and now this – the chocolate cake that changes everything.

@@ -24,7 +24,7 @@ ingredients:
   - potato starch
 ---
 \
-![[Pasted image 20231002101248.png]]
+![[image_671.png]]
 ###### *RELATED* : 
 ---
 Making your own gluten free blend is simple and can be very cost effective.  Everyone has their own favorite gluten free flour blend.  Store bought blends tends to lack nutrition in my opinion.  Not to mention flavor and texture.

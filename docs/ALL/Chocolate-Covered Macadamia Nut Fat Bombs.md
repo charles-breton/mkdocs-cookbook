@@ -23,7 +23,7 @@ ingredients:
   - macadamia nuts
 ---
 
-![[Pasted image 20230925141542.png]]
+![[image_349.png]]
 ###### *RELATED* : 
 ---
 Macadamia nuts are arguably one of the most [ketogenic](https://www.dietdoctor.com/low-carb/keto) nuts. The only thing that could possibly make them better is — you guessed it — dark chocolate! These fat bombs are salty, sweet, and absolutely delicious.

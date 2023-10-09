@@ -36,7 +36,7 @@ ingredients:
   - cilantro
 ---
 
-![[Pasted image 20230927215141.png]]
+![[image_482.png]]
 ###### *RELATED* : 
 ---
 Introducing one secret ingredient to make your Chinese Chicken Salad dressing creamy, nutty, and extra addictive! The salad is big enough for a light dinner for two, or a side dish for four.

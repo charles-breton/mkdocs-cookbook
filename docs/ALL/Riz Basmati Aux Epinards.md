@@ -20,7 +20,7 @@ ingredients:
   - oignons
 ---
 
-![[Pasted image 20230924183724.png]]
+![[image_311.png]]
 ###### *RELATED* : 
 ---
 Parmi les plus parfumés au monde, le riz basmati dépayse à lui seul les papilles. On ajoute des épinards et des oignons verts, et voilà qu'il prend une tout autre allure dans l'assiette!

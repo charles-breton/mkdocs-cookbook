@@ -100,7 +100,7 @@ The most tender and flavorful Korean steak bites cooked on the stovetop or in th
 
 ## NUTRITIONS
 
-![[Pasted image 20230918161322.png]]
+![[image_72.png]]
 
 
 ## NOTES

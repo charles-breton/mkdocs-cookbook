@@ -81,7 +81,7 @@ Remove from the oven and let rest for 10 minutes. Slice and serve.
 
 ## NUTRITIONS
 
-![[Pasted image 20230918184209.png]]
+![[image_104.png]]
 
 ## NOTES
 

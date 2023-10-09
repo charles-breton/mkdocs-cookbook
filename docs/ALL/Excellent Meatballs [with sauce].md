@@ -35,7 +35,7 @@ ingredients:
   - tomatoes
 ---
 
-![[Pasted image 20230918162431.png]]
+![[image_75.png]]
 
 ## PREP
 

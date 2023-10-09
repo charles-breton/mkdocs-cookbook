@@ -32,7 +32,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002120609.png]]
+![[image_717.png]]
 ###### *RELATED* : 
 ---
 A light and fluffy Keto naan bread to go with your favourite Indian curry! This low carb coconut naan is egg free and gluten-free. Ready in only 17 minutes!

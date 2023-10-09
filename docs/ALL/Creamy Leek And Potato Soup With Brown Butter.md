@@ -28,7 +28,7 @@ ingredients:
   - pine nuts
 ---
 
-![[Pasted image 20231001111236.png]]
+![[image_565.png]]
 ###### *RELATED* : 
 ---
 _If you're sharing in the 26-degree, snow, and no-sun-in-sight chills, our_ _**Creamy Leek and Potato Soup**_ _may be just the thing to warm you from your toes all the way to your cheeks. Our version of a Leek and Potato Soup includes all of the star ingredients you'd normally see, but we take it up a notch with notes of brown butter, shallot and a pop acid at the end. Adding a sprinkling of crunchy fried brown butter pine nuts and leeks as the finishing touch not only adds a pop of texture and flavor with each bite, but truly makes this Creamy Leek and Potato Soup restaurant quality._

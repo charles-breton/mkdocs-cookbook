@@ -27,7 +27,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002102929.png]]
+![[image_676.png]]
 ###### *RELATED* : 
 ---
 From simple, easy-to-use step by step instructions for how to build your own all purpose gluten free flour blend from scratch for baking at home, to copycat versions of popular ready made blends. It’s all here!

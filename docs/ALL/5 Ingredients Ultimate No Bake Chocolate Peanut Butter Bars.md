@@ -28,7 +28,7 @@ ingredients:
   - peanuts
 ---
 
-![[Pasted image 20230925144250.png]]
+![[image_350.png]]
 ###### *RELATED* : 
 ---
 5 Ingredient Ultimate No Bake Chocolate Peanut Butter Bars Recipe (V, GF): The ULTIMATE Reese’s peanut butter cup inspired dessert bar: thick layers of chocolate and peanut butter topped with crunchy peanuts and velvety chocolate drizzle.  Vegan, Healthy Desserts, Gluten-Free, Dairy-Free, Protein-Rich.

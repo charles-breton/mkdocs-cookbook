@@ -22,7 +22,7 @@ ingredients:
   - vanille
   - cannelle
 ---
-![[Pasted image 20230920135936.png]]
+![[image_239.png]]
 ###### *RELATED* : 
 ---
 
@@ -44,9 +44,9 @@ ingredients:
 ---
 # INSTRUCTIONS
 
-![[Pasted image 20230920140003.png]]
+![[image_240.png]]
 1. Dans une casserole, mettez le sucre de canne, la gousse de vanille fendue en deux, la cannelle et la muscade
-![[Pasted image 20230920140125.png]]
+![[image_241.png]]
 2. Ajoutez l’eau et mettez a fondre et infuser l'ensemble sur petit feu pendant 40 minutes jusqu’a obtenir une texture qui nappe la cuillére.
 3. NB : si votre feu est trop fort, votre sirop peut réduire plus que nécessaire. Dans ce cas, ajustez en ajoutant de l’eau.
 

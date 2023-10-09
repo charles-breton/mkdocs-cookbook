@@ -25,7 +25,7 @@ ingredients:
   - green olives
 ---
 
-![[Pasted image 20230926120445.png]]
+![[image_377.png]]
 ###### *RELATED* : 
 ---
 

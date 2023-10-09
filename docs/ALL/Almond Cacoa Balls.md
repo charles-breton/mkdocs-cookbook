@@ -26,7 +26,7 @@ ingredients:
   - sea salt
 ---
 
-![[Pasted image 20230925182505.png]]
+![[image_355.png]]
 ###### *RELATED* : 
 ---
 These are gorgeously sweet from the intense vanilla powder and have so much chocolatey goodness from the rich cacao powder and sea salt. They’re full of Vitamin E and antioxidants and they’re the dream for any chocolate lover.[](https://z89d0b.n3cdn1.secureserver.net/wp-content/uploads/2017/06/Almond-cacao-balls-1.jpg)

@@ -31,7 +31,7 @@ ingredients:
   - liquid smoke
 ---
 
-![[Pasted image 20230927200853.png]]
+![[image_473.png]]
 ###### *RELATED* : 
 ---
 _This homemade Canadian bacon made of cured pork loin with mild maple and sage flavours eclipses any commercially available Canadian bacon I’ve ever had in my entire life._

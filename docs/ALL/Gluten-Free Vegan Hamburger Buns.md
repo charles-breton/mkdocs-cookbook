@@ -30,7 +30,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002100645.png]]
+![[image_670.png]]
 ###### *RELATED* : 
 ---
 Soft Gluten Free Hamburger Buns that are egg free, dairy free and Vegan don’t seem real, BUT they are!  Finally enjoy a soft bun again while managing food allergies!

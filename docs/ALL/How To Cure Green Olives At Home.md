@@ -21,7 +21,7 @@ ingredients:
   - vinegar
 ---
 
-![[Pasted image 20230925213621.png]]
+![[image_366.png]]
 ###### *RELATED* : 
 ---
 This is a long-term, brine cure for green olives. It is very traditional and only requires time and a cool place, under 75°F. Know that olives started in fall are not normally ready until spring. Mold is normal. Skim it off.

@@ -27,7 +27,7 @@ ingredients:
   - parmesan
 ---
 
-![[Pasted image 20230926145127.png]]
+![[image_385.png]]
 ###### *RELATED* : 
 ---
 Oven-roasted broccoli with smashed garlic takes broccoli from basic to delicious in under 30 minutes. It’s a simple yet elegant side dish with just 5 ingredients.

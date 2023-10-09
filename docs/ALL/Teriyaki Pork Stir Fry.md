@@ -33,7 +33,7 @@ ingredients:
   - cornstarch
 ---
 
-![[Pasted image 20230927182718.png]]
+![[image_469.png]]
 ###### *RELATED* : 
 ---
 

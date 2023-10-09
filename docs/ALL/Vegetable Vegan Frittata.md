@@ -39,7 +39,7 @@ ingredients:
   - turmeric
 ---
 
-![[Pasted image 20230927143954.png]]
+![[image_436.png]]
 ###### *RELATED* : 
 ---
 This vegan vegetable frittata using a creamy tofu base is loaded with veggies. Perfect for a hearty breakfast/brunch and leftovers store well. Recipe adapted from [PETA](http://www.peta.org/recipes/vegan-vegetable-frittata/).
@@ -102,7 +102,7 @@ Nutritional information is calculated using water to saute, there is no oil acco
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230927144329.png]]
+![[image_437.png]]
 
 ---
 ### *EXTRA* :

@@ -37,7 +37,7 @@ ingredients:
   - mint
 ---
 
-![[Pasted image 20230919104354.png]]
+![[image_151.png]]
 ###### *RELATED* : 
 ---
  **Ultra refreshing**, **thick, creamy** and **absolutely delicious**, this instant paleo and keto chocolate milkshake totally tastes like ice cream! i.e. it’s bound to have you swooning!

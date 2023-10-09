@@ -27,7 +27,7 @@ ingredients:
   - salt
 ---
 
-![[Pasted image 20230919214834.png]]
+![[image_204.png]]
 ###### *RELATED* : 
 ---
 A velvety smooth chocolate mousse that’s guilt-free and loaded with superfoods and antioxidants. My purely delicious chocolate mousse is made from ripe avocado that is blended with [Naked Chocolat](https://secure.thehealthychef.com/shop/drinking-chocolate) and scented with pure Madagascan vanilla and a pinch of artisan sea salt. The addition of coconut cream will make the texture light and delicious.

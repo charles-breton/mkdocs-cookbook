@@ -18,8 +18,8 @@ calories:
 ingredients:
 ---
 
-![[Pasted image 20230927234546.png]]
-![[Pasted image 20230927234559.png]]
+![[image_493.png]]
+![[image_494.png]]
 ###### *RELATED* : 
 ---
 

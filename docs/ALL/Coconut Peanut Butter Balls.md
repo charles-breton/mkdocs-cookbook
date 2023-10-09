@@ -29,7 +29,7 @@ ingredients:
   - chocolate chips
 ---
 
-![[Pasted image 20230925122606.png]]
+![[image_334.png]]
 ###### *RELATED* : 
 ---
 All you need are four simple ingredients to make healthier coconutty peanut butter balls that kids and grownups will love. Make this easy recipe for a bite-size treat, on-the-go snack or easy homemade gift. You can swap the peanut butter for almond butter or even sunflower seed butter if you need a nut-free snack for school.
@@ -68,7 +68,7 @@ Tip: To melt chocolate, microwave on Medium for 1 minute. Stir, then continue mi
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230925122724.png]]
+![[image_335.png]]
 
 ---
 ### *EXTRA* :

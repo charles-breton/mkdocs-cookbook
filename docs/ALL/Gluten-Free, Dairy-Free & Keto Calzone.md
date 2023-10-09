@@ -28,7 +28,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002114735.png]]
+![[image_710.png]]
 ###### *RELATED* : 
 ---
 This gluten free and keto calzone pays **a great homage** to the classic Italian turnovers made with pizza dough. This one, however, uses our (dairy free!) [crazy keto dough](https://www.gnom-gnom.com/keto-dough/) to yield an awesome low carb dish.

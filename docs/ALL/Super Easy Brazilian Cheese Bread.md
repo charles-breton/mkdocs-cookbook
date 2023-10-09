@@ -27,7 +27,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002115620.png]]
+![[image_712.png]]
 ###### *RELATED* : 
 ---
 A gluten-free cheesy and chewy cheese puff made with Tapioca Flour.

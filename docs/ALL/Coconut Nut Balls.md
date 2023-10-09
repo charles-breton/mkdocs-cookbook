@@ -30,7 +30,7 @@ ingredients:
   - coconut butter
 ---
 
-![[Pasted image 20230925144831.png]]
+![[image_351.png]]
 ###### *RELATED* : 
 ---
 THESE COCONUT NUT BALLS ARE PERFECT FOR ON THE GO SNACKING AND FULL OF HEALTHY FATS AND PROTEIN.

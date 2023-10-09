@@ -32,7 +32,7 @@ equipments:
   - parchment paper
 ---
 
-![[Pasted image 20231002000135.png]]
+![[image_661.png]]
 ###### *RELATED* : 
 ---
 My Gluten Free French Bread will satisfy all your cravings without the gluten or grains! With the perfect crunchy crust, this delicious paleo French Bread is just begging for a smear of butter or to made into a sandwich! This is a grain-free, dairy-free and vegetarian friendly recipe.

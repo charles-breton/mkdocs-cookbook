@@ -24,7 +24,7 @@ ingredients:
   - maple syrup
 ---
 
-![[Pasted image 20230925183907.png]]
+![[image_359.png]]
 ###### *RELATED* : 
 ---
 

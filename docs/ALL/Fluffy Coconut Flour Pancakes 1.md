@@ -29,7 +29,7 @@ ingredients:
   - vanilla extract
 ---
 
-![[Pasted image 20230919111159.png]]
+![[image_155.png]]
 ###### *RELATED* : 
 ---
 These pancakes are extremely thick and fluffy owing to the egg whites. The combination of coconut flour and egg whites delivers an ultra-fluffy and filling pancake. The benefits of coconut flour are endless. It aids in a healthy metabolism, its high in fibre, it helps maintain healthy blood sugar levels and it helps maintain good digestive health.

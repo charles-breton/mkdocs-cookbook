@@ -27,7 +27,7 @@ ingredients:
 ---
 
 ![[_default.png]]
-###### *RELATED* : 
+###### *RELATED* : [[Boeuf A La Mode]]
 ---
 
 

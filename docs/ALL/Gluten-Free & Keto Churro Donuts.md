@@ -35,7 +35,7 @@ ingredients:
   - chocolate sauce
 ---
 
-![[Pasted image 20230919134318.png]]
+![[image_172.png]]
 ###### *RELATED* : 
 ---
 **Puffy** and **lightly crisp**, these keto churro donuts are one incredible low carb dessert… at **just 1g net carb** a pop!

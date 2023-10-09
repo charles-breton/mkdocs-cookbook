@@ -32,7 +32,7 @@ ingredients:
   - rice wine vinegar
 ---
 
-![[Pasted image 20230927183135.png]]
+![[image_470.png]]
 ###### *RELATED* : 
 ---
 Pork Belly Appetizer recipe, Slow Roasted Pork Belly Bites over Jalapeno Slaw. Delicious!

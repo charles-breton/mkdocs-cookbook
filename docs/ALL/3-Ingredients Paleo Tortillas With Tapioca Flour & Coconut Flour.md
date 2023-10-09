@@ -24,7 +24,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231001230152.png]]
+![[image_642.png]]
 ###### *RELATED* : 
 ---
 A paleo tortilla recipe with just 3 INGREDIENTS! You won't believe how flexible and soft these paleo tortillas with coconut flour and tapioca flour are.
@@ -66,7 +66,7 @@ Total Time 37 minutes
 ---
 ## NUTRITIONS
 
-![[Pasted image 20231001230356.png]]
+![[image_643.png]]
 
 ---
 ### *EXTRA* :

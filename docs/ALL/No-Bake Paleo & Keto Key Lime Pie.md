@@ -31,7 +31,7 @@ ingredients:
   - lime
 ---
 
-![[Pasted image 20230919222527.png]]
+![[image_211.png]]
 ###### *RELATED* : 
 ---
 **No-bake**, **no-fuss**! This gluten free, paleo and keto key lime pie is extra creamy, citrusy and with all good-for-you ingredients!

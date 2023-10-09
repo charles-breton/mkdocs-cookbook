@@ -39,7 +39,7 @@ ingredients:
   - creme
 ---
 
-![[Pasted image 20230929142014.png]]
+![[image_549.png]]
 ###### *RELATED* : 
 ---
 

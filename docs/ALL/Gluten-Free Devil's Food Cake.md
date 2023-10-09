@@ -30,7 +30,7 @@ ingredients:
   - salt
 ---
 
-![[Pasted image 20230921134524.png]]
+![[image_294.png]]
 ###### *RELATED* : 
 ---
 If you love chocolate, this gluten free devil's food cake recipe will be for you! This cake is made the old-fashioned way from my Grandma's delicious recipe. It has rich dark chocolate flavors are in every bite you take of this **gluten free devil's food cake**_._

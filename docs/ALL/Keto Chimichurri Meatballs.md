@@ -28,7 +28,7 @@ ingredients:
   - red pepper flakes
 ---
 
-![[Pasted image 20230918172009.png]]
+![[image_89.png]]
 
 ## PREP
 

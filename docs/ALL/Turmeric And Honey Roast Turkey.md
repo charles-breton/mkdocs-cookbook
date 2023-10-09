@@ -29,7 +29,7 @@ ingredients:
   - garlic
 ---
 
-![[Pasted image 20230929135738.png]]
+![[image_539.png]]
 ###### *RELATED* : 
 ---
 Roast turkey has been a major focal point of holiday celebrations, most especially in the U.S. According to the University of Illinois Extension, Americans consume roughly 46 million turkeys annually during Thanksgiving, 22 million during Christmas and 19 million during Easter.1
@@ -69,19 +69,19 @@ Total time: **2 hours and 50 minutes**
 # INSTRUCTIONS
 
 1. Begin by thawing the turkey according to package directions.|
-![[Pasted image 20230929135847.png]]
+![[image_540.png]]
 2. Heat oven to 325 degrees F and move oven rack to the bottom. Remove giblets and rinse entire turkey with cool water. Pat dry with paper towel. Place turkey into roasting pan on rack. Neatly position wings behind turkey.
 3. Place sprigs of rosemary in cavity of turkey. Mix together sage, thyme, onion powder, sea salt and black pepper in a small bowl.
-![[Pasted image 20230929135929.png]]
+![[image_541.png]]
 4. Use fingers to lift the skin of the turkey near the thighs and rub grass fed butter underneath as well as on top. Next, rub dry seasoning under the skin and all over the top of turkey. Pour turkey broth into pan.
 5. Insert an oven-safe meat thermometer into the thickest part of the thigh without touching bone. Place turkey in oven and roast for one hour, uncovered.
-![[Pasted image 20230929140045.png]]
+![[image_542.png]]
 6. Carefully remove turkey from oven. Baste turkey with broth. If you find that the broth has evaporated, add 2 cups of broth to the pan, allow it to mix with the drippings, and then baste as normal.
 7. Place the lid on the roasting pan and return to the oven
 8. Continue to cook the turkey, basting every 45 minutes until the thermometer reaches 165 degrees F. Cooking time will vary with the size of turkey (the rule of thumb is 13 minutes per pound).
-![[Pasted image 20230929140118.png]]
+![[image_543.png]]
 9. Melt grass fed butter for glaze over medium/low heat, stir in honey, turmeric, garlic and sea salt until smooth. Use a basting brush to cover turkey with glaze. Return turkey to oven for 20 minutes, uncovered.
-![[Pasted image 20230929140135.png]]
+![[image_544.png]]
 10. Allow turkey to rest 20 minutes before carving.
 
 ---

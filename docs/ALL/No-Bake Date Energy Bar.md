@@ -29,7 +29,7 @@ ingredients:
   - pumpkin seeds
 ---
 
-![[Pasted image 20230925131750.png]]
+![[image_342.png]]
 ###### *RELATED* : 
 ---
 These no-bake date energy bar are loaded with natural ingredients like dates, walnut, almonds, and nuts like pumpkin seeds and sunflower seeds. Being no-bake, they require very less time to prepare. Just get all ingredients in a food processor, pulse them for about 1-2 minutes and set them in a baking pan. Leave them overnight in the fridge to set in and cut them in the desired shape.

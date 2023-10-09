@@ -25,7 +25,7 @@ ingredients:
   - lemon
 ---
 
-![[Pasted image 20230929140900.png]]
+![[image_546.png]]
 ###### *RELATED* : 
 ---
 

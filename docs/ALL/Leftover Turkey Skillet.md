@@ -24,7 +24,7 @@ ingredients:
   - turkey
 ---
 
-![[Pasted image 20230929144949.png]]
+![[image_552.png]]
 ###### *RELATED* : 
 ---
 Turkey has always been a traditional part of Thanksgiving dinner, often served with vegetables and a side of cranberry sauce.1 It is usually roasted to golden perfection, making it an appetizing centerpiece of holiday feasts.

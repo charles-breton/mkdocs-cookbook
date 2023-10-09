@@ -27,7 +27,7 @@ ingredients:
   - dry mustard
 ---
 
-![[Pasted image 20231001000141.png]]
+![[image_561.png]]
 ###### *RELATED* : 
 ---
 

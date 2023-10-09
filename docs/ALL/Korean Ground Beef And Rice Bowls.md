@@ -34,7 +34,7 @@ ingredients:
   - red pepper flakes
 ---
 
-![[Pasted image 20230918160110.png]]
+![[image_71.png]]
 
 Korean Ground Beef and Rice Bowls is a 30 minute, healthy ground beef recipe full of vegetables, Asian flavored sauce, then served over hearty brown rice or go low carb with cauliflower rice. This weeknight dinner is easily customizable and will have your family going for seconds!
 

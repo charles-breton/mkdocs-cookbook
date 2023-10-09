@@ -29,7 +29,7 @@ ingredients:
   - cocoa powder
 ---
 
-![[Pasted image 20230919152913.png]]
+![[image_190.png]]
 ###### *RELATED* : 
 ---
 Classic tiramisu, with its irresistible coffee flavor and lightly sweetened mascarpone, will never go out of style. This tiramisu recipe is a no-bake dessert that's sure to impress even the pickiest of eaters.
@@ -61,16 +61,16 @@ Total Time:5 hrs 35 mins
 
 1. Whisk together egg yolks and sugar in a medium saucepan until well blended.
 2. Whisk in milk and cook over medium heat, stirring constantly, until mixture comes to a boil.
-![[Pasted image 20230919153157.png]]
+![[image_192.png]]
 3. Boil gently for 1 minute, then remove from the heat and allow to cool slightly.
 4. Cover tightly and chill in the refrigerator for 1 hour.
 5. Beat cream and vanilla in a medium bowl with an electric mixer until stiff peaks form.
-![[Pasted image 20230919153236.png]]
+![[image_193.png]]
 6. Remove egg yolk mixture from the refrigerator; add mascarpone cheese and whisk until smooth.
 7. Combine coffee and rum in a small bowl. Split ladyfingers in half lengthwise and drizzle with the coffee mixture. Arrange 1/2 of the soaked ladyfingers in the bottom of a 7x11-inch dish.
-![[Pasted image 20230919153304.png]]
+![[image_194.png]]
 8. Spread 1/2 of the mascarpone mixture over the ladyfingers, then spread 1/2 of the whipped cream over top. Repeat layers once more.
-![[Pasted image 20230919153328.png]]
+![[image_196.png]]
 9. Sprinkle cocoa powder over top.
 10. Cover and refrigerate until set, 4 to 6 hours.
 11. Enjoy!
@@ -88,7 +88,7 @@ Total Time:5 hrs 35 mins
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230919152931.png]]
+![[image_191.png]]
 
 ---
 ### *EXTRA* :

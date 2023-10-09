@@ -27,7 +27,7 @@ ingredients:
   - garlic
 ---
 
-![[Pasted image 20230927221606.png]]
+![[image_484.png]]
 ###### *RELATED* : 
 ---
 The best salad I've had in the past year was a cilantro salad. Meaning, no other lettuces. None. Unless you absolutely loathe cilantro, you 100% must try it. It is made with cilantro leaves and stems tossed with a simple shallot-forward soy sauce dressing, plus peanuts. I’ll often add asparagus.

@@ -27,7 +27,7 @@ ingredients:
   - green beans
 ---
 
-![[Pasted image 20230929134125.png]]
+![[image_537.png]]
 ###### *RELATED* : 
 ---
 _This Slow Cooker Honey Garlic Chicken features succulent chicken thighs and vegetables in a sticky honey garlic sauce. It’s an easy crockpot chicken recipe that only need 15 minutes of prep before the slow cooker goes to work._
@@ -93,7 +93,7 @@ total time: 3 HRS 15 MINS
 ---
 ## NUTRITIONS
 
-![[Pasted image 20230929134439.png]]
+![[image_538.png]]
 
 ---
 ### *EXTRA* :

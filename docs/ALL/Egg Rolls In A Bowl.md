@@ -8,7 +8,7 @@ tags:
 genre:
   - legume
 rating: 
-desc: 
+desc: LOW CARB PORK EGG ROLL IN A BOWL (CRACK SLAW)
 ingredients:
   - porc
   - soy sauce
@@ -22,6 +22,8 @@ link: https://peaceloveandlowcarb.com/pork-egg-roll-in-a-bowl-crack-slaw-paleo-l
 ---
 
 ![A white serving dish filled with egg roll in a bowl, garnished with green onions and sriracha](https://peaceloveandlowcarb.com/wp-content/uploads/2021/02/DSC_1805-2.jpg)
+
+LOW CARB PORK EGG ROLL IN A BOWL (CRACK SLAW)
 
 _**Keto Egg Roll in a Bowl** is the perfect quick and easy **one pot meal**. Juicy ground pork, hearty cabbage, onion, garlic and ginger, sautéed with toasted sesame oil, rice vinegar, and soy sauce, topped with green onions, sesame seeds and sriracha. Best if all it can be ready in **less than 30 minutes**. Take it to the next level by serving it with [Keto Yum Yum Sauce](https://peaceloveandlowcarb.com/keto-yum-yum-sauce/)_
 
@@ -48,7 +50,7 @@ _**Keto Egg Roll in a Bowl** is the perfect quick and easy **one pot meal**. J
 
 ## STEP BY STEP INSTRUCTIONS
 
-![[Pasted image 20230910223046.png]]
+![[image_3.png]]
 
 
 **STEP 1:** Heat the sesame oil in a large skillet over medium high heat.  
@@ -60,7 +62,7 @@ _**Keto Egg Roll in a Bowl** is the perfect quick and easy **one pot meal**. J
 **STEP 4:** Add the ground pork, ginger, salt, pepper and Sriracha.
 
 
-![[Pasted image 20230910223101.png]]
+![[image_4.png]]
 
 
 **STEP 5:** Sauté the pork until it is cooked through.  

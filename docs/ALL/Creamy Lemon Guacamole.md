@@ -29,7 +29,7 @@ ingredients:
   - celery
 ---
 
-![[Pasted image 20230928104704.png]]
+![[image_503.png]]
 ###### *RELATED* : 
 
 

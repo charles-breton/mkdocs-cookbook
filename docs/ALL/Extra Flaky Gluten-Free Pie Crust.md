@@ -17,7 +17,7 @@ calories:
 ingredients:
 ---
 
-![[Pasted image 20230930230204.png]]
+![[image_560.png]]
 ###### *RELATED* : 
 ---
 Prepare an extra flaky, gluten free pie crust when you follow this recipe. Whatever pie you're craving, this is the only gf pie crust recipe you need.

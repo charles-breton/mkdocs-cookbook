@@ -30,7 +30,7 @@ ingredients:
   - vodka
 ---
 
-![[Pasted image 20230918231941.png]]
+![[image_114.png]]
 ###### *RELATED* : 
 
 This no-churn paleo and keto vanilla ice cream is ridiculously creamy and fragrant. Plus, it won't freeze rock solid, like your usual homemade low carb ice cream!

@@ -34,7 +34,7 @@ ingredients:
   - cheese
 ---
 
-![[Pasted image 20230926204008.png]]
+![[image_409.png]]
 ###### *RELATED* : 
 ---
 Rich and hearty — these two words best describe what Italian cuisine is all about. The Italians know how to take simple ingredients and combine them to make a stellar dish.

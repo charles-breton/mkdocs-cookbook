@@ -17,7 +17,7 @@ calories:
 ingredients:
 ---
 
-![[Pasted image 20230929114644.png]]
+![[image_525.png]]
 ###### *RELATED* : 
 ---
 This isn’t the crisp-skinned, high-heat roast chicken you’re probably familiar with. Instead, it’s a melt-in-your-mouth tender, schmaltzy, slow-roast version that’s more similar to rotisserie chicken—except (bonus!) it gets slathered in the funky-spicy-sweet gochujang. And while the meat might be the star of the show, don't discount those buttery-soft, nearly-confited potatoes, which cook gently in the chicken fat. Makes you wonder why you haven't _always_ been roasting long-cooking vegetables—carrots, cauliflower, turnips (?!), winter squash, fennel—under the bird for a built-in side, huh?

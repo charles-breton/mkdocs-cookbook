@@ -22,7 +22,7 @@ ingredients:
   - lime
 ---
 
-![[Pasted image 20230926221612.png]]
+![[image_419.png]]
 ###### *RELATED* : 
 ---
 This recipe may come as a shock to you, but today I’m going to show you how to make tortillas out of cauliflower… yes, these are **Cauliflower Tortillas**!

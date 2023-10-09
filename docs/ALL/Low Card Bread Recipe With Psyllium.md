@@ -27,7 +27,7 @@ ingredients:
 equipments: scale
 ---
 
-![[Pasted image 20231001210706.png]]
+![[image_610.png]]
 ###### *RELATED* : 
 ---
 _This is the best low carb bread recipe with psyllium and flax I have ever had. Amazing! An easy ketogenic bread recipe that makes a beautiful loaf and tastes like sourdough bread. 3 net carbs per slice._
@@ -95,7 +95,7 @@ One commenter mentioned that removing the bread from the pan after cooking and p
 ---
 ## NUTRITIONS
 
-![[Pasted image 20231001211010.png]]
+![[image_612.png]]
 
 ---
 ### *EXTRA* :

@@ -25,7 +25,7 @@ ingredients:
 equipments:
 ---
 
-![[Pasted image 20231002010304.png]]
+![[image_665.png]]
 ###### *RELATED* : 
 ---
 Craving bread?! Whip up these easy and scrumptious garlic keto breadsticks in a jiffy! Think just 2g net carbs a pop (and dairy free too!).

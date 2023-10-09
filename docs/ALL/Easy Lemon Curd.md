@@ -27,7 +27,7 @@ ingredients:
   - ghee
 ---
 
-![[Pasted image 20230920120322.png]]
+![[image_225.png]]
 ###### *RELATED* : 
 ---
 Every time I think of lemons, my mouth waters.  Tangy and tart.  I love them.  And I especially love them in desserts.  And here’s the easiest lemon desert of them all:  **Lemon Curd.**
