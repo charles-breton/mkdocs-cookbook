@@ -28,6 +28,17 @@ theme:
       primary: orange
       accent: yellow
 
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
+  - offline
+
+    
+
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:
@@ -47,6 +58,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - style.css
 
 copyright: |
   &copy; 2023 <a href="https://example.com"  target="_blank" rel="noopener">BRETON</a>

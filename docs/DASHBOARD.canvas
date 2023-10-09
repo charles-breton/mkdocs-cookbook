@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"889f16d360e7cc0e","type":"file","file":"HELP/_setup/SEARCH.md","x":-1825,"y":-1357,"width":425,"height":677},
+		{"id":"e720c9141a17ee18","type":"file","file":"HELP/_setup/FILE INFO.md","x":-1825,"y":-640,"width":425,"height":277},
+		{"id":"62626a3aa2475ee8","type":"file","file":"HELP/_setup/CREATIONS.md","x":-1360,"y":-1357,"width":425,"height":677},
+		{"id":"ffeba0fb4c08b8eb","type":"file","file":"HELP/_setup/PANELS LOCATION.md","x":-880,"y":-1357,"width":425,"height":677},
+		{"id":"fca85c7634d9946d","type":"file","file":"HELP/_setup/NAVIGATION.md","x":-400,"y":-1357,"width":425,"height":677},
+		{"id":"9470087a271c4425","type":"file","file":"HELP/_setup/SHORTCUTS.md","x":-1360,"y":-640,"width":425,"height":277},
+		{"id":"b33f7408cb83415b","type":"file","file":"HELP/_setup/PLUGINS.md","x":-880,"y":-640,"width":425,"height":277},
+		{"id":"096357e770111dc0","type":"file","file":"HELP/_setup/SECTIONS.md","x":-2280,"y":-1357,"width":425,"height":677},
+		{"id":"c7352545f3be5bca","x":-400,"y":-640,"width":425,"height":277,"type":"file","file":"HELP/_setup/WORKSPACES.md"}
+	],
+	"edges":[]
+}
