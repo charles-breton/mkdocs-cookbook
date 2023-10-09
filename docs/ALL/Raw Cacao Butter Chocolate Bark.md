@@ -33,7 +33,8 @@ ingredients:
   - saucepan
 ---
 
-![[image_345.png]]
+![IMAGE](image_345.png)
+
 ###### *RELATED* : 
 ---
 This Paleo friendly, amazing raw dark chocolate bark is made with raw cacao butter, raw cacao powder, vanilla and other yummy goodies.

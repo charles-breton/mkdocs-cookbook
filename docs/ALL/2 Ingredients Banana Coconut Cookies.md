@@ -28,7 +28,8 @@ ingredients:
   - coconut
 ---
 
-![[image_220.png]]
+![IMAGE](image_220.png)
+
 ###### *RELATED* : 
 ---
 These 2-Ingredient Banana Coconut Cookies are the ultimate simple treat. They contain no gluten, grains, dairy, eggs, nuts or added sugar, and are so quick and easy to make (requiring only a bowl, a spoon, and a baking pan).

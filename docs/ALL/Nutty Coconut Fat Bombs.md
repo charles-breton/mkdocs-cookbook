@@ -34,7 +34,8 @@ ingredients:
   - coconut oil
 ---
 
-![[image_361.png]]
+![IMAGE](image_361.png)
+
 ###### *RELATED* : 
 ---
 These Nutty Coconut Fat Bombs are an easy-to-make snack that's filling, full of healthy fats, and absolutely delicious! It's a no-bake recipe that's gluten-free, paleo, keto, low carb, Whole30-friendly, and vegan.

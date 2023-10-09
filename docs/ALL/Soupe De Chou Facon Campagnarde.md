@@ -27,7 +27,8 @@ ingredients:
   - collagen
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 **C'est une soupe qui constituera un plat complet si vous lui ajoutez un morceau de lard ou de jambon fumé.**

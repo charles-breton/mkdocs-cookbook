@@ -50,7 +50,8 @@ _**Keto Egg Roll in a Bowl** is the perfect quick and easy **one pot meal**. J
 
 ## STEP BY STEP INSTRUCTIONS
 
-![[image_3.png]]
+![IMAGE](image_3.png)
+
 
 
 **STEP 1:** Heat the sesame oil in a large skillet over medium high heat.  
@@ -62,7 +63,8 @@ _**Keto Egg Roll in a Bowl** is the perfect quick and easy **one pot meal**. J
 **STEP 4:** Add the ground pork, ginger, salt, pepper and Sriracha.
 
 
-![[image_4.png]]
+![IMAGE](image_4.png)
+
 
 
 **STEP 5:** Sauté the pork until it is cooked through.  

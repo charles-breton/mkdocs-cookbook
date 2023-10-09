@@ -17,7 +17,8 @@ calories:
 ingredients:
 ---
 
-![[image_597.png]]
+![IMAGE](image_597.png)
+
 ###### *RELATED* : 
 ---
 

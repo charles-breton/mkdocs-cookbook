@@ -27,7 +27,8 @@ ingredients:
 equipments:
 ---
 
-![[image_608.png]]
+![IMAGE](image_608.png)
+
 ###### *RELATED* : 
 ---
 This **easy low-carb bread recipe** is quick to prepare when you want to have bread at home without the increase in cost. It's perfect to make a sandwich for lunch, or serve as a side with dinner.

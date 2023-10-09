@@ -20,7 +20,8 @@ ingredients:
 equipments:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 _While we are in social distancing mode, I wanted to share a recipe that would be a treat, with ingredients you could likely still find at the store, and that was nutrient-rich. Hopefully everyone has almond meal (almond flour) in their pantry, and if not most stores are still carrying it; you can also grind any nut in your pantry into nut flour using a food processor. Bananas, almond butter, and eggs appear to still be available in most stores._

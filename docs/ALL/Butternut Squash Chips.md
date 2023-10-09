@@ -23,7 +23,8 @@ ingredients:
   - salt
 ---
 
-![[image_417.png]]
+![IMAGE](image_417.png)
+
 ###### *RELATED* : 
 ---
 Healthy, crunchy butternut squash chips make a wonderful savory snack.

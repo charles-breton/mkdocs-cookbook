@@ -25,7 +25,8 @@ ingredients:
   - vanilla
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 The whipped method produces a really creamy bowl of oatmeal. The bananas basically disappear, so there are no chunks. Since banana is an emulsifier of sorts, this method suspends the oats into a thick, creamy consistency and the whole bowl is sweeter because the banana's sweetness permeates throughout.

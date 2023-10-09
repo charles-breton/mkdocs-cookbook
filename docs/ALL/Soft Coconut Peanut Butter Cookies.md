@@ -26,7 +26,8 @@ ingredients:
   - coconut sugar
 ---
 
-![[image_56.png]]
+![IMAGE](image_56.png)
+
 
 
 

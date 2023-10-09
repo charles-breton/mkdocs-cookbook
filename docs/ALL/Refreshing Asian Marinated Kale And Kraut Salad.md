@@ -31,7 +31,8 @@ ingredients:
   - Japanese pickles
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

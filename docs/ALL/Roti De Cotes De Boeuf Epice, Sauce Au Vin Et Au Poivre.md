@@ -27,7 +27,8 @@ ingredients:
   - sauce soja
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 ## PREP
 

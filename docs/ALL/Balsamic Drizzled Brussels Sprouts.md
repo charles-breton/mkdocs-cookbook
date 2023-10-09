@@ -23,7 +23,8 @@ ingredients:
   - balsamic vinegar
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

@@ -27,7 +27,8 @@ ingredients:
   - sumac
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 How to make hummus the traditional way. No fuss. No extra flavors added. Just a plain, classic homemade hummus recipe. And a couple of tricks will ensure you achieve the best hummus ever--thick, smooth, rich, and ultra creamy. Be sure to see the video tutorial as well.
@@ -84,7 +85,8 @@ How to make hummus the traditional way. No fuss. No extra flavors added. Just a 
 ---
 ## NUTRITIONS
 
-![[image_424.png]]
+![IMAGE](image_424.png)
+
 
 ---
 ### *EXTRA* :

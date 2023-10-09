@@ -19,7 +19,8 @@ ingredients:
   - huile de colza
 ---
 
-![[image_332.png]]
+![IMAGE](image_332.png)
+
 ###### *RELATED* : 
 ---
 

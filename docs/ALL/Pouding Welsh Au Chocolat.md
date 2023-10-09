@@ -30,7 +30,8 @@ ingredients:
   - jus de pomme
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

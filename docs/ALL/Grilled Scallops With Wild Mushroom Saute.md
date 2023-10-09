@@ -28,7 +28,8 @@ ingredients:
   - parsley
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 _I really enjoy grilled sea scallops especially when served with Mediterranean herbs and wild mushrooms. Select any mushroom that you enjoy. I recommend that you serve this with a green salad or a generous portion of green vegetables on the side._

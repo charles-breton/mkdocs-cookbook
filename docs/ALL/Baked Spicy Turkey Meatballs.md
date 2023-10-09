@@ -29,7 +29,8 @@ ingredients:
   - eggs
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 The recipe makes 12-14 meatballs depending on size, and I think it’s about 3-4 meatballs per serve.SCALE 1x2x3x

@@ -26,7 +26,8 @@ ingredients:
   - flakey sea salt
 ---
 
-![[image_43.png]]
+![IMAGE](image_43.png)
+
 
 ## NOTES
 

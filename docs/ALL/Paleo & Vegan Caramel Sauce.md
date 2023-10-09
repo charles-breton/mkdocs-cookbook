@@ -27,7 +27,8 @@ ingredients:
   - salt
 ---
 
-![[image_223.png]]
+![IMAGE](image_223.png)
+
 ###### *RELATED* : 
 ---
 This paleo & vegan caramel sauce is a true revelation. Healthy, dairy free and refined sugar free, it doesn’t quite seem possible – but it is. And it’s delicious. The recipe is incredibly quick and easy – 3 ingredients, 5 minutes and let’s say it’s single serving, shall we? Add a pinch of salt to make a vegan salted caramel sauce!

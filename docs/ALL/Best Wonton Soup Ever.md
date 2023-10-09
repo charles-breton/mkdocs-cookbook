@@ -30,7 +30,8 @@ ingredients:
   - snow peas
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 O.M.G. ... YOU MUST TRY THIS RECIPE! I have been wanting to make homemade wonton soup for SO long now and finally got to make it for my girlies last night and we all thought it was the BEST wonton soup we have ever had. It was actually pretty easy which surprised me and the flavor was incredible. Making the won tons was a bit time consuming but I though it was really fun... Here is the recipe which I found on [allrecipes.com](http://allrecipes.com/)!!!

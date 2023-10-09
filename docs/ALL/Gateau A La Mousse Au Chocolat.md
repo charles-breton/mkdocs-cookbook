@@ -21,7 +21,8 @@ ingredients:
   - creme
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Un gâteau riche, délicieux et facile à préparer. Si vous ne trouvez pas de doigts de dame, utilisez plutôt des tranches de gâteau éponge. Cette recette contient des œufs crus, elle peut donc ne pas convenir aux femmes enceintes, aux jeunes enfants ou aux personnes âgées.

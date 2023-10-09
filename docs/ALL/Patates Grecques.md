@@ -26,7 +26,8 @@ ingredients:
   - epices
 ---
 
-![[image_316.png]]
+![IMAGE](image_316.png)
+
 ###### *RELATED* : 
 ---
 

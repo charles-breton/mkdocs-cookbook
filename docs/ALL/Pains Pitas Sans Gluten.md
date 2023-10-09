@@ -30,7 +30,8 @@ ingredients:
 equipments:
 ---
 
-![[image_726.png]]
+![IMAGE](image_726.png)
+
 ###### *RELATED* : 
 ---
 Pour le défi — et parce qu’on ne voulait laisser personne en reste —, on a aussi développé une recette de pitas sans gluten. Plus près d’un pain plat que d’un pita de style grec (plus épais), quoique souple, il est aussi satisfaisant que son pendant à la farine de blé.

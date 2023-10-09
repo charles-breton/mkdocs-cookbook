@@ -30,7 +30,8 @@ ingredients:
   - eggs
 ---
 
-![[image_202.png]]
+![IMAGE](image_202.png)
+
 ###### *RELATED* : 
 ---
 Think of this crazy keto dough as **your (easy peasy!) master recipe**, good for anything from pizza, hot pockets, tortillas, pasta… and much, muuuuch more!

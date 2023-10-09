@@ -25,7 +25,8 @@ ingredients:
   - cucumber
 ---
 
-![[image_277.png]]
+![IMAGE](image_277.png)
+
 ###### *RELATED* : 
 ---
 

@@ -24,7 +24,8 @@ ingredients:
   - turmeric powder
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 You may want to wear gloves during the preparation, especially when handling hot peppers, because it is difficult to get the tingling off your hands! Be careful, its smell is very strong, and it may stimulate the sinuses instantly.

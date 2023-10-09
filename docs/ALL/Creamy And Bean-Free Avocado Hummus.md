@@ -27,7 +27,8 @@ ingredients:
   - dried cilantro
 ---
 
-![[image_433.png]]
+![IMAGE](image_433.png)
+
 ###### *RELATED* : 
 ---
 Hummus is a dip with Middle Eastern origins, and the word is actually a direct translation for chickpea.1 It is traditionally made by grinding together chickpeas, olive oil, garlic, tahini (sesame seed paste), lemon juice and salt.2

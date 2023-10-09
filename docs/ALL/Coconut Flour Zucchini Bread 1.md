@@ -35,7 +35,8 @@ equipments:
   - baking utensils
 ---
 
-![[image_681.png]]
+![IMAGE](image_681.png)
+
 ###### *RELATED* : 
 ---
 Here’s a delicious, gluten-free and Paleo-friendly way to enjoy the zucchini bounty. This coconut flour zucchini bread recipe also freezes well so you can enjoy it during the winter too!
@@ -88,7 +89,8 @@ TOTAL TIME1HOUR HR 10MINUTES MINS
 ---
 ## NUTRITIONS
 
-![[image_682.png]]
+![IMAGE](image_682.png)
+
 
 ---
 ### *EXTRA* :

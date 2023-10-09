@@ -31,7 +31,8 @@ ingredients:
   - apple cider
 ---
 
-![[image_480.png]]
+![IMAGE](image_480.png)
+
 ###### *RELATED* : 
 ---
 

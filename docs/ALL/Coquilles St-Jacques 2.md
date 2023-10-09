@@ -26,7 +26,8 @@ ingredients:
   - cheese
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 A classic of French cuisine, this scallop recipe for Coquilles St. Jacques, oven-baked in the shell, is our absolute best!

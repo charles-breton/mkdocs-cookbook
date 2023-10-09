@@ -24,7 +24,8 @@ ingredients:
   - garlic
 ---
 
-![[image_36.png]]
+![IMAGE](image_36.png)
+
 
 ## NOTES
 

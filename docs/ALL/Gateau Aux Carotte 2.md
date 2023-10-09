@@ -29,7 +29,8 @@ ingredients:
   - walnuts
 ---
 
-![[image_296.png]]
+![IMAGE](image_296.png)
+
 ###### *RELATED* : 
 ---
 Another deliciously moist vegetable- and nut-based cake. It doesn’t melt instantly in your mouth and spike your blood sugar, but gives you a bit more to chew on, leaving enough fiber to reach your microbiome. The cardamom adds a wonderful exotic aroma.

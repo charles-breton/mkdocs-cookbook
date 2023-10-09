@@ -20,7 +20,8 @@ calories:
 Link: http://aladistasio.telequebec.tv/recettes/recette.aspx?id=429 [BROKEN LINK]
 ---
  
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

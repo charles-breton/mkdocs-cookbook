@@ -28,7 +28,8 @@ ingredients:
 equipments:
 ---
 
-![[image_653.png]]
+![IMAGE](image_653.png)
+
 ###### *RELATED* : 
 ---
 _This Paleo Double Chocolate Banana Bread is perfectly moist and gooey with an incredibly deep chocolate flavor, and you’d never guess it’s sweetened entirely by ripe bananas._

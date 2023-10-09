@@ -30,7 +30,8 @@ ingredients:
   - sel
 ---
 
-![[image_508.png]]
+![IMAGE](image_508.png)
+
 ###### *RELATED* : 
 ---
 

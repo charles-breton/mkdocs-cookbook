@@ -27,7 +27,8 @@ ingredients:
   - orignal
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Pour réaliser cette recette, il est important que la viande d'orignal soit aussi bien hachée que le boeuf haché acheté à l'épicerie. Le mélange des saveurs ... description complète

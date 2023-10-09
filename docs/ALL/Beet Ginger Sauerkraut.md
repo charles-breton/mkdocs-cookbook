@@ -26,7 +26,8 @@ ingredients:
   - water
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Learn how simple it is to make probiotic-rich, raw, fermented Beet Ginger Sauerkraut at home with this easy to follow tutorial. Find out how!

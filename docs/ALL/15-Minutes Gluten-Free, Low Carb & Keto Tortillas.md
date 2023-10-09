@@ -34,6 +34,7 @@ equipments:
 ---
 
 ![IMAGE](image_686.png)
+
 ###### *RELATED* : 
 ---
 These (15-minute!) gluten free and keto tortillas are **super pliable**, **easy-peasy** and make **the best low carb tacos**… at just 2g net carbs a pop!

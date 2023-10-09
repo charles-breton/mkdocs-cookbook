@@ -32,7 +32,8 @@ ingredients:
   - arrowroot powder
 ---
 
-![[image_468.png]]
+![IMAGE](image_468.png)
+
 ###### *RELATED* : 
 ---
 You do gotta love the [instant pot](http://amzn.to/2FmKaJN) (or pressure cooker) for speeding up the cooking process, by _a lot_! So think of this as your lazy (and weeknight friendly!) bbq pulled pork.

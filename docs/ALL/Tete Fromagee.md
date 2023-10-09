@@ -30,7 +30,8 @@ ingredients:
   - persil frais
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

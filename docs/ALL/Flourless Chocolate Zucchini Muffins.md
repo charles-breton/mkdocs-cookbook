@@ -28,7 +28,8 @@ ingredients:
   - chocolate chips
 ---
 
-![[image_305.png]]
+![IMAGE](image_305.png)
+
 ###### *RELATED* : 
 ---
 _These flourless chocolate zucchini muffins are gluten-free, grain-free, oil-free, dairy-free, and refined sugar-free, but so soft and chocoately that you’d never be able to tell they’re healthy! Whipped up in the blender in under 5 minutes flat, they make a delicious breakfast or snack!_

@@ -21,7 +21,8 @@ ingredients:
   - almond
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 A quick and easy snack bar made with only 3 natural ingredients!

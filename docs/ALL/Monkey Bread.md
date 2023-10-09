@@ -24,7 +24,8 @@ ingredients:
   - cannelle
 ---
 
-![[image_511.png]]
+![IMAGE](image_511.png)
+
 ###### *RELATED* : 
 ---
 

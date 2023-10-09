@@ -29,7 +29,8 @@ ingredients:
   - maple syrup
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 "You've definitely never had pancakes like this because they're going to be the best you've ever had."

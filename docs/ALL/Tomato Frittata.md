@@ -26,7 +26,8 @@ ingredients:
   - feta
 ---
 
-![[image_444.png]]
+![IMAGE](image_444.png)
+
 ###### *RELATED* : 
 ---
 This frittata is lightened by using only half the egg yolks of traditional recipes.

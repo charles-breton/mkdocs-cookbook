@@ -21,7 +21,8 @@ ingredients:
   - black pepper
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 _Eat roasted garlic straight out of the cloves or spread onto warm bread. Mashing some into butter, sauces and creamy dips is also an excellent idea. You can use foil or parchment paper to roast garlic. If using parchment, you will need to secure the packets with kitchen twine._

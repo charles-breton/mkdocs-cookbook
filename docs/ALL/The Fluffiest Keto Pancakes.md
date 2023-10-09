@@ -32,7 +32,8 @@ ingredients:
   - syrup
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 We're talking extra fluffy, absolutely delicious and easy-peasy keto pancakes! An ideal breakfast treat with only 15 minutes active time and just 1g net carb a pop.

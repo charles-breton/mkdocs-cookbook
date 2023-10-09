@@ -18,7 +18,8 @@ source: Sophie
 servings: 195 ml
 calories:
 ---
-![[image_24.png]]
+![IMAGE](image_24.png)
+
 
 ## PREP
 

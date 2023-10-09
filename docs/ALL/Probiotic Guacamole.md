@@ -27,7 +27,8 @@ ingredients:
   - lime
 ---
 
-![[image_506.png]]
+![IMAGE](image_506.png)
+
 ###### *RELATED* : 
 ---
 

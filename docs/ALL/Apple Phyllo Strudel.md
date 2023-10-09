@@ -23,7 +23,8 @@ ingredients:
   - butter
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Ground almonds not only add flavour to the filling but also help soak up the sweet juices from the apples. Phyllo pastry makes a great and substantially less labour-intensive alternative to strudel pastry. If your apples are especially juicy, there may be extra liquid in the filling that could make the strudel soggy, so scoop the apples from the bowl and leave any juice behind.

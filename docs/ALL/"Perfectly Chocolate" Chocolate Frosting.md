@@ -24,7 +24,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_321.png]]
+![IMAGE](image_321.png)
+
 ###### *RELATED* : 
 ---
 With only five ingredients and five minutes of your time, you can make delicious “Perfectly Chocolate” Chocolate Frosting packed with just the right amount of HERSHEY’S cocoa. This quick and easy homemade chocolate frosting recipe is a great one to dive into with your little ones, and once it’s ready, the whole family can enjoy a frosted chocolate treat of your choosing. Easily spread this soft chocolate icing on cakes, cupcakes, brownies or dessert bars. We recommend a pairing with the delicious [[Hershey's "Perfectly Chocolate" Chocolate Cake]] recipe to awaken your taste buds to a whole new level of yum.
@@ -62,7 +63,8 @@ With only five ingredients and five minutes of your time, you can make delicious
 ---
 ## NUTRITIONS
 
-![[image_322.png]]
+![IMAGE](image_322.png)
+
 
 ---
 ### *EXTRA* :

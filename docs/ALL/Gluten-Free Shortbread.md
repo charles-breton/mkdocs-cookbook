@@ -27,7 +27,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_57.png]]
+![IMAGE](image_57.png)
+
 
 ## PREP
 

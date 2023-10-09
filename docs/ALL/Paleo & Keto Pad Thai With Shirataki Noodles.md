@@ -37,7 +37,8 @@ ingredients:
   - peanuts
 ---
 
-![[image_263.png]]
+![IMAGE](image_263.png)
+
 ###### *RELATED* : 
 ---
 Whip up this low carb, paleo & keto pad Thai in **just 15 minutes** for true and incomparable traditional flavors! Make it with shrimp or chicken (or both!) for **an ideal keto weeknight meal**.

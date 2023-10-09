@@ -32,7 +32,8 @@ ingredients:
   - dijon mustard
 ---
 
-![[image_87.png]]
+![IMAGE](image_87.png)
+
 
 
 ## PREP
@@ -82,7 +83,8 @@ ingredients:
 
 # INSTRUCTIONS
 
-![[image_88.png]]
+![IMAGE](image_88.png)
+
 
 **Meatballs**
 

@@ -26,7 +26,8 @@ ingredients:
   - salt
 ---
 
-![[image_347.png]]
+![IMAGE](image_347.png)
+
 ###### *RELATED* : 
 ---
 _These No Bake Brownie Energy Bites are made with only 5 ingredients, vegan and gluten-free and are a perfect quick healthy_

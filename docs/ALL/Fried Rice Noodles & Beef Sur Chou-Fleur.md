@@ -23,7 +23,8 @@ source: Sophie
 link: p.76 livre thai
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

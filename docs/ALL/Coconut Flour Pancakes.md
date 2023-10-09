@@ -29,7 +29,8 @@ ingredients:
   - baking powder
 ---
 
-![[image_156.png]]
+![IMAGE](image_156.png)
+
 ###### *RELATED* : 
 ---
 Looking for a tasty low carb breakfast recipe? Look no further! Here is an easy recipe for keto-friendly **delicious coconut flour pancakes**. Enjoy them with your favorite keto-friendly syrup or eat them plain.

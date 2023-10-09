@@ -29,7 +29,8 @@ ingredients:
   - chocolate chips
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Hands down, the easiest, fudgiest, flourless brownies ever and with a hidden vegetable too- Zucchini! Made with no butter or flour, these flourless zucchini fudge brownies are naturally gluten free, paleo, dairy free, grain free and come with a tested vegan option!

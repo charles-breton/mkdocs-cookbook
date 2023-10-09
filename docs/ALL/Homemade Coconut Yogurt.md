@@ -23,7 +23,8 @@ ingredients:
   - vanilla bean
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Pair homemade yogurt with a good source of prebiotic fiber, such as blueberries, apples, chia seeds, or oats. This will give your body the opportunity to utilize probiotics effectively. While this yogurt makes for a great parfait, it’s also a natural addition to smoothies, baked goods (use it to replace sour cream, buttermilk, or cow’s milk yogurt), and overnight oats.

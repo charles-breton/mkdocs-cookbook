@@ -34,7 +34,8 @@ ingredients:
   - cocoa
 ---
 
-![[image_185.png]]
+![IMAGE](image_185.png)
+
 ###### *RELATED* : 
 ---
 GLUTEN-FREE VEGAN TIRAMISU THAT IS LOW IN CARBS AND DOESN’T TASTE LIKE COCONUT

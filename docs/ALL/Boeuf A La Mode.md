@@ -23,7 +23,8 @@ ingredients:
   - moins d'os
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 ## PREP
 

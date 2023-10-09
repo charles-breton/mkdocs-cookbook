@@ -36,7 +36,8 @@ ingredients:
 equipments:
 ---
 
-![[image_662.png]]
+![IMAGE](image_662.png)
+
 ###### *RELATED* : 
 ---
 This Keto Naan Bread is an easy and healthy low-carb, vegan naan bread made with wholesome keto flour, no cheese or dairy with a real bread flavor.
@@ -101,7 +102,8 @@ PREP: 20 MINS COOK: 5 MINS TOTAL: 25 MINS
 ---
 ## NUTRITIONS
 
-![[image_663.png]]
+![IMAGE](image_663.png)
+
 
 ---
 ### *EXTRA* :

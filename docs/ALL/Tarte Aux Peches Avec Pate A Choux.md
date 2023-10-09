@@ -18,7 +18,8 @@ time:
 source: all
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

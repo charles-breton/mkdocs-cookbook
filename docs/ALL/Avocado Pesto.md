@@ -28,7 +28,8 @@ ingredients:
   - pepper
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 
 
@@ -70,7 +71,8 @@ ingredients:
 
 Serving Size 1/4 cup
 
-![[image_110.png]]
+![IMAGE](image_110.png)
+
 * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
 
 ## NOTES

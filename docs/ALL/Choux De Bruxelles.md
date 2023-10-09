@@ -22,7 +22,8 @@ ingredients:
   - moutarde
 ---
 
-![[image_414.png]]
+![IMAGE](image_414.png)
+
 ###### *RELATED* : 
 ---
 

@@ -36,7 +36,8 @@ ingredients:
   - almond milk
 ---
 
-![[image_173.png]]
+![IMAGE](image_173.png)
+
 ###### *RELATED* : 
 ---
 Searching for a show-stopper holiday treat?! This dairy free & keto pull apart Christmas tree, with its scrumptious cinnamon roll filling, is most definitely it!

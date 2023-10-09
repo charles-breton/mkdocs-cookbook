@@ -26,7 +26,8 @@ ingredients:
   - pink salt
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Most people think of coleslaw as an all-American dish, but did you know that it actually has Dutch roots? Coleslaw comes from the Dutch word “koolsla,” meaning “cabbage salad.” The recipe was brought to the U.S. by Dutch immigrants who settled in New York during the late 17th and 18th centuries.[1](http://recipes.mercola.com/crunchy-coleslaw-recipe.aspx?utm_source=dnl&utm_medium=email&utm_content=art2&utm_campaign=20170528Z1_UCM&et_cid=DM147011&et_rid=2021584984#_edn1)

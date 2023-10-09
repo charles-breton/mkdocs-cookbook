@@ -32,7 +32,8 @@ ingredients:
   - avocados
 ---
 
-![[image_587.png]]
+![IMAGE](image_587.png)
+
 ###### *RELATED* : 
 ---
 

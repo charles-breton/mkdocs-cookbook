@@ -23,7 +23,8 @@ ingredients:
   - sauce soja
 ---
 
-![[image_282.png]]
+![IMAGE](image_282.png)
+
 ###### *RELATED* : 
 ---
 

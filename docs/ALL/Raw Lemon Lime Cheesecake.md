@@ -27,7 +27,8 @@ ingredients:
   - lime
 ---
 
-![[image_310.png]]
+![IMAGE](image_310.png)
+
 ###### *RELATED* : 
 ---
 Are you a citrus lover? This unique raw vegan cheesecake combines lemon and lime in a refreshing and creamy dessert combo. Gluten-free, no refined sugar!

@@ -20,7 +20,8 @@ calories:
 ingredients:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 
@@ -75,4 +76,4 @@ Elles seront bonnes avec ce que tu veux ajouter...fruits secs, noix de coco, beu
 
 
 
-![[image_336.png]]
+![IMAGE](image_336.png)

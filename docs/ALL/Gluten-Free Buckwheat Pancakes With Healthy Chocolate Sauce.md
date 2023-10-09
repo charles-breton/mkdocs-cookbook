@@ -32,7 +32,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_160.png]]
+![IMAGE](image_160.png)
+
 ###### *RELATED* : 
 ---
 Made with a blend of naturally gluten free buckwheat flour and all purpose gluten free flour, these gluten free buckwheat pancakes make for a lower carb, totally satisfying breakfast. The healthy chocolate sauce means you can't refuse!

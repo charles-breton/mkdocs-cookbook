@@ -31,7 +31,8 @@ ingredients:
   - pecans
 ---
 
-![[image_179.png]]
+![IMAGE](image_179.png)
+
 ###### *RELATED* : 
 ---
 No one will ever guess that this delicious Pecan Pie is clean eating, paleo friendly, gluten free and refined sugar free! Made with an almond flour crust, heart healthy coconut oil, and sweetened with pure maple syrup, this healthier dessert looks and tastes just as good as the original!

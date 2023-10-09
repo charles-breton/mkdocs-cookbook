@@ -27,7 +27,8 @@ ingredients:
   - pistachios
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

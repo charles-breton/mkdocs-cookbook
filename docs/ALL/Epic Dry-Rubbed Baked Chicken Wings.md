@@ -39,7 +39,8 @@ ingredients:
   - pepper
 ---
 
-![[image_536.png]]
+![IMAGE](image_536.png)
+
 ###### *RELATED* : 
 ---
 _Tender, juicy baked chicken wings coated in a mouthwatering homemade dry rub that will have your tastebuds singing! Pair it with a creamy gorgonzola dipping sauce and it's a party hit!_

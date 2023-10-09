@@ -35,7 +35,8 @@ ingredients:
   - pommes de terre
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 ## PREP
 

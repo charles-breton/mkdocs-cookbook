@@ -25,7 +25,8 @@ ingredients:
   - cumin
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

@@ -23,7 +23,8 @@ ingredients:
   - fond de tarte
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

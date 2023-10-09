@@ -32,7 +32,8 @@ ingredients:
   - italian seasoning
 ---
 
-![[image_515.png]]
+![IMAGE](image_515.png)
+
 ###### *RELATED* : 
 ---
 I love these zucchini pizza boats because you can make the toppings very similar to how you would your fave pizza! I opted for a “Deluxe” style pizza with sausage, mushrooms, green pepper and red onions, but the flavour combos are limitless with this recipe! Here are some more delicious ideas:

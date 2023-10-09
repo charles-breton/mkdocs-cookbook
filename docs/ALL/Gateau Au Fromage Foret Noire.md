@@ -22,7 +22,8 @@ time:
 source: Lise Pelletier
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

@@ -18,7 +18,8 @@ ingredients:
 equipments:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 **Petites bouchées succulentes, idéales pour un apéro dinatoire.**

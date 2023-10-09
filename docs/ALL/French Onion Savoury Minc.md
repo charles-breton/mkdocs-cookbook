@@ -26,7 +26,8 @@ ingredients:
   - cheese
 ---
 
-![[image_76.png]]
+![IMAGE](image_76.png)
+
 
 A packet of French onion soup mix gives this savoury mince some extra flavour, and baked with a cheesy topping in the oven, it’ll be a hit with the whole family.
 - Greer Worsley

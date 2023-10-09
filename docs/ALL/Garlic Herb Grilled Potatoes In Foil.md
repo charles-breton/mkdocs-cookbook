@@ -26,7 +26,8 @@ ingredients:
   - parsley
 ---
 
-![[image_313.png]]
+![IMAGE](image_313.png)
+
 ###### *RELATED* : 
 ---
 These **Grilled Potatoes in Foil**, flavored with garlic, thyme, and rosemary, are absolutely delicious! Grilling gives them a perfect crispness, paired with a tempting smoky aroma.

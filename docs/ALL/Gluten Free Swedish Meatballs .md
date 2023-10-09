@@ -45,7 +45,8 @@ ingredients:
   - pink salt
 ---
 
-![[image_69.png]]
+![IMAGE](image_69.png)
+
 
 Easy gluten free Swedish meatballs made with a blend of seasoned ground beef, ground turkey, gluten free breadcrumbs and egg. Baked in the oven, and tossed with a creamy dairy free sauce these gluten free Swedish meatballs make a delicious dinner for the entire family. This recipe also saves time and reduces dirty dishes.
 

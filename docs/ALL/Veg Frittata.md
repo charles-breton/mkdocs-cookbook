@@ -24,7 +24,8 @@ ingredients:
   - feta
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 **Think of a frittata as a posh omelette. They're delicious hot, but just as good cold so you can even try popping a wedge in your lunchbox.**

@@ -23,7 +23,8 @@ servings: "8"
 calories: moyen
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

@@ -17,9 +17,11 @@ servings: "8"
 calories: "175"
 ---
 
-![[image_33.png]]
+![IMAGE](image_33.png)
 
-![[image_34.png]]
+
+![IMAGE](image_34.png)
+
 
 
 ## NOTES

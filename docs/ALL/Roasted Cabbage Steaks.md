@@ -24,7 +24,8 @@ ingredients:
   - thyme
 ---
 
-![[image_391.png]]
+![IMAGE](image_391.png)
+
 ###### *RELATED* : 
 ---
 

@@ -32,7 +32,8 @@ ingredients:
   - chocolate
 ---
 
-![[image_166.png]]
+![IMAGE](image_166.png)
+
 ###### *RELATED* : 
 ---
 One giant berry-and-oat crumb bar, jooshed up with rich vanilla yogurt. There’s no rolling of pastry here, making this minimalist dessert a cinch to whip up.
@@ -84,7 +85,8 @@ One giant berry-and-oat crumb bar, jooshed up with rich vanilla yogurt. There’
 ---
 ## NUTRITIONS
 
-![[image_167.png]]
+![IMAGE](image_167.png)
+
 
 ---
 ### *EXTRA* :

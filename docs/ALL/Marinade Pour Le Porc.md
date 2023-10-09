@@ -25,7 +25,8 @@ ingredients:
   - ziplock
 ---
 
-![[image_462.png]]
+![IMAGE](image_462.png)
+
 ###### *RELATED* : 
 ---
 

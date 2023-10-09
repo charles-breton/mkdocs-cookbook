@@ -27,7 +27,8 @@ ingredients:
   - chives
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Goat cheese has a light, tangy taste that goes very well with peppery watercress. Woolwich Dairy makes a 450-g log that is a terrific buy— find it at big box stores such as Costco. If you prefer a milder taste, use half chèvre and half cream cheese and substitute with chives in the middle layer instead of watercress. A slice of this terrine over lightly dressed greens makes a chic luncheon plate—serve with crusty bread. For an appetizer, place a 1-inch-thick (2.5‑cm) slice on a cool plate or wooden board for serving. Surround with pita crisps and provide a small knife for spreading.

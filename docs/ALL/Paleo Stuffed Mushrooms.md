@@ -25,7 +25,8 @@ ingredients:
   - chipotle mayo
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 
 
@@ -68,7 +69,8 @@ ingredients:
 
 Serving Size About 2 mushrooms
 
-![[image_109.png]]
+![IMAGE](image_109.png)
+
 * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
 
 

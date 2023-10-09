@@ -32,7 +32,8 @@ ingredients:
   - pepper
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This soup is delicious hot or cold. Make extra for lunch the next day. Easy to make vegan or vegetarian.

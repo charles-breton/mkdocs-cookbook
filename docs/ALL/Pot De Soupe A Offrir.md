@@ -25,7 +25,8 @@ ingredients:
   - sel d'ail
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

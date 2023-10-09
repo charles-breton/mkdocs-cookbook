@@ -28,7 +28,8 @@ ingredients:
   - coconut oil
 ---
 
-![[image_363.png]]
+![IMAGE](image_363.png)
+
 ###### *RELATED* : 
 ---
 This healthy, plant-based Crunchy Raw Protein Balls recipe is so easy to make with only 8 clean, real food ingredients. It's a no-bake energy ball with limitless topping options that's vegan and gluten-free and everyone will love!

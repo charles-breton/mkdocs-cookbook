@@ -20,7 +20,8 @@ ingredients:
   - jus de citron
 ---
 
-![[image_273.png]]
+![IMAGE](image_273.png)
+
 ###### *RELATED* : 
 ---
 **Paru dans le Magazine RICARDO Volume 11 Numéro 5** (p. 165)

@@ -29,7 +29,8 @@ ingredients:
   - cilantro
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Easy to make vegan or vegetarian 

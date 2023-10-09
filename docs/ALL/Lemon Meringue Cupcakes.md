@@ -28,7 +28,8 @@ ingredients:
   - baking powder
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

@@ -36,7 +36,8 @@ ingredients:
   - pasta
 ---
 
-![[image_398.png]]
+![IMAGE](image_398.png)
+
 ###### *RELATED* : 
 ---
 _This Vegan Mushroom Stroganoff is a creamy and hearty dinner fit for a king or queen. Chock-full of healthy, wholesome ingredients, this dish is extremely satisfying. The mushroom sauce is gluten-free, dairy-free, ready in 25 minutes, and loved by kids and adults alike._
@@ -78,7 +79,8 @@ _This Vegan Mushroom Stroganoff is a creamy and hearty dinner fit for a king or 
 ---
 ## NUTRITIONS
 
-![[image_399.png]]
+![IMAGE](image_399.png)
+
 
 ---
 ### *EXTRA* :

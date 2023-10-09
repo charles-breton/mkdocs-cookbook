@@ -22,7 +22,8 @@ ingredients:
   - paprika
 ---
 
-![[image_392.png]]
+![IMAGE](image_392.png)
+
 ###### *RELATED* : 
 ---
 

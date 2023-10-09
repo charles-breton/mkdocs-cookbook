@@ -27,7 +27,8 @@ ingredients:
 equipments:
 ---
 
-![[image_652.png]]
+![IMAGE](image_652.png)
+
 ###### *RELATED* : 
 ---
 _Paleo coconut flour banana bread that’s dairy free, gluten free and grain free. No sugar added. A fun and delicious way to use coconut flour!_

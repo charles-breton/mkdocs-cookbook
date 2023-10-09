@@ -34,7 +34,8 @@ ingredients:
   - walnuts
 ---
 
-![[image_481.png]]
+![IMAGE](image_481.png)
+
 ###### *RELATED* : 
 ---
 You want to avoid typical mayo that uses refined vegetable oils such as canola, soy and corn oil.  Best to opt for the avocado oil mayo that you can **[order here](https://amzn.to/2XPSa2L)** or find at your health food store. You can also leave out the bacon if you don’t want that in it.  I don’t advocate eating pig meat as you can **[read about here](https://drjockers.com/dont-eat-pig-meat/)** but you can find a good quality grass-fed beef bacon or turkey bacon.

@@ -34,7 +34,8 @@ ingredients:
   - broccoli
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Quantities are approximate and it is a soup where you can improvise a lot.

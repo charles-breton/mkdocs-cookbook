@@ -31,7 +31,8 @@ ingredients:
   - dark chocolate
 ---
 
-![[image_232.png]]
+![IMAGE](image_232.png)
+
 ###### *RELATED* : 
 ---
 
@@ -85,7 +86,8 @@ Total Time4 hrs 25 mins
 ---
 ## NUTRITIONS
 
-![[image_233.png]]
+![IMAGE](image_233.png)
+
 
 ---
 ### *EXTRA* :

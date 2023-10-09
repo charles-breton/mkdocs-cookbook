@@ -28,7 +28,8 @@ ingredients:
 equipments:
 ---
 
-![[image_645.png]]
+![IMAGE](image_645.png)
+
 ###### *RELATED* : 
 ---
 A Dutch oven is the perfect vessel for baking gluten-free bread and has never been easier or more rewarding.
@@ -80,7 +81,8 @@ I used a 10 inch wide, 4 inch deep round Dutch oven, enamel over cast iron. Nutr
 ---
 ## NUTRITIONS
 
-![[image_646.png]]
+![IMAGE](image_646.png)
+
 
 ---
 ### *EXTRA* :

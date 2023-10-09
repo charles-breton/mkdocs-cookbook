@@ -28,7 +28,8 @@ time:
 source: Pauline
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

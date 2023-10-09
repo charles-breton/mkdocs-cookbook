@@ -28,7 +28,8 @@ ingredients:
   - black pepper
 ---
 
-![[image_430.png]]
+![IMAGE](image_430.png)
+
 ###### *RELATED* : 
 ---
 A hearty recipe that is easy to make, and super healthy.

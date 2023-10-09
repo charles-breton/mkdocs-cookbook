@@ -28,7 +28,8 @@ ingredients:
   - coconut flour
 ---
 
-![[image_213.png]]
+![IMAGE](image_213.png)
+
 ###### *RELATED* : 
 ---
 _These Keto Macaroons can be your new go-to easy baked good. Six ingredients. Five minutes to mix and scoop. Thirty minutes to bake. Done. These low carb Keto Coconut Macaroons are also Dairy-Free, Gluten-Free, Grain-Free, and a THM S with only 1.9 net carbs per serving._
@@ -55,9 +56,11 @@ _These Keto Macaroons can be your new go-to easy baked good. Six ingredients. Fi
 
 1. Preheat oven to 350.
 2. Mix together all the ingredients until well combined. Drop 24 heaping tablespoons onto 2 cookie sheets.
-![[image_215.png]]
+![IMAGE](image_215.png)
+
 3. Bake for 30 minutes or until the edges are golden and the cookies are slightly firm to the touch.
-![[image_216.png]]
+![IMAGE](image_216.png)
+
 
 ---
 ## NOTES

@@ -20,7 +20,8 @@ ingredients:
   - pate a tarte
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

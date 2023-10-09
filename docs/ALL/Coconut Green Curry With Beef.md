@@ -30,7 +30,8 @@ ingredients:
   - salt
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 This coconut green curry is savory and creamy. Plus, it is high in vitamin B12, protein, iron, vitamin C and zinc.
 

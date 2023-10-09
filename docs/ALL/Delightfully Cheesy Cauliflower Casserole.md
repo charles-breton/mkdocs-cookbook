@@ -27,7 +27,8 @@ ingredients:
   - black pepper
 ---
 
-![[image_408.png]]
+![IMAGE](image_408.png)
+
 ###### *RELATED* : 
 ---
 Whether you’re throwing a party or simply having friends or family over, a delicious casserole can set the mood for your gathering. Families from different corners of the world probably have their own versions of casserole, some of which have been passed down from one generation to another.

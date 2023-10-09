@@ -31,7 +31,8 @@ ingredients:
 equipments:
 ---
 
-![[image_715.png]]
+![IMAGE](image_715.png)
+
 ###### *RELATED* : 
 ---
 My mother sent me this as a quest for breads for my sister and mother-in-law. A little tweaking and it's a recipe my family enjoys.
@@ -84,7 +85,8 @@ If you want just plain gluten-free dinner rolls omit garlic and dill. If you wan
 ---
 ## NUTRITIONS
 
-![[image_716.png]]
+![IMAGE](image_716.png)
+
 
 ---
 ### *EXTRA* :

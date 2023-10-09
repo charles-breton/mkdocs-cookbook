@@ -27,7 +27,8 @@ ingredients:
   - black pepper
 ---
 
-![[image_315.png]]
+![IMAGE](image_315.png)
+
 ###### *RELATED* : 
 ---
 Toss it all in a bowl, pour it onto a baking sheet, and bake till sizzling and delicious! Serve with any breakfast on earth!

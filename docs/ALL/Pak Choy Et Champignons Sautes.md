@@ -29,7 +29,8 @@ ingredients:
   - soupe assaisonnement
 ---
 
-![[image_376.png]]
+![IMAGE](image_376.png)
+
 ###### *RELATED* : 
 ---
 Une bonne recette de base pour la plupart des légumes verts sautés à la chinoise. Idéalement, si vous avez le temps, faites tremper les légumes verts 30 minutes dans de l’eau froide pour bien les laver et les rafraîchir.

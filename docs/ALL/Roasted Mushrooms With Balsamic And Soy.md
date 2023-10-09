@@ -27,7 +27,8 @@ ingredients:
   - pepper
 ---
 
-![[image_381.png]]
+![IMAGE](image_381.png)
+
 ###### *RELATED* : 
 ---
 Deliciously easy roasted mushrooms in a balsamic and garlic soy glaze! A stand out side or main for your dinner table!

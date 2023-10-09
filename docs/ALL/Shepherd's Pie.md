@@ -35,7 +35,8 @@ ingredients:
   - chives
 ---
 
-![[image_62.png]]
+![IMAGE](image_62.png)
+
 
 ## PREP
 

@@ -20,7 +20,8 @@ ingredients:
   - olive oil
 ---
 
-![[image_404.png]]
+![IMAGE](image_404.png)
+
 ###### *RELATED* : 
 ---
 _The easiest, most tastiest appetizer with just 2 ingredients and 10 min prep!_

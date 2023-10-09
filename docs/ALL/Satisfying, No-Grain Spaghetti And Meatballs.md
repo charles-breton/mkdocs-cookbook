@@ -31,7 +31,8 @@ ingredients:
   - zucchinis
 ---
 
-![[image_420.png]]
+![IMAGE](image_420.png)
+
 ###### *RELATED* : 
 ---
 Spaghetti and meatballs: It’s a perfect example of a classic home-cooked meal that any person, whether adult or kid, would love to indulge on. It’s also versatile — you can use any type of protein for the meatballs and/or replace the traditional red sauce with a creamy white sauce.

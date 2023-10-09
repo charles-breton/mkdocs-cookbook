@@ -27,7 +27,8 @@ ingredients:
   - parsley
 ---
 
-![[image_407.png]]
+![IMAGE](image_407.png)
+
 ###### *RELATED* : 
 ---
 _This simple baked eggplant casserole is an easy idea for dinner. Known as “Imam bayildi” in Turkey, thinly sliced eggplant combines with canned diced tomatoes, yellow onion, garlic and herbs into a lasagna-like slab. Made using a combination of the stovetop and oven, it’s a deliciously simple, flavorful meal that is also vegan, paleo, gluten-free and dairy-free._

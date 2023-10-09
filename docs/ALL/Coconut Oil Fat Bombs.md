@@ -24,7 +24,8 @@ ingredients:
   - vanilla bean powder
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

@@ -30,7 +30,8 @@ ingredients:
 equipments:
 ---
 
-![[image_722.png]]
+![IMAGE](image_722.png)
+
 ###### *RELATED* : 
 ---
 This french bread is amazing!! It tastes so similar to the wheat containing french bread. Plus it freezes wonderfully!!! It's crusty on the outside, and soft and tender within. It is fabulous alone, or made as little brushetta', using 'Joanne's Creamy Brushetta'
@@ -86,7 +87,8 @@ Remove from pan to cool.
 ---
 ## NUTRITIONS
 
-![[image_723.png]]
+![IMAGE](image_723.png)
+
 
 ---
 ### *EXTRA* :

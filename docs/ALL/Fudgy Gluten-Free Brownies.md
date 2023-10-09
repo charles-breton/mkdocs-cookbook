@@ -29,7 +29,8 @@ ingredients:
   - salt
 ---
 
-![[image_227.png]]
+![IMAGE](image_227.png)
+
 ###### *RELATED* : 
 ---
 Enjoy the best fudgy gluten free egg free brownies everrr.  These vegan brownies are BEAN FREE.  Finally, a real egg free brownie not made with beans (bean allergy here).  Added bonus: super food allergy friendly since they are dairy free, egg free, soy free and nut free.   You would never know they are free of the top 8 food allergens!

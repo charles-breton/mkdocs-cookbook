@@ -25,7 +25,8 @@ ingredients:
   - vodka
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 
 My favorite ice cream flavor is Butter Pecan. I love the rich taste of toasted pecans and vanilla. The past few weekends I’ve been working on a **Vegan Butter Pecan Ice Cream**. This recipe is very simple but delivers a tasty and delicious treat. I hope you enjoy!

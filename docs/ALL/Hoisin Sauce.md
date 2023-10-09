@@ -25,7 +25,8 @@ ingredients:
   - black pepper
 ---
 
-![[image_502.png]]
+![IMAGE](image_502.png)
+
 ###### *RELATED* : 
 ---
 Make your own hoisin sauce to serve with Chinese dishes. Super versatile, it works as a glaze for meat, as a dipping sauce or a sauce for stir-fries

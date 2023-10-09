@@ -31,7 +31,8 @@ equipments:
   - mixer
 ---
 
-![[image_720.png]]
+![IMAGE](image_720.png)
+
 ###### *RELATED* : 
 ---
 Get the best gluten free bread recipe for gluten free white sandwich bread. Learn how to make the best gf bread with the original and best recipe.

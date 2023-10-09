@@ -25,7 +25,8 @@ time:
 source: Sophie
 link: https://www.eatwell101.com/garlic-butter-meatballs-with-lemon-zucchini-noodles
 ---
-![[image_8.png]]
+![IMAGE](image_8.png)
+
 
 
 

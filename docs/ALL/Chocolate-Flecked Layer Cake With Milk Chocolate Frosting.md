@@ -27,7 +27,8 @@ ingredients:
   - chocolate
 ---
 
-![[image_325.png]]
+![IMAGE](image_325.png)
+
 ###### *RELATED* : 
 ---
 It's our new go-to special-occasion cake: a tall, tender beauty that's sophisticated yet easy to make. What saves the lush milk [[Chocolate Frosting]] from being cloying is the addition of tangy sour cream.

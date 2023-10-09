@@ -32,7 +32,8 @@ ingredients:
   - lettuce
 ---
 
-![[image_100.png]]
+![IMAGE](image_100.png)
+
 
 ## PREP
 

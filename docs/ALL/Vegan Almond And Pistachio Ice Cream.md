@@ -26,7 +26,8 @@ ingredients:
   - almond extract
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 On St. Patrick’s Day, our family always has a lot of fun. The naughty leprechaun comes to visit, sometimes he leaves us treats and gold coins, other times he just makes messes all around the house. Someone is always being pinched. We usually eat entirely green in our family for the whole day.

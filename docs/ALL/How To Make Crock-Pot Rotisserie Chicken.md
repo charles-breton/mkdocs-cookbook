@@ -26,7 +26,8 @@ ingredients:
   - onions
 ---
 
-![[image_545.png]]
+![IMAGE](image_545.png)
+
 ###### *RELATED* : 
 ---
 With the holidays right around the corner, I’m sure you are looking for ideas on dishes to serve your guests during the festivities. Flavorful rotisserie chicken, especially when paired with equally appetizing side dishes, is one of the many options you can choose from.

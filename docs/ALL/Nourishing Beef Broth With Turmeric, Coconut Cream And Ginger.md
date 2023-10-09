@@ -24,7 +24,8 @@ ingredients:
   - coriander
 ---
 
-![[image_582.png]]
+![IMAGE](image_582.png)
+
 ###### *RELATED* : 
 ---
 My new recipe book, the “Fat for Fuel Ketogenic Cookbook,” is now out on store shelves. This endeavor is something that I proudly share with one of the most talented chefs I’ve ever met, Pete Evans. Both of us are committed to providing you with valuable knowledge on how to improve your health by adopting the ketogenic diet into your lifestyle — and this book will surely fill you in on that.

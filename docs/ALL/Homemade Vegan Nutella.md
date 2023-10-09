@@ -24,7 +24,8 @@ ingredients:
   - salt
 ---
 
-![[image_251.png]]
+![IMAGE](image_251.png)
+
 ###### *RELATED* : 
 ---
 This Homemade Vegan Nutella is the best healthy Nutella alternative made with 5 simple ingredients. It’s also dairy-free, gluten-free, paleo, and refined-sugar-free!

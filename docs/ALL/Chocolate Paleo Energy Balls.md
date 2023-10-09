@@ -31,7 +31,8 @@ ingredients:
   - vanilla
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Chocolate Paleo Energy Balls Recipe! 5 minutes and 8 ingredients is all it takes to make this healthy snack! Vegan, gluten-free, dairy-free & date sweetened!

@@ -23,7 +23,8 @@ ingredients:
   - cardamome
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 _Souvent lorsque l’on parle de_ _[gâteaux](http://www.lepetrin.fr/category/recettes/gateaux/)_ _à l’[orange](http://www.lepetrin.fr/tag/orange/), il s’agit de_ _[pâtisseries](http://www.lepetrin.fr/category/recettes/patisseries/)_ _plus ou moins parfumées contenant le jus ou le zeste du fruit, parfois même les deux.. au goût fréquemment réhaussé par un glaçage ou un sirop à base de jus du fruit… Et puis, il y a_ **_LE “Middle Eastern Orange Cake”_** _de Claudia Roden, sans aucun doute la quintessence des gâteaux à l’orange. Un gâteau incroyablement fruité et fondant qui combine la douceur de l’amande à l’amertume de l’orange. Sans farine, utilisant l’orange complète pochée et réduite en purée, ce dessert est plus qu’un gâteau. C’est un gâteau-fruit. Une merveille à essayer sans tarder!!_

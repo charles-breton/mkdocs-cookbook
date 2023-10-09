@@ -30,7 +30,8 @@ ingredients:
   - heavy cream
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 _This delicious Low Carb Strawberry Shortcake Dessert has a base of moist gluten-free and dairy-free almond flour cake to support the stars of fresh ripe strawberries and sweetened whipped cream_.

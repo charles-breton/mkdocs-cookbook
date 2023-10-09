@@ -22,7 +22,8 @@ ingredients:
   - hemp hearts
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* :  [[Glory Bowl Dressing]]
 ---
 

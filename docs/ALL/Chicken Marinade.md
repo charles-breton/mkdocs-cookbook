@@ -25,7 +25,8 @@ ingredients:
   - chicken
 ---
 
-![[image_533.png]]
+![IMAGE](image_533.png)
+
 ###### *RELATED* : 
 ---
 **_Classic Caesar salad gets a flavor facelift thanks to the grill! Romaine hearts, rosemary marinated chicken and even the bread for the croutons are all grilled to perfection in this healthy Grilled Chicken Caesar Salad!_**

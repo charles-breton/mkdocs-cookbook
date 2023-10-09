@@ -28,7 +28,8 @@ ingredients:
   - chicken broth
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

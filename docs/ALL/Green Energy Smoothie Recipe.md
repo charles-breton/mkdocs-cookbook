@@ -24,7 +24,8 @@ ingredients:
   - coconut milk
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

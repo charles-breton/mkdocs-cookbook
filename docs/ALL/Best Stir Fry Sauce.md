@@ -28,7 +28,8 @@ ingredients:
   - meat
 ---
 
-![[image_501.png]]
+![IMAGE](image_501.png)
+
 ###### *RELATED* : 
 ---
 This super easy **5-minute stir fry sauce recipe** perfectly complements any stir-fried meat and veggies. A delicious, budget-friendly, homemade sauce made with **simple ingredients and shaken (or whisked!) in a mason jar!** It’s so good, you’ll never buy store-bought or takeout versions again.

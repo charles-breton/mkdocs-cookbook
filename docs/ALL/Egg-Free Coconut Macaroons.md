@@ -33,7 +33,8 @@ ingredients:
   - cocoa powder
 ---
 
-![[image_218.png]]
+![IMAGE](image_218.png)
+
 ###### *RELATED* : 
 ---
 These vegan macaroons are so simple together, taste great. If you're avoiding eggs and dairy for any reason, here's your ticket to enjoying traditional beloved cookie recipes without a lot of effort.

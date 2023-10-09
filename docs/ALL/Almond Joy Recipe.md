@@ -25,7 +25,8 @@ ingredients:
   - chocolate
 ---
 
-![[image_212.png]]
+![IMAGE](image_212.png)
+
 ###### *RELATED* : 
 ---
 

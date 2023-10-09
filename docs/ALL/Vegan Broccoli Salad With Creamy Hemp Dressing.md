@@ -40,7 +40,8 @@ ingredients:
   - sprouts
 ---
 
-![[image_236.png]]
+![IMAGE](image_236.png)
+
 ###### *RELATED* : 
 ---
 Creamy Vegan Broccoli Salad is so good, you won’t even realize it is vegan! Tossed in a creamy Hemp Dressing- it is easy, healthy and full of flavor! Vegan and Keto!

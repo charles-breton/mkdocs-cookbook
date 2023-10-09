@@ -30,7 +30,8 @@ ingredients:
   - feuilles pour rouleaux imperiaux
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* :  [[Sauce Pour Rouleaux Imperiaux]]
 ---
 

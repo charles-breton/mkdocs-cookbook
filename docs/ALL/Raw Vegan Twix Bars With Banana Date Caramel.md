@@ -28,7 +28,8 @@ ingredients:
   - chocolate
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Homemade Raw Vegan Twix Bars with Banana Date Caramel. Crisp chocolate coating with a sweet and gooey Banana Caramel center. 100% Guilt Free | Gluten Free | Raw | Vegan | Nut Free

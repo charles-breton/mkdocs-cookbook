@@ -26,7 +26,8 @@ ingredients:
   - salt
 ---
 
-![[image_354.png]]
+![IMAGE](image_354.png)
+
 ###### *RELATED* : 
 ---
 These Keto Fudge Fat Bombs are low-carb, paleo-compliant, nut-free, gluten-free, grain-free, dairy-free, vegetarian, and vegan. Enjoy one (or a couple!) for a delicious midday snack or after-dinner dessert.

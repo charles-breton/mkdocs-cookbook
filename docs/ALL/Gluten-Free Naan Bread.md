@@ -33,7 +33,8 @@ ingredients:
 equipments:
 ---
 
-![[image_664.png]]
+![IMAGE](image_664.png)
+
 ###### *RELATED* : 
 ---
 Eat this yummy gluten free naan on its own or with a big bowl of curry. This gluten free naan bread recipe is easy to follow and doesn't take long at all.

@@ -31,7 +31,8 @@ ingredients:
   - icing
 ---
 
-![[image_186.png]]
+![IMAGE](image_186.png)
+
 ###### *RELATED* : 
 ---
 _Flourless Orange and Almond Cakes are a great gluten-free dessert option.  These orange almond cupcakes are light and moist with just the right amount of sweetness.  Serve as is, or sprinkle some icing or powdered sugar on top._

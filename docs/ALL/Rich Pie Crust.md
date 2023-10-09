@@ -25,7 +25,8 @@ ingredients:
   - milk
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

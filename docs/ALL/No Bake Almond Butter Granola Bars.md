@@ -28,7 +28,8 @@ ingredients:
   - salt
 ---
 
-![[image_360.png]]
+![IMAGE](image_360.png)
+
 ###### *RELATED* : 
 ---
 _These No Bake Almond Butter Granola Bars are healthy, delicious and can easily be made in just 15 minutes!  Perfect to grab on-the-go in the mornings too!_

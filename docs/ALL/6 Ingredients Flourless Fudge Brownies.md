@@ -19,7 +19,8 @@ calories:
 ingredients:
 ---
 
-![[image_221.png]]
+![IMAGE](image_221.png)
+
 ###### *RELATED* : 
 ---
 Hands down, the most delicious, fudgy brownies which use just one bowl and six easy ingredients- Made with no flour or butter and BETTER than any boxed mix! Ready in just 20 minutes, these super fudgy brownies are naturally gluten free, paleo, grain free, dairy free and have a tested vegan option!

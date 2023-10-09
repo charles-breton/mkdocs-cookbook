@@ -37,7 +37,8 @@ ingredients:
   - water
 ---
 
-![[image_287.png]]
+![IMAGE](image_287.png)
+
 ###### *RELATED* : 
 ---
 

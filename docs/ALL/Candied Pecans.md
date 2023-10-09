@@ -26,7 +26,8 @@ ingredients:
   - pecans
 ---
 
-![[image_329.png]]
+![IMAGE](image_329.png)
+
 ###### *RELATED* : 
 ---
 These Stovetop Candied Pecans are a quick and easy way to make sweet coated pecans for salads, snacking, and more!

@@ -18,7 +18,8 @@ ingredients:
   - sel
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 _Si vous avez un peu de temps, conservez les graines des courges! Une fois séchées, vous pouvez les manger telles quelles, en salade, avec vos soupes..._

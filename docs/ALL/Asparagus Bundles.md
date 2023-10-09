@@ -19,7 +19,8 @@ calories:
 ingredients:
 ---
 
-![[image_562.png]]
+![IMAGE](image_562.png)
+
 ###### *RELATED* : 
 ---
 _Fresh asparagus spears, wrapped in bacon and cooked in a spicy brown sugar butter sauce._

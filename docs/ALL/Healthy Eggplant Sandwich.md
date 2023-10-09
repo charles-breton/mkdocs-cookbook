@@ -24,7 +24,8 @@ ingredients:
   - sun-dried tomatoes
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

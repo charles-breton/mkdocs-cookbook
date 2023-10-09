@@ -29,7 +29,8 @@ ingredients:
   - chocolate chips
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This Homemade Vegan Protein Bar Recipe is one of our favorites - Grain-free, soy-free, dairy-free, egg-free and soy-free homemade protein bars--great for special diets.

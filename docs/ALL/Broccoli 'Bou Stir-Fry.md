@@ -25,7 +25,8 @@ ingredients:
   - rice
 ---
 
-![[image_67.png]]
+![IMAGE](image_67.png)
+
 
 "One of my favourite stir-fry meals is broccoli beef, so when I found myself with several hundred pounds of Yukon Mountain Caribou this past fall, I figure a 'bou backstrap (see tip) would be an excellent game replacement," says Teddy Cosco, avid fisher, hunter, and full-time assistant professor of mental health and aging at Simon Fraser University
 
@@ -57,7 +58,8 @@ Add broccolini to pan and cook for 4 mins, until almost tender. Add snap peas an
 
 ## NUTRITIONS
 
-![[image_66.png]]
+![IMAGE](image_66.png)
+
 
 ## NOTES
 
@@ -81,4 +83,4 @@ length of fajita strips, about 1/2 in
 
 ### *EXTRA*
 
-![[image_68.png]]
+![IMAGE](image_68.png)

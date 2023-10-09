@@ -25,7 +25,8 @@ ingredients:
   - cacao powder
 ---
 
-![[image_352.png]]
+![IMAGE](image_352.png)
+
 ###### *RELATED* : 
 ---
 _4 Ingredient Chocolate Peanut Butter No Bake Energy Bites Recipe_ _(V, GF): an easy, one bowl recipe for irresistible no bake bites packed with peanut butter and chocolate flavor! They taste like Reese’s Peanut Butter Cups! Vegan, Gluten-Free, Dairy-Free, Protein-Packed._

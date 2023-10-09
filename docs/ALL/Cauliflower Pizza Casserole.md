@@ -29,7 +29,8 @@ ingredients:
   - coconut water
 ---
 
-![[image_400.png]]
+![IMAGE](image_400.png)
+
 ###### *RELATED* : 
 ---
 Prep Time: **20 minutes** Cook Time: **30 to 35 minutes** Total Time: **50 to 55 minutes** Serving Size: **4**

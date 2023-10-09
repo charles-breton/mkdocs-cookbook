@@ -29,7 +29,8 @@ ingredients:
   - dattes
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

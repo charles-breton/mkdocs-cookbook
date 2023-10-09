@@ -25,7 +25,8 @@ ingredients:
   - chia seeds
 ---
 
-![[image_346.png]]
+![IMAGE](image_346.png)
+
 ###### *RELATED* : 
 ---
 

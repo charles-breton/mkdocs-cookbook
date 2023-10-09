@@ -17,7 +17,8 @@ source: Sophie
 link: https://epicesdecru.com/recettes/pak-choy-et-champignons-saut%C3%A9s
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

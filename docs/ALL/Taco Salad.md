@@ -26,7 +26,8 @@ ingredients:
   - pepper
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 I use peppers of any colour you have. I try to have colourful variety.  As for tomatoes any are good as long as they are hard if too juicy I cut out the centre.  Cucumber is a must plus onion, it can be green.  I usually use red leaf lettuce sometimes no lettuce if none in the fridge.  

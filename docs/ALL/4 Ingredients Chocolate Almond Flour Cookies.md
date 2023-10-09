@@ -22,13 +22,15 @@ ingredients:
   - salt
 ---
 
-![[image_41.png]]
+![IMAGE](image_41.png)
+
 
 ## NOTES
 
 _4-ingredient chocolate [almond flour](https://www.amazon.com/gp/product/B07L9Q45HG/ref=as_li_tl?ie=UTF8&tag=powerhungry0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07L9Q45HG&linkId=636b9729cf6c8dab32b91de8c2e6badf) cookies that are rich, decadent, and good for you! They are vegan, oil-free, grain-free, Paleo, & only 61 calories per cookie_
 
-![[image_42.png]]
+![IMAGE](image_42.png)
+
 
 
 ## PREP

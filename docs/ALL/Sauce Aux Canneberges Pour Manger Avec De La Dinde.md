@@ -20,7 +20,8 @@ ingredients:
   - sauce forte
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

@@ -27,7 +27,8 @@ ingredients:
   - salt
 ---
 
-![[image_52.png]]
+![IMAGE](image_52.png)
+
 
 ## NOTES
 
@@ -75,7 +76,8 @@ ingredients:
 
 ## NUTRITIONS
 
-![[image_51.png]]
+![IMAGE](image_51.png)
+
 
 ## TIPS
 

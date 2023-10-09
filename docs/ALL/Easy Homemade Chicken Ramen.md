@@ -42,7 +42,8 @@ ingredients:
   - bean sprouts
 ---
 
-![[image_573.png]]
+![IMAGE](image_573.png)
+
 ###### *RELATED* : 
 ---
 Easy Homemade Chicken Ramen  - an incredibly flavorful classic chicken ramen with authentic flavors, but easy enough to make for dinner! Topped with caramelized soy chicken and a ramen egg. This classic shoyu chicken ramen can be made in about 30 minutes. You also have the option of marinating the chicken and ramen eggs overnight to increase flavor.

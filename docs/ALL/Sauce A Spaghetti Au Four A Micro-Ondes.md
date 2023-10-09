@@ -38,7 +38,8 @@ ingredients:
   - sauce tomate
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

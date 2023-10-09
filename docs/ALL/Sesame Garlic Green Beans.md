@@ -27,7 +27,8 @@ ingredients:
   - pepper
 ---
 
-![[image_383.png]]
+![IMAGE](image_383.png)
+
 ###### *RELATED* : 
 ---
 A quick and simple paleo, vegan, and Whole30 side dish, these Sesame Garlic Green Beans make the perfect pair for just about anything and come together in less than 15 minutes.
@@ -70,7 +71,8 @@ A quick and simple paleo, vegan, and Whole30 side dish, these Sesame Garlic Gree
 ---
 ## NUTRITIONS
 
-![[image_384.png]]
+![IMAGE](image_384.png)
+
 
 ---
 ### *EXTRA* :

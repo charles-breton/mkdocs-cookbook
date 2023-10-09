@@ -20,7 +20,8 @@ ingredients:
   - eau
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

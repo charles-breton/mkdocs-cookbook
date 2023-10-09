@@ -21,7 +21,8 @@ source: Isabelle
 keywords:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

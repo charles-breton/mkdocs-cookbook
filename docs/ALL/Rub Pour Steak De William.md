@@ -22,7 +22,8 @@ ingredients:
   - garlic powder
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 ## PREP
 

@@ -29,7 +29,8 @@ ingredients:
   - vanilla
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 **Healthy, no bake granola bars with just 5 ingredients and a sweet, crunchy texture. Peanut butter and honey complement each other perfectly in this ideal portable breakfast or snack.**

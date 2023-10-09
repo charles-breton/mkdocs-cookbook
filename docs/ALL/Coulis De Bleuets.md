@@ -21,7 +21,8 @@ ingredients:
   - fecule de mais
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

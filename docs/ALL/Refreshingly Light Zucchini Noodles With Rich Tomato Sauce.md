@@ -35,7 +35,8 @@ ingredients:
   - pine nuts
 ---
 
-![[image_393.png]]
+![IMAGE](image_393.png)
+
 ###### *RELATED* : 
 ---
 

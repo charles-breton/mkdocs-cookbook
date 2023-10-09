@@ -35,7 +35,8 @@ ingredients:
   - cornstarch
 ---
 
-![[image_530.png]]
+![IMAGE](image_530.png)
+
 ###### *RELATED* : 
 ---
 This **Chicken Stir Fry Recipe** is so much better than takeout! The chicken and vegetables in a garlic ginger soy sauce with honey is the perfect balance of sweet and savory.
@@ -100,7 +101,8 @@ This **Chicken Stir Fry Recipe** is so much better than takeout! The chicken a
 ---
 ## NUTRITIONS
 
-![[image_531.png]]
+![IMAGE](image_531.png)
+
 
 ---
 ### *EXTRA* :

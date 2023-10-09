@@ -34,7 +34,8 @@ ingredients:
 equipments:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This recipe is perfect for the summer! Having gluten free hamburger buns can make your backyard BBQ perfect for everyone.

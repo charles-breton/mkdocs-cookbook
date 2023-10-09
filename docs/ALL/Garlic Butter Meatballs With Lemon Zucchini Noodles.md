@@ -29,7 +29,8 @@ ingredients:
   - hot sauce
 ---
 
-![[image_534.png]]
+![IMAGE](image_534.png)
+
 ###### *RELATED* : 
 ---
 Garlic Butter Turkey Meatballs Recipe with Zucchini Noodles – This easy and nourishing [skillet meal](https://www.eatwell101.com/tag/skillet-recipes "SKILLET RECIPES") with **turkey meatballs** and zucchini is absolutely fabulous in every way imaginable! Cheesy turkey and pork **meatballs** just melt in your mouth and zesty zucchini help keep carbs low. Gluten-free, paleo, low-carb, keto-friendly, and ready in 30 minutes or less  – This easy and **healthy turkey meatballs** dinner is a clear winner with the whole family! Enjoy!
@@ -80,7 +81,8 @@ This recipe is also perfect for a meal prep lunch on the next day. Check this [
 ---
 ## NUTRITIONS
 
-![[image_535.png]]
+![IMAGE](image_535.png)
+
 
 ---
 ### *EXTRA* :

@@ -24,7 +24,8 @@ ingredients:
 equipments:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 3 ingredient, soft tortillas that are grain free nut free & vegan!

@@ -37,7 +37,8 @@ ingredients:
   - cauliflower rice
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

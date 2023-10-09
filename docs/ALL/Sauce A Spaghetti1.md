@@ -30,7 +30,8 @@ time:
 source: Lise Martel
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

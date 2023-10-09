@@ -22,7 +22,8 @@ ingredients:
   - cream
 ---
 
-![[image_265.png]]
+![IMAGE](image_265.png)
+
 ###### *RELATED* : 
 ---
 _This quick and easy stabilized mascarpone whipped cream recipe is my all-time favorite, and it can be ready in 15 minutes! It's light and airy – perfect for topping [cupcakes](https://stressbaking.com/recipe-index/cake-cupcakes/), [ice cream](https://stressbaking.com/recipe-index/ice-cream-other-frozen-treats/) and pies, as a dessert dip for fruit, or to just eat by the spoonful._ _I've also included instructions to make **chocolate whipped cream**!_ _If you're ever looking for a frosting to top a dessert – this is going to become your new go-to._

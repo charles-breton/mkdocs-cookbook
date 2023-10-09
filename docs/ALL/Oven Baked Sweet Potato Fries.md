@@ -31,7 +31,8 @@ ingredients:
   - celery salt
 ---
 
-![[image_318.png]]
+![IMAGE](image_318.png)
+
 ###### *RELATED* : 
 ---
 Easy, crispy oven baked sweet potato fries you can whip up at home without a deep fryer!

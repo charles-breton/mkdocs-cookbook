@@ -23,7 +23,8 @@ ingredients:
   - coconut flakes
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 ## PREP
 

@@ -13,7 +13,8 @@ source: Sophie
 link: Tian de courge p.113,
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

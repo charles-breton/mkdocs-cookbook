@@ -20,7 +20,8 @@ source: Sophie
 link: http://itdoesnttastelikechicken.com/2015/01/23/melty-stretchy-gooey-vegan-mozarella/
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

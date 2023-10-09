@@ -38,7 +38,8 @@ ingredients:
   - noix de coco
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

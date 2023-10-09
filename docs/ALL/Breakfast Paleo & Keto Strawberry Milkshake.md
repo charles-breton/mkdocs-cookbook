@@ -34,7 +34,8 @@ ingredients:
   - hemp hearts
 ---
 
-![[image_150.png]]
+![IMAGE](image_150.png)
+
 ###### *RELATED* : 
 ---
 **Nutrient-packed**, ultra **refreshing**, **thick** and super **creamy**. Just a few things you can expect from this instant paleo and keto strawberry milkshake!

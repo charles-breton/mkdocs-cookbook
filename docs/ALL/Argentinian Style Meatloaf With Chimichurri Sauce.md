@@ -33,7 +33,8 @@ ingredients:
   - salt
 ---
 
-![[image_77.png]]
+![IMAGE](image_77.png)
+
 
 ## PREP
 

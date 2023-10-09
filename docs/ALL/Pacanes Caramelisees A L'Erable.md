@@ -25,7 +25,8 @@ ingredients:
   - sel
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 
 **Servir pour accompagner un dessert, une glace ou un fromage. Délicieuses aussi dans une salade verte ou, le matin, concassées sur un yogourt.**

@@ -22,7 +22,8 @@ ingredients:
   - stevia
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 A recipe for making homemade jello without added sugar or artificial ingredients.

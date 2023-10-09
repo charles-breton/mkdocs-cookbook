@@ -28,7 +28,8 @@ ingredients:
   - parmesan
 ---
 
-![[image_600.png]]
+![IMAGE](image_600.png)
+
 ###### *RELATED* : 
 ---
 

@@ -28,7 +28,8 @@ ingredients:
   - allspice seeds
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

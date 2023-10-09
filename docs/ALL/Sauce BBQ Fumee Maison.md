@@ -24,7 +24,8 @@ ingredients:
   - liquid smoke
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

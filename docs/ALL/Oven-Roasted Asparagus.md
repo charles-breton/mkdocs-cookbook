@@ -24,7 +24,8 @@ ingredients:
   - lemon juice
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Roasted asparagus seasoned with garlic, lemon, and Parmesan cheese. This recipe is super quick to prep and roasting removes any bitterness. Try it next to lamb or grilled fish.
@@ -67,7 +68,8 @@ Total Time:25 mins
 ---
 ## NUTRITIONS
 
-![[image_387.png]]
+![IMAGE](image_387.png)
+
 
 ---
 ### *EXTRA* :

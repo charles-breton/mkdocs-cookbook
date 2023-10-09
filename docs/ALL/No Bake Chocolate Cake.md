@@ -26,7 +26,8 @@ ingredients:
   - cocoa powder
 ---
 
-![[image_306.png]]
+![IMAGE](image_306.png)
+
 ###### *RELATED* : 
 ---
 The easiest chocolate cake you'll ever make. And it's always a huge hit. It's the sort of easy dessert perfect for summer, and entertaining, because you don't need to heat your oven.

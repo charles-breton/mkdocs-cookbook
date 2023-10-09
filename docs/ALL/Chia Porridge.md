@@ -31,7 +31,8 @@ ingredients:
   - fruits
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 If you’re in search of natural remedies for hormone imbalance, this recipe is designed to complement a seed cycling protocol. Seed cycling is a natural and accessible way to use superfoods like flax, sesame, pumpkin, and sunflower seeds to support and balance your hormonal cycle. You can read all about seed cycling here.

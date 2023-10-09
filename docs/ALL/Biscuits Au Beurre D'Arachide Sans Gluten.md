@@ -23,7 +23,8 @@ ingredients:
   - pacanes
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 ## PREP
 

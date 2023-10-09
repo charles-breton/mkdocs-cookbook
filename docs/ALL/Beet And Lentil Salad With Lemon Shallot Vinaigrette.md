@@ -34,7 +34,8 @@ ingredients:
   - walnuts
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Want a little more natural sweetness? Dried cranberries, figs, or fresh orange slices also add nice flavor to this savory salad.

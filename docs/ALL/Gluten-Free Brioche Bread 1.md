@@ -21,7 +21,8 @@ equipments:
   - mixer
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This highly enriched loaf of gluten free brioche bread is a lightly sweet, buttery, bakery-style loaf with a tender yellow crumb and a deep brown, but not especially crispy, crust. Perfect for French toast!

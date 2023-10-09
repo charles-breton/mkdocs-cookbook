@@ -26,7 +26,8 @@ calories:
 link: https://www.craftbeering.com/greek-lamb-shoulder-roast-lemon-potatoes/
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

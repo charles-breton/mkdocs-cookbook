@@ -24,7 +24,8 @@ keywords:
   - fajitas, homemade seasonings, tacos
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

@@ -28,7 +28,8 @@ ingredients:
   - poivre
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ##### *RELATED* : [[Cigares Au Chou 1]]
 
 ## PREP

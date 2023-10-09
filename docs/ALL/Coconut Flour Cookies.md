@@ -30,7 +30,8 @@ ingredients:
   - chocolate chips
 ---
 
-![[image_54.png]]
+![IMAGE](image_54.png)
+
 
 
 ## NOTES
@@ -85,7 +86,8 @@ Environ 25 biscuits pour une recette avec 1 c. Tab de pâte)
 
 ## NUTRITIONS
 
-![[image_53.png]]
+![IMAGE](image_53.png)
+
 
 
 

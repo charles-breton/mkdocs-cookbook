@@ -27,7 +27,8 @@ ingredients:
   - chocolate chips
 ---
 
-![[image_44.png]]
+![IMAGE](image_44.png)
+
 
 ## NOTES
 

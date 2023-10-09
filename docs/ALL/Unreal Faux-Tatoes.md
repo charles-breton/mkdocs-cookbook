@@ -25,7 +25,8 @@ ingredients:
   - onions
 ---
 
-![[image_395.png]]
+![IMAGE](image_395.png)
+
 ###### *RELATED* : 
 ---
 Radishes have never tasted _this_ good (and so potato-like)! With this unique cooking method, expect true keto faux-tatoes: **silky smooth** yet **lightly crisp**!

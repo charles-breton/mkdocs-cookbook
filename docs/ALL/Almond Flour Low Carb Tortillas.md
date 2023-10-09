@@ -23,7 +23,8 @@ equipments:
   - food processor
 ---
 
-![[image_687.png]]
+![IMAGE](image_687.png)
+
 ###### *RELATED* : 
 ---
 These almond flour low carb tortillas are made with just enough added coconut flour, and the dough is amazingly easy to handle. With less than 2 net carbs per tortilla, they're going to be your new favorite gluten free tortilla!

@@ -26,7 +26,8 @@ ingredients:
   - graines de tournesol
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

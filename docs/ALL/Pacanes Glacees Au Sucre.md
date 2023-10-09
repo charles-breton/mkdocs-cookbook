@@ -20,7 +20,8 @@ ingredients:
   - pacanes
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Encore une fois, simplement délicieux. Vous pouvez les emballer et les offrir à Noël. Vous pouvez essayer d’utiliser d’autres types de noix si vous le souhaitez.

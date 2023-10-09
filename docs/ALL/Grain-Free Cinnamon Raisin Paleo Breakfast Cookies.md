@@ -34,7 +34,8 @@ ingredients:
   - honey
 ---
 
-![[image_219.png]]
+![IMAGE](image_219.png)
+
 
 These Paleo Breakfast Cookies are super healthy and easy to make -- Breakfast Cookies that are grain, egg, and dairy-free w/ low carb and nut free options.
 

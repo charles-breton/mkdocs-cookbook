@@ -25,7 +25,8 @@ ingredients:
   - water
 ---
 
-![[image_262.png]]
+![IMAGE](image_262.png)
+
 ###### *RELATED* : 
 ---
 The Best Grain Pasta Dough Recipe will make all of your pasta loving dreams will come true! You can finally get your pasta fix without sabotaging your health, since it's grain-free and gluten-free!

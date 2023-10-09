@@ -36,7 +36,8 @@ ingredients:
   - pecans
 ---
 
-![[image_230.png]]
+![IMAGE](image_230.png)
+
 ###### *RELATED* : 
 ---
 Decadent Pecan Pie without Corn Syrup, #vegan

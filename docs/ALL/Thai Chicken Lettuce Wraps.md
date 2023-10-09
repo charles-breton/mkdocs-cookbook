@@ -30,7 +30,8 @@ ingredients:
   - lettuce
 ---
 
-![[image_532.png]]
+![IMAGE](image_532.png)
+
 ###### *RELATED* : 
 ---
 

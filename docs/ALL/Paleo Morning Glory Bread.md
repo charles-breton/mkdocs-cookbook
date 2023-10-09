@@ -36,7 +36,8 @@ ingredients:
 equipments:
 ---
 
-![[image_693.png]]
+![IMAGE](image_693.png)
+
 ###### *RELATED* : 
 ---
 _You’ll love the moist and dense flavor of this Paleo Morning Glory Bread! A perfect breakfast or snack on the go, packed with apples, coconut, carrots, raisins, and walnuts. This bread is grain-free, refined sugar free, and oh so delicious!_
@@ -97,7 +98,8 @@ CALORIES350 KCAL
 ---
 ## NUTRITIONS
 
-![[image_694.png]]
+![IMAGE](image_694.png)
+
 
 ---
 ### *EXTRA* :

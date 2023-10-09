@@ -27,7 +27,8 @@ ingredients:
   - poivre
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 **Brochettes de poulet à l’ail** (Sophie) (voir aussi plus bas pr une recette avec du vin blanc)

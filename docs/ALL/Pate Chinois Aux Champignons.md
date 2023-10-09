@@ -25,7 +25,8 @@ ingredients:
   - soupe creme de champignons
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 ## PREP
 

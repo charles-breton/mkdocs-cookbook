@@ -33,7 +33,7 @@ ingredients:
   - herbes
 ---
 
-![[image_457.png]]
+![IMAGE](image_457.png)
 ###### *RELATED* : 
 ---
 

@@ -22,7 +22,8 @@ ingredients:
   - garlic powder
 ---
 
-![[image_519.png]]
+![IMAGE](image_519.png)
+
 ###### *RELATED* : 
 ---
 What if we told you there’s a way to make grain-free pizza that’s healthy, simple and doesn’t require you to turn on the oven? The secret: [Chickpea flour](https://www.amazon.com/gp/product/B00GUGUET0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cleaplat-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GUGUET0&linkId=f23fb3d24be4a43ed98b3e09dac0aef4).

@@ -31,7 +31,8 @@ ingredients:
   - apple cider
 ---
 
-![[image_207.png]]
+![IMAGE](image_207.png)
+
 ###### *RELATED* : 
 ---
 Tender gluten free apple cider donuts smell like the best donuts at the apple orchard, with plenty of cinnamon and freshly ground nutmeg and rich, flavorful apple cider baked right into the batter.

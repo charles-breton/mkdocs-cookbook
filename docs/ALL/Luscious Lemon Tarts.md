@@ -28,7 +28,8 @@ ingredients:
   - water
 ---
 
-![[image_228.png]]
+![IMAGE](image_228.png)
+
 ###### *RELATED* : 
 ---
 Beautiful food excites me.  It’s like art on a plate.  I get a kick out of creating lovely food that tastes amazing.  It’s my creative outlet in life.  My pots, pans, and baking dishes are my art supplies.  REAL food is my medium.  Today’s creation: **Luscious Lemon Tarts.**

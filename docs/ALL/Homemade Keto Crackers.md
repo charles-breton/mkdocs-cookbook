@@ -19,7 +19,8 @@ ingredients:
 equipments:
 ---
 
-![[image_649.png]]
+![IMAGE](image_649.png)
+
 ###### *RELATED* : 
 ---
 This is a modified Homemade Keto Crackers recipe from my friend Megan Kelly. She has an incredible site [Renewing All Things – Biblically Based Health, Nutrition and Lifestyle](https://renewingallthings.com/) specializing in neurobiology, healing, and mental health. Enjoy these tasty homemade keto crackers!

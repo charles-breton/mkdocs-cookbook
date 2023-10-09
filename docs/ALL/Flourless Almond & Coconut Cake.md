@@ -28,7 +28,8 @@ ingredients:
   - icing
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 A Gluten Free Flourless Almond and Coconut Cake that’s moist, tender and incredibly delicious. It takes just few minutes to whip up this recipe, best for busy days.

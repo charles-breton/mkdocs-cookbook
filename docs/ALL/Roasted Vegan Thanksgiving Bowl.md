@@ -39,7 +39,8 @@ ingredients:
   - cranberry sauce
 ---
 
-![[image_410.png]]
+![IMAGE](image_410.png)
+
 ###### *RELATED* : 
 ---
 Easy peasy vegan Thanksgiving in a bowl! Roasted veggies, toasty pecans, mashed potatoes, and easy vegan gravy, all in 1 bowl and ready in less than 1 hour. Serves 2-3.
@@ -135,7 +136,8 @@ Serve with cranberry sauce. Top mashed potatoes and/or roasted veggies with grav
 ---
 ## NUTRITIONS
 
-![[image_411.png]]
+![IMAGE](image_411.png)
+
 
 ---
 ### *EXTRA* :

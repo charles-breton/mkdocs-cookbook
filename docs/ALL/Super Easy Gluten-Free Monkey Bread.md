@@ -29,7 +29,8 @@ ingredients:
   - milk
 ---
 
-![[image_199.png]]
+![IMAGE](image_199.png)
+
 ###### *RELATED* : 
 ---
 This recipe for gluten free monkey bread is easy to make, especially for the little hands of little kitchen helpers, and makes the house smell like warm, cinnamon goodness!

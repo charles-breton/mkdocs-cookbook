@@ -33,7 +33,8 @@ ingredients:
   - peppercorns
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 
 Good beef stock requires several sorts of bones: knuckle bones and feet impart large quantities of gelatin to the broth; marrow bones impart flavor and the particular nutrients of bone marrow; and meaty ribs and shanks add color and flavor. We have found that grass-fed beef bones work best--the cartilage melts more quickly, and the smell and flavor is delicious.

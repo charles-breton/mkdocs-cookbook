@@ -25,7 +25,8 @@ ingredients:
   - pecans
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

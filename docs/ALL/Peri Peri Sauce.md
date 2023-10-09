@@ -25,7 +25,8 @@ ingredients:
   - lemon juice
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Peri Peri sauce (or piri-piri sauce) traces its origins back to Portugal, but this spicy condiment is widely enjoyed throughout countries such as Angola, Namibia, Mozambique and South Africa. Recipes vary from region to region (and family to family), but they all share one factor: lots of heat. Miss South of [North South Foods](http://www.northsouthfood.com/) whipped up this thick and thoroughly addictive Peri Peri Sauce to use as a marinade/rub for [a variation of barbecued beer-can chicken](http://www.northsouthfood.com/michelada-peri-peri-poussin/), although she writes that "it’s pretty hot, and fairly addictive, especially used raw."

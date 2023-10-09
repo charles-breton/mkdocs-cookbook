@@ -22,7 +22,8 @@ ingredients:
   - sugar
 ---
 
-![[image_270.png]]
+![IMAGE](image_270.png)
+
 ###### *RELATED* : 
 ---
 Learn to make the French classic, a super creamy creme brulee. Our simple recipe offers plenty of options to mix up the flavors.
@@ -65,7 +66,8 @@ Learn to make the French classic, a super creamy creme brulee. Our simple recipe
 ---
 ## NUTRITIONS
 
-![[image_269.png]]
+![IMAGE](image_269.png)
+
 
 ---
 ### *EXTRA* :

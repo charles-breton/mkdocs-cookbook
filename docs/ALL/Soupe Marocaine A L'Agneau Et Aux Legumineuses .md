@@ -17,7 +17,8 @@ calories:
 link: https://www.ricardocuisine.com/recettes/9007-soupe-marocaine-a-l-agneau-et-aux-legumineuses-harira
 ---
 
-![[image_31.png]]
+![IMAGE](image_31.png)
+
 
 ## NOTES
 

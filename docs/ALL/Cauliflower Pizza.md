@@ -27,7 +27,8 @@ servings: "4"
 link: https://food52.com/recipes/81160-cauliflower-pizza-bake
 ---
 
-![[image_5.png]]
+![IMAGE](image_5.png)
+
 
 
 

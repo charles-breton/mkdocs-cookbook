@@ -24,7 +24,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Subtly sweet, moist and chewy on the inside, and delectably crisp on the outside, coconut macaroons are an irresistible treat. This healthy yet delicious snack can suit your gluten-free diet, and is lactose-free too.

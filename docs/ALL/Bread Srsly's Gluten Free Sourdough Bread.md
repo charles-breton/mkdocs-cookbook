@@ -27,7 +27,8 @@ ingredients:
 equipments:
 ---
 
-![[image_618.png]]
+![IMAGE](image_618.png)
+
 ###### *RELATED* : 
 ---
 This easy **gluten free sourdough bread recipe** is made from my sourdough starter recipe, and it is so easy to make you will be surprised it is gluten free! Making your first gluten-free sourdough starter is a bit of work, but it is well worth the effort!

@@ -34,7 +34,8 @@ ingredients:
   - herbes de Provence
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

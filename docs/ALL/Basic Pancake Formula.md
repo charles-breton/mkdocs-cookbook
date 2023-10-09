@@ -29,7 +29,8 @@ ingredients:
   - vanilla
 ---
 
-![[image_161.png]]
+![IMAGE](image_161.png)
+
 ###### *RELATED* : 
 ---
 When we’ve made changes to our diet for health reasons or newly discovered allergies, re-inventing our breakfast routine can feel like a challenge. Happily, giving up pancakes is not necessary.

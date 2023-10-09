@@ -26,7 +26,8 @@ ingredients:
   - beurre d'amande
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* :  [[Larabars Au Cacao]]
 ---
 

@@ -28,7 +28,8 @@ ingredients:
   - garlic powder
 ---
 
-![[image_564.png]]
+![IMAGE](image_564.png)
+
 ###### *RELATED* : 
 ---
 This is Brisket the way it is supposed to be made. Be alert...this requires you to cook it 1 1/2 hours per pound of brisket! It is well worth the effort...trust me!

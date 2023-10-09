@@ -36,7 +36,8 @@ ingredients:
   - pecans
 ---
 
-![[image_302.png]]
+![IMAGE](image_302.png)
+
 ###### *RELATED* : 
 ---
 _A delicious sugar free and gluten free German chocolate cake. This paleo friendly coconut flour based zucchini chocolate cake is super moist._

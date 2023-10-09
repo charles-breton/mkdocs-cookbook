@@ -26,7 +26,8 @@ ingredients:
   - chocolate chips
 ---
 
-![[image_338.png]]
+![IMAGE](image_338.png)
+
 ###### *RELATED* : 
 ---
 An easy 4-ingredient recipe for no bake low carb keto chocolate peanut butter protein balls! A thick and fudgy peanut butter center, covered in a sugar-free chocolate. These 5-minute keto chocolate peanut butter fat bombs are a quick healthy dessert or protein-packed snack with a peanut-free option! Paleo, Vegan, Gluten Free.

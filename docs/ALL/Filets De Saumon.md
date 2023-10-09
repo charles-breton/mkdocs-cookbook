@@ -18,7 +18,8 @@ ingredients:
   - filets
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

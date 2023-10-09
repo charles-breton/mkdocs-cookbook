@@ -27,7 +27,8 @@ ingredients:
   - himalayan salt
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 
 While your diet should contain colorful organic vegetables, ideally it should include moderate amounts of high-quality animal protein, which are valuable sources of nutrients that cannot be obtained elsewhere.
@@ -81,7 +82,8 @@ Remove from the oven and let rest for 10 minutes. Slice and serve.
 
 ## NUTRITIONS
 
-![[image_104.png]]
+![IMAGE](image_104.png)
+
 
 ## NOTES
 

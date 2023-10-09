@@ -25,7 +25,8 @@ ingredients:
   - nacho cheese
 ---
 
-![[image_418.png]]
+![IMAGE](image_418.png)
+
 ###### *RELATED* : 
 ---
 

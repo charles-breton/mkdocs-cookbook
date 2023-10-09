@@ -24,7 +24,8 @@ ingredients:
   - porc
 ---
 
-![[image_447.png]]
+![IMAGE](image_447.png)
+
 ###### *RELATED* : 
 ---
 

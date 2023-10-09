@@ -34,7 +34,8 @@ ingredients:
   - parsley
 ---
 
-![[image_85.png]]
+![IMAGE](image_85.png)
+
 
 Slow Cooker Beef Bourguignon has crazy tender melt in your mouth beef and hearty veggies slow cooked to perfection in a rich sauce. This meal is comforting and perfect for the cold months ahead!
 
@@ -106,7 +107,8 @@ Garnish with fresh parley and serve with mashed potatoes if desired.
 
 ## NUTRITIONS
 
-![[image_86.png]]
+![IMAGE](image_86.png)
+
 
 
 ## NOTES

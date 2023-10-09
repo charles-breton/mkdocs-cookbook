@@ -29,7 +29,8 @@ ingredients:
   - celery salt
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

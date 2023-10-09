@@ -24,7 +24,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_119.png]]
+![IMAGE](image_119.png)
+
 ###### *RELATED* : 
 
 

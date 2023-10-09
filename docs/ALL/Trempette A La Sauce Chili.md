@@ -25,7 +25,8 @@ time:
 source: Marise
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

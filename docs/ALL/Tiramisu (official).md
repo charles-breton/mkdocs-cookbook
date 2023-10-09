@@ -32,7 +32,8 @@ ingredients:
   - ladyfinders
 ---
 
-![[image_187.png]]
+![IMAGE](image_187.png)
+
 ###### *RELATED* : 
 ##### TIRAMISU [previous versions] : 
 [[Tiramisu 1]] 

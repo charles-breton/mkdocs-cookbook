@@ -33,7 +33,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This paleo chocolate cake recipe is fluffy, light and airy. It's also unbelievably decadent, rich and moist. Once you make it, you'll see why it quickly became a reader favorite. **Watch the video above!**

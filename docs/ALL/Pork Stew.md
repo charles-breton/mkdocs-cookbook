@@ -31,7 +31,8 @@ ingredients:
   - tomatoes
 ---
 
-![[image_456.png]]
+![IMAGE](image_456.png)
+
 ###### *RELATED* : 
 ---
 _**Pork Stew** is not only easy to make, but it’s also delicious! Tender pork shoulder, potatoes and veggies create a hearty and thick stew that will warm your belly from the inside out!_

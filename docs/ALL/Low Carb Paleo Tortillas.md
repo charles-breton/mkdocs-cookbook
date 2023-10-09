@@ -31,7 +31,8 @@ ingredients:
 equipments:
 ---
 
-![[image_708.png]]
+![IMAGE](image_708.png)
+
 ###### *RELATED* : 
 ---
 
@@ -84,7 +85,8 @@ equipments:
 ---
 ## NUTRITIONS
 
-![[image_707.png]]
+![IMAGE](image_707.png)
+
 
 ---
 ### *EXTRA* :

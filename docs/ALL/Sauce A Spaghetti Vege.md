@@ -34,7 +34,8 @@ ingredients:
   - puree de tomates
 ---
 
-![[image_496.png]]
+![IMAGE](image_496.png)
+
 ###### *RELATED* : 
 ---
 

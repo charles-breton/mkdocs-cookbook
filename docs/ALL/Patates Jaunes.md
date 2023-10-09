@@ -24,7 +24,8 @@ ingredients:
   - feuille de laurier
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

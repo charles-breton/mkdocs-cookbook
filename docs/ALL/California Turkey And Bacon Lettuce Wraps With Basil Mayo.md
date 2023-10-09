@@ -19,7 +19,8 @@ calories:
 ingredients:
 ---
 
-![[image_548.png]]
+![IMAGE](image_548.png)
+
 ###### *RELATED* : 
 ---
 These California Turkey and Bacon Lettuce Wraps are just what I’ve been looking for, for quick lunches and dinners – they’re not only fresh, but filling and satisfying too. Enjoy, and have a great week!

@@ -23,7 +23,8 @@ ingredients:
   - salt
 ---
 
-![[image_529.png]]
+![IMAGE](image_529.png)
+
 ###### *RELATED* : 
 ---
 THIS IS GOING TO BE THE EASIEST CROCKPOT BBQ CHICKEN YOU HAVE EVER MADE.

@@ -29,7 +29,8 @@ ingredients:
 equipments:
 ---
 
-![[image_684.png]]
+![IMAGE](image_684.png)
+
 ###### *RELATED* : 
 ---
 Low Carb Tortillas Chips, quick and easy baked keto chips with only 5 ingredients. 100 % grain-free, Paleo + Vegan. Those are life changing chips made of almond meal and chia seeds and only 0.4 net carb per chips.
@@ -84,7 +85,8 @@ Total Time18 mins
 ---
 ## NUTRITIONS
 
-![[image_685.png]]
+![IMAGE](image_685.png)
+
 
 ---
 ### *EXTRA* :

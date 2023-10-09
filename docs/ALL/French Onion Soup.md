@@ -28,7 +28,8 @@ ingredients:
   - nutritional yeast
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 A twist on the classic to support the microbiome

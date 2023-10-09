@@ -32,7 +32,8 @@ ingredients:
   - fries
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 People are often surprised to learn that Peruvian cuisine has a strong Chinese influence. A large Chinese immigrant community in Lima has given rise to a unique fusion of Incan, European and Asian cuisine called _chifa_ cooking. _Lomo saltado_, a stir fry of beef and French fries over rice, is the ultimate example.

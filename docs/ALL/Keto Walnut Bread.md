@@ -31,7 +31,8 @@ ingredients:
 equipments:
 ---
 
-![[image_692.png]]
+![IMAGE](image_692.png)
+
 ###### *RELATED* : 
 ---
 This keto walnut bread recipe is packed full of walnuts and flavour. When sliced it has a chewy and nutty texture. This healthy [low carb bread](https://ketovegetarianrecipes.com/keto-bread-low-carb/) that is easy to make and a great addition to a cheeseboard. Or simply slice and toast for a breakfast packed full of nutrition.

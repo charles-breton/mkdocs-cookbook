@@ -28,7 +28,8 @@ ingredients:
   - water
 ---
 
-![[image_320.png]]
+![IMAGE](image_320.png)
+
 ###### *RELATED* : 
 ---
 The words “perfect” and “chocolate cake” basically have the same meaning, right? With HERSHEY’S homemade chocolate cake this seems to be true. Baking from scratch is easier than you think when you mix HERSHEY’S cocoa with a few other simple ingredients. Bake this delicious dessert when you’re hosting the next family get-together, celebrating a birthday or wanting a bite of delicious chocolate cake after dinner. This “perfectly chocolate” cake was made for sharing, so get out your best plates, have a pitcher of milk ready and divvy out this chocolatey cake with your favorite people.
@@ -80,7 +81,8 @@ COOL TIME
 ---
 ## NUTRITIONS
 
-![[image_323.png]]
+![IMAGE](image_323.png)
+
 
 ---
 ### *EXTRA* :

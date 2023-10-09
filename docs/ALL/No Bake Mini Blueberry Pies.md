@@ -28,7 +28,8 @@ ingredients:
   - lemon juice
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

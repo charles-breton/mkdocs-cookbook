@@ -24,7 +24,8 @@ ingredients:
   - garlic
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* :  [[Kale Salad]]
 ---
 

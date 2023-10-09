@@ -33,7 +33,8 @@ ingredients:
   - red pepper flakes
 ---
 
-![[image_291.png]]
+![IMAGE](image_291.png)
+
 ###### *RELATED* : 
 ---
 Rich in protein and fiber, this quick and easy 100% soba noodle bowl with fresh veggies and miso dressing is simple, healthy and delicious!
@@ -98,7 +99,8 @@ For more protein, add a serving of crispy tofu or edamame.
 ---
 ## NUTRITIONS
 
-![[image_292.png]]
+![IMAGE](image_292.png)
+
 
 ---
 ### *EXTRA* :

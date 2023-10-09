@@ -27,7 +27,8 @@ ingredients:
   - cayenne pepper
 ---
 
-![[image_374.png]]
+![IMAGE](image_374.png)
+
 ###### *RELATED* : 
 ---
 Kimchi is a famous fermented vegetable dish from Korea. Usually served as a side dish, there are more than 300 different varieties of kimchi, depending on the main vegetable ingredient used and the region or season in which they’re made.

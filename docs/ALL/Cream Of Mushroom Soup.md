@@ -17,7 +17,8 @@ calories:
 ingredients:
 ---
 
-![[image_581.png]]
+![IMAGE](image_581.png)
+
 ###### *RELATED* : 
 ---
 
@@ -46,15 +47,20 @@ Prep time: **10 minutes** Cook time: **25 minutes** Serving Size: **2**
 # INSTRUCTIONS
 
 1. Heat the coconut oil in a large skillet over medium heat, and then place the sliced mushrooms in a single layer. Let the mushrooms cook without moving for five minutes, or until the bottoms are golden brown. Flip them and continue cooking for another five minutes. Once the mushrooms are ready, set them aside.
-![[image_576.png]]
+![IMAGE](image_576.png)
+
 2. In the same skillet, sauté the diced onions and minced garlic together. Cook the onions for seven minutes, or until tender. Add most of the mushrooms and reserve a few slices for garnish. Pour in the water and mix well, and then simmer over medium heat for 10 minutes.
-![[image_577.png]]
+![IMAGE](image_577.png)
+
 3. Remove the skillet from the stove. Transfer the ingredients in a blender and pulse on high-speed until you get a thick homogeneous mixture.
-![[image_578.png]]
+![IMAGE](image_578.png)
+
 4. Return the mixture back to the skillet, and then add in the coconut cream and salt. Mix well to combine and let the soup cook for five minutes over low heat.
-![[image_579.png]]
+![IMAGE](image_579.png)
+
 5. Divide the soup evenly between two bowls and top with sautéed mushroom slices. Garnish with chopped parsley, ground black pepper and a drizzle of coconut oil.
-![[image_580.png]]
+![IMAGE](image_580.png)
+
 
 ---
 ## NOTES

@@ -23,7 +23,8 @@ ingredients:
   - garlic
 ---
 
-![[image_388.png]]
+![IMAGE](image_388.png)
+
 ###### *RELATED* : 
 ---
 

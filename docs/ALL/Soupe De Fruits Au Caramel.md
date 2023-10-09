@@ -22,7 +22,8 @@ ingredients:
   - noix de grenoble
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

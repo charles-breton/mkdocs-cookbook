@@ -23,7 +23,8 @@ ingredients:
   - chives
 ---
 
-![[image_276.png]]
+![IMAGE](image_276.png)
+
 ###### *RELATED* : 
 ---
 Smoked salmon is a must on every buffet table in our family regardless of the occasion. Christmas, birthdays or Easter, smoked salmon is always one of the dishes that we eat. Due to this I’ve become a bit bored of it. It’s good, but I prefer the other dishes on the buffet table or at least prefered until my mother made these salmon rolls. Now I’ll definitly eat salmon at our next family buffet, as long it’s in shape of these delicious salmon rolls filled with creamy and biting mixture.

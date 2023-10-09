@@ -20,7 +20,8 @@ ingredients:
 equipments:
 ---
 
-![[image_683.png]]
+![IMAGE](image_683.png)
+
 ###### *RELATED* : 
 ---
 _A flourless morning glory muffin that’s gluten-free, refined sugar-free, dairy-free, oil-free and whipped up in the blender in under 5 minutes flat! Perfect for breakfast or as a healthy snack._

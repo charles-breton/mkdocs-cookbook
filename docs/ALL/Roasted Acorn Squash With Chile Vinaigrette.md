@@ -24,7 +24,8 @@ ingredients:
   - cilantro
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This late-season squash is roasted to coax out its subtle sugars before being mixed with citrus juice, chile, and cilantro.

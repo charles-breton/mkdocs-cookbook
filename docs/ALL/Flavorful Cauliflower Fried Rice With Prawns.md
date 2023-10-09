@@ -36,7 +36,8 @@ ingredients:
   - lime
 ---
 
-![[image_405.png]]
+![IMAGE](image_405.png)
+
 ###### *RELATED* : 
 ---
 A very popular dish in Chinese cuisine, fried rice was said to have been invented in China sometime during the Sui dynasty (589-618 AD), in the city of Yangzhou in the eastern Jiangsu province. This is why typical Chinese fried rice is often called Yangzhou fried rice, sometimes referred to as Yeung or Yang Chow fried rice. However, take note that fried rice recipes are found all throughout China, with different ingredients and flavors.1

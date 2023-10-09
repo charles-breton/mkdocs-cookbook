@@ -33,7 +33,8 @@ equipments:
   - measuring cups
 ---
 
-![[image_679.png]]
+![IMAGE](image_679.png)
+
 ###### *RELATED* : 
 ---
 
@@ -92,7 +93,8 @@ TOTAL TIME: 1 HR 10 MINS
 ---
 ## NUTRITIONS
 
-![[image_680.png]]
+![IMAGE](image_680.png)
+
 
 ---
 ### *EXTRA* :

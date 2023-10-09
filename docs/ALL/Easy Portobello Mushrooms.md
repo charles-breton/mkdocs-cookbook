@@ -24,7 +24,8 @@ ingredients:
   - asiago cheese
 ---
 
-![[image_402.png]]
+![IMAGE](image_402.png)
+
 ###### *RELATED* : 
 ---
 Learn how to cook portobello mushrooms with this quick and easy portobello mushroom recipe. You can substitute shallots for the onions if you wish. My family loves this recipe, it tastes so good!.
@@ -65,7 +66,8 @@ Total Time: 15 mins
 ---
 ## NUTRITIONS
 
-![[image_403.png]]
+![IMAGE](image_403.png)
+
 
 ---
 ### *EXTRA* :

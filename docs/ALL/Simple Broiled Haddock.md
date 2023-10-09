@@ -23,7 +23,8 @@ ingredients:
   - lemon
 ---
 
-![[image_588.png]]
+![IMAGE](image_588.png)
+
 ###### *RELATED* : 
 ---
 This haddock recipe is very quick and easy to make. A blend of seasonings spices up the mild flavor of this wonderfully light and flaky white fish.
@@ -70,7 +71,8 @@ This haddock recipe is very quick and easy to make. A blend of seasonings spices
 ---
 ## NUTRITIONS
 
-![[image_589.png]]
+![IMAGE](image_589.png)
+
 
 ---
 ### *EXTRA* :

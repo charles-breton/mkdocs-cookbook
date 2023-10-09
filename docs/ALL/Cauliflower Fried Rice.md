@@ -31,7 +31,8 @@ calories: "222"
 link: https://ifoodreal.com/cauliflower-fried-rice/#wprm-recipe-container-39746
 ---
 
-![[image_6.png]]
+![IMAGE](image_6.png)
+
 ###### *RELATED* : 
 ---
 

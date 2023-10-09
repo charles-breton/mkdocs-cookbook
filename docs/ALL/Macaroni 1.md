@@ -34,7 +34,8 @@ ingredients:
   - poivre de cayenne
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

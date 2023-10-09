@@ -30,7 +30,8 @@ ingredients:
   - s
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Here is a recipe from my [new cookbook available now](http://bodyecology.com/the-body-ecology-cookbook.html)! Over 250 sugar-free, gluten-free Body Ecology friendly recipes including smoothies, brunch, soups, dressings and dips, quick-and easy meals, desserts, and much more!

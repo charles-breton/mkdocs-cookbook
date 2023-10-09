@@ -30,7 +30,8 @@ ingredients:
   - prosciutto
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This coarse-textured terrine makes for a delicious lunch served with grainy mustard, a salad and some good-quality bread. Or slice it thinly for an hors d’oeuvre and place it on top of crackers with a dollop of blackcurrant jelly.

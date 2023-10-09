@@ -21,7 +21,8 @@ ingredients:
 equipments:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Love sourdough but you're gluten free? This Gluten-Free Sourdough Starter is so easy--you can have tasty sourdough bread ready right away, even if you're avoiding gluten!

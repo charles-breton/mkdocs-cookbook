@@ -27,7 +27,8 @@ ingredients:
   - tapioca starch
 ---
 
-![[image_180.png]]
+![IMAGE](image_180.png)
+
 ###### *RELATED* : 
 ---
 Gluten & Dairy Free Pie Crust – Sweet or Savory This recipe makes 2 Bottom Pie Crusts or 1 Set (top & bottom) Pie Crusts.
@@ -35,7 +36,8 @@ Gluten & Dairy Free Pie Crust – Sweet or Savory This recipe makes 2 Bottom Pie
 ---
 ## PREP
 
-![[image_181.png]]
+![IMAGE](image_181.png)
+
 
 ---
 # INGREDIENTS

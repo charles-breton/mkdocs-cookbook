@@ -25,7 +25,8 @@ ingredients:
   - sour cream
 ---
 
-![[image_324.png]]
+![IMAGE](image_324.png)
+
 ###### *RELATED* : 
 ---
 Decadent indeed, this frosting is a [chocolate lover's](https://www.marthastewart.com/1102398/comfort-cakes-irresistible-flourless-chocolate-cake) dream come true. [Creme fraiche](https://www.marthastewart.com/1540602/creme-fraiche-sour-cream-mascarpone-yogurt-differences-explained) offsets some of the richness. Use it to frost vanilla cake (or chocolate if you're a [chocoholic](https://www.marthastewart.com/1502289/chocolate-dessert-recipes)).

@@ -25,7 +25,8 @@ ingredients:
   - vanille blanche
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

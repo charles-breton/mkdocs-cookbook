@@ -35,7 +35,8 @@ ingredients:
   - parsley
 ---
 
-![[image_63.png]]
+![IMAGE](image_63.png)
+
 
 ## PREP
 

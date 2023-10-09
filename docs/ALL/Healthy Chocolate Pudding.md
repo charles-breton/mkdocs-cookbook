@@ -30,7 +30,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_182.png]]
+![IMAGE](image_182.png)
+
 ###### *RELATED* : 
 ---
 This creamy healthy chocolate pudding recipe is surprisingly easy to make at home! 6 Ingredients + NO Avocado!
@@ -69,7 +70,8 @@ I’ve only tried this recipe with Dutch cocoa powder so can’t vouch for the t
 ---
 ## NUTRITIONS
 
-![[image_183.png]]
+![IMAGE](image_183.png)
+
 **Weight Watchers SmartPoints:** 2 points
 
 **Net Carbs:** 8.4 – For a low carb alternative recipe, try this [Keto Chocolate Mousse](https://chocolatecoveredkatie.com/keto-chocolate-mousse-recipe/).

@@ -28,7 +28,8 @@ ingredients:
   - cocoa powder
 ---
 
-![[image_187.png]]
+![IMAGE](image_187.png)
+
 ###### *RELATED* : 
 ---
 This dairy and gluten free tiramisu will change your life. At the very least, your dessert life. Because after years of not being able to eat the perfection that is tiramisu, this is changing – right here, right now. Easy to make, rich and delicious, this just may be your new favourite dessert.

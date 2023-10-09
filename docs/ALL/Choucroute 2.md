@@ -21,7 +21,8 @@ ingredients:
   - cafe de graines de cumin
 ---
 
-![[image_368.png]]
+![IMAGE](image_368.png)
+
 ###### *RELATED* : 
 ---
 
@@ -45,11 +46,14 @@ ingredients:
 
 1. Ne rincez pas le chou. On a besoin des micro-organismes qui sont sur le Iégume. Eliminez les premiéres feuilles abimées ou qui peuvent étre souillées de terre. Retirez les 2 ou 3 feuilles suivantes et réservez-les. Coupez le chou en 4. Eliminez le trognon dur. Emincez trés finement le chou avec une mandoline ou avec un couteau.
 2. Pesez les lamelles de chou obtenues et préparez 10 grammes de sel par kilo de chou. Soit 1% de sel.
-![[image_369.png]]
+![IMAGE](image_369.png)
+
 3. Mettez le chou dans un grand récipient, ajoutez la quantité de sel et les épices, mélangez bien. Laissez reposer 15 a 30 minutes puis mélangez longuement le chou en le pressant fort avec les mains pour méler intimement le tout et faire sortir le jus du Iégume. Quand le chou devient visiblement humide, c’est prét. En pressant une poignée de chou dans votre main, du jus doit couler. Si ce n’est pas le cas, laissez reposer encore et re-massez le chou jusqu’a ce que le jus coule.
-![[image_370.png]]
+![IMAGE](image_370.png)
+
 4. Transférez le chou (toujours avec son jus) dans le pot, ou dans les bocaux.
-![[image_371.png]]
+![IMAGE](image_371.png)
+
 5. Ce faisant, tassez bien entre chaque couche de chou. Le jus doit sortir du légume. II ne faut pas remplir le pot ni le bocal jusqu’en haut, car la fermentation fera augmenter le volume et le jus peut déborder. Laissez donc un espace de 2 cm pour les bocaux et au moins 8-10 cm pour le pot en grés.
 
 #### POUR LES BOCAUX:
@@ -59,7 +63,8 @@ ingredients:
 #### POUR LE POT EN GRES:
 
 7. Etalez les feuilles entiéres, appuyez puis posez les poids. Fermez le couvercle et remplissez le joint avec de l’eau.
-![[image_372.png]]
+![IMAGE](image_372.png)
+
 8. Laisser les pots ou bocaux a température ambiante pendant 7 jours.
 9. Aprés quelques jours si vous avez l’impression que l’eau est descendue n’ouvrez pas le bocal ou la jarre. Ce n’est qu’une impression die au fait que les legumes augmentent de volume. Si vous ouvrez, vous allez introduire de I’ai et ¢a va moisir. De méme si vous rajoutez de I’eau, le chou va ramollir.
 10. Aprés les 7 jours, poursuivez la fermentation 4 une température ambiante fraiche, dans un local 4 moins de 19-20°C.

@@ -29,7 +29,8 @@ ingredients:
   - salt
 ---
 
-![[image_176.png]]
+![IMAGE](image_176.png)
+
 ###### *RELATED* : 
 ---
 

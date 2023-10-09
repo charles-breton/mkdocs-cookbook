@@ -29,7 +29,8 @@ ingredients:
   - sirop de mais
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

@@ -24,7 +24,8 @@ ingredients:
   - chocolate
 ---
 
-![[image_152.png]]
+![IMAGE](image_152.png)
+
 ###### *RELATED* : 
 ---
 Rich Chocolate Mousse in minutes! No eggs. No dairy. And only 3 ingredients to thick, creamy and rich chocolate mousse that happens to be low carb and real really good for you. **Weight Watchers:** 5pp per serve (out of 8 serves)

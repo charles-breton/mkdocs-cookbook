@@ -28,7 +28,8 @@ ingredients:
   - almond
 ---
 
-![[image_184.png]]
+![IMAGE](image_184.png)
+
 ###### *RELATED* : 
 ---
 

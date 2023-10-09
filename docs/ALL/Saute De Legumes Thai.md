@@ -34,7 +34,8 @@ ingredients:
   - basilic thai
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

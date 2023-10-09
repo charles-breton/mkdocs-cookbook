@@ -29,7 +29,8 @@ equipments:
   - loaf pan
 ---
 
-![[image_721.png]]
+![IMAGE](image_721.png)
+
 ###### *RELATED* : 
 ---
 

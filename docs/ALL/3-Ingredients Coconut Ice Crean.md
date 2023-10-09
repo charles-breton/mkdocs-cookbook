@@ -22,7 +22,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_124.png]]
+![IMAGE](image_124.png)
+
 ###### *RELATED* : 
 
 You can make this **without an ice cream maker**, though it won’t be exactly the same consistency. Ice cream makers basically work by churning a ton of air into the mixture. If you beat the ice cream mixture by hand, it’ll be denser and a little coarser, because you won’t be able to get as much air into it by hand. That said, here’s what to do:
@@ -98,35 +99,46 @@ When you make ice cream, you want to start with cold ingredients. It makes the f
 
 Crack open your cans o’ coconut milk. Coconut milk naturally separates, so you’ll have a thick, white layer on top (which contains the fattier solids), and watery liquid below. That’s just fine.
 
-![[image_125.png]]
-![[image_126.png]]
-![[image_127.png]]
-![[image_128.png]]
+![IMAGE](image_125.png)
+
+![IMAGE](image_126.png)
+
+![IMAGE](image_127.png)
+
+![IMAGE](image_128.png)
+
 
 Empty the contents of the cans into your blender. Scrape the can, get it all out.
 
-![[image_129.png]]
+![IMAGE](image_129.png)
+
 
 (Bleh, right? Don’t worry. The blender will re-emulsify this mess into gorgeous, silky, homogenous coconut milk.)
 
-![[image_130.png]]
-![[image_131.png]]
+![IMAGE](image_130.png)
+
+![IMAGE](image_131.png)
+
 
 Add the sugar and vanilla.
 
-![[image_132.png]]
+![IMAGE](image_132.png)
+
 
 Blend until smooth.
 
-![[image_133.png]]
+![IMAGE](image_133.png)
+
 
 It will look about like this when done. The bumps you see are bubbles.
 
-![[image_134.png]]
+![IMAGE](image_134.png)
+
 
 Give it a quick taste. If you want to add extra sugar or more vanilla, now’s the time to do it. (If you want to add anything solid, like shredded coconut or mini chocolate chips, add those in the last 5 minutes of processing when you have it in your ice cream maker.)
 
-![[image_135.png]]
+![IMAGE](image_135.png)
+
 
 That’s it. That’s your ice cream base. Pretty simple, right?
 
@@ -134,38 +146,50 @@ That’s it. That’s your ice cream base. Pretty simple, right?
 
 Pour the mixture into your ice cream maker and process according to the manufacturer’s instructions.
 
-![[image_136.png]]
+![IMAGE](image_136.png)
+
 
 It will transform from this:
 
-![[image_137.png]]
+![IMAGE](image_137.png)
+
 
 To this:
 
-![[image_138.png]]
-![[image_139.png]]
+![IMAGE](image_138.png)
+
+![IMAGE](image_139.png)
+
 
 When it’s done, transfer it to a freezer-safe container. I like to use 1-lb. bread pans. They hold a quart of ice cream nicely.
 
-![[image_140.png]]
-![[image_141.png]]
+![IMAGE](image_140.png)
+
+![IMAGE](image_141.png)
+
 
 Smooth the top down with a spatula.
 
-![[image_142.png]]
+![IMAGE](image_142.png)
+
 
 Press a piece of plastic wrap to the surface of the ice cream. Pop it into your freezer and freeze overnight or until solid.
 
-![[image_143.png]]
+![IMAGE](image_143.png)
+
 
 #### Serve & enjoy!
 
 This ice cream doesn’t really freeze rock solid, which means it’s pretty scoopable right out of the freezer. (No waiting? Yes, please!)
 
-![[image_145.png]]
-![[image_146.png]]
-![[image_147.png]]
-![[image_148.png]]
+![IMAGE](image_145.png)
+
+![IMAGE](image_146.png)
+
+![IMAGE](image_147.png)
+
+![IMAGE](image_148.png)
+
 
 
 ## NUTRITIONS

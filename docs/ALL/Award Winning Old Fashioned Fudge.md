@@ -25,7 +25,8 @@ ingredients:
   - walnuts
 ---
 
-![[image_107.png]]
+![IMAGE](image_107.png)
+
 ###### *RELATED* : 
 
 _This is an Old Fashioned Fudge Recipe. An award winning fudge recipe that’s been in our family for generations. Winning the Division Sweepstakes at the Kansas State Fair, this recipe is made with marshmallow creme and condensed milk. An easy chocolate fudge recipe that will become a Christmas tradition._

@@ -21,7 +21,8 @@ ingredients:
   - eau
 ---
 
-![[image_513.png]]
+![IMAGE](image_513.png)
+
 ###### *RELATED* : 
 ---
 Bonjour et bienvenue dans ma cuisine. Aujourd’hui on va faire des **chapatis**. C’est notre **pain** quotidien, on en mange tous les jours, surtout dans le **nord de l’Inde**. Il existe de nombreuses variétés de chapatis, on va commencer par la plus simple à faire.

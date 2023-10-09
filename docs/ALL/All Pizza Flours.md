@@ -18,7 +18,8 @@ calories:
 ingredients:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 [[Basic White Gluten-Free Flour]]

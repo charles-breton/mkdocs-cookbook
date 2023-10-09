@@ -29,7 +29,8 @@ ingredients:
   - pepper
 ---
 
-![[image_29.png]]
+![IMAGE](image_29.png)
+
 ###### *RELATED* : 
 ---
 Garlic Butter Mushrooms Cauliflower Skillet – Super nourishing and easy to whip up, this **mushroom and cauliflower recipe** is insanely addictive! With minimal ingredients and ready in no time, you can serve **garlic butter mushrooms and cauliflower skillet** by itself as a quick lunch, or as a side dish. This garlic butter mushrooms and cauliflower skillet requires minimal ingredients and is ready in no time. If you are trying to eat low carb, this simple **mushroom and cauliflower recipe** is the perfect base for your lunches and dinners. Enjoy

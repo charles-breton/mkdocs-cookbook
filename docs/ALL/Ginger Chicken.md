@@ -18,7 +18,8 @@ source: Sophie
 link: p.41 livre Thai
 ---
 ![[20231001_150637.jpg]]
-![[image_729.png]]
+![IMAGE](image_729.png)
+
 
 ## NOTES
 

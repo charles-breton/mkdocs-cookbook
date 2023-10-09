@@ -25,7 +25,8 @@ ingredients:
   - legumes
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 
@@ -97,7 +98,8 @@ Ajouter du bouillon (miso pour 2t et les reste légumes) (8 t. Pour la quant
 
 Finir avec la sauce soya, le poivre, les échalottes, et un peu d’huile d’olive.
 
-![[image_586.png]]
+![IMAGE](image_586.png)
+
 
 Mon morceau de chou était un peu trop gros, j'en ai laissé un bout.
 

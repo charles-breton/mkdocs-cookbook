@@ -36,7 +36,8 @@ ingredients:
   - coconut
 ---
 
-![[image_358.png]]
+![IMAGE](image_358.png)
+
 ###### *RELATED* : 
 ---
 This paleo & vegan easy healthy chocolate avocado truffle recipe is sure to become a favorite in your home. Warning - they are quite delicious!

@@ -27,7 +27,8 @@ ingredients:
   - culture bacterienne
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

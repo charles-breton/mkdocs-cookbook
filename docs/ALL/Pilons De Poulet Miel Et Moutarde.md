@@ -25,7 +25,8 @@ ingredients:
   - sauce piquante
 ---
 
-![[image_553.png]]
+![IMAGE](image_553.png)
+
 ###### *RELATED* : 
 ---
 

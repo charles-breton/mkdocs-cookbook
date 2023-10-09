@@ -22,7 +22,8 @@ ingredients:
   - huile d'argan
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

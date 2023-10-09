@@ -29,7 +29,8 @@ calories:
 link: https://web.archive.org/web/20161007160649/http://distasio.telequebec.tv/recette/1183/casserole-d-agneau-hache-et-legumes-rotis
 ---
 
-![[image_35.png]]
+![IMAGE](image_35.png)
+
 
 ## NOTES
 

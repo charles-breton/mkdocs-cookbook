@@ -31,7 +31,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_168.png]]
+![IMAGE](image_168.png)
+
 ###### *RELATED* : 
 ---
 These two bite gluten free brownies are a cross between a rich chocolate cake and a brownie, and gone in just two bites! They're your new go-to GF brownie recipe.
@@ -78,7 +79,8 @@ These two bite gluten free brownies are a cross between a rich chocolate cake an
 ---
 ## NUTRITIONS
 
-![[image_198.png]]
+![IMAGE](image_198.png)
+
 
 ---
 ### *EXTRA* :

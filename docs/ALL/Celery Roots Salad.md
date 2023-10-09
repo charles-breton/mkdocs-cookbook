@@ -26,7 +26,8 @@ ingredients:
   - celery
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* :  [[Carrot Salad]]
 ---
 

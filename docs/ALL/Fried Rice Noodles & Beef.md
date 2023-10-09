@@ -17,7 +17,8 @@ link: "Thai Cooking Made Easy - WeiChuan : p.76"
 ---
 ![[20231001_151119.jpg]]
 
-![[image_737.png]]
+![IMAGE](image_737.png)
+
 
 [CHANGE PHOTO]
 

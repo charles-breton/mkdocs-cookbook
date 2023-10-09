@@ -26,7 +26,8 @@ ingredients:
   - huckleberries
 ---
 
-![[image_434.png]]
+![IMAGE](image_434.png)
+
 ###### *RELATED* : 
 ---
 Huckleberries are a hard-to-find, delicious treat, and finding recipes that use them can be even harder. I came up with this recipe for huckleberry muffins as a variation of my favorite blueberry muffin recipe, and they truly are delicious! If you can't find huckleberries, blueberries work well.
@@ -74,7 +75,8 @@ Total Time:30 mins
 ---
 ## NUTRITIONS
 
-![[image_435.png]]
+![IMAGE](image_435.png)
+
 
 ---
 ### *EXTRA* :

@@ -20,7 +20,8 @@ ingredients:
 equipments:
 ---
 
-![[image_666.png]]
+![IMAGE](image_666.png)
+
 ###### *RELATED* : 
 ---
 For the best gluten-free, corn-free tortilla chips, these cassava tortilla chips definitely win. You can bake them or fry them to be perfectly crisp!

@@ -19,7 +19,8 @@ time:
 source: Sophie
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

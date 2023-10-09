@@ -31,7 +31,8 @@ ingredients:
   - cane sugar
 ---
 
-![[image_340.png]]
+![IMAGE](image_340.png)
+
 ###### *RELATED* : 
 ---
 No Bake Snickerdoodle Cookies (V, GF): just 5 ingredients for easy Vegan + Gluten Free snickerdoodle cookies! These chewy, cinnamon-spiced cookies are sweet, Grain-Free, Refined Sugar-Free, Dairy-Free, No Cook.
@@ -84,7 +85,8 @@ No Bake Snickerdoodle Cookies (V, GF): just 5 ingredients for easy Vegan + Glute
 ---
 ## NUTRITIONS
 
-![[image_341.png]]
+![IMAGE](image_341.png)
+
 
 ---
 ### *EXTRA* :

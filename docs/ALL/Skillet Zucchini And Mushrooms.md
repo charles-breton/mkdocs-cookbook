@@ -29,7 +29,8 @@ ingredients:
   - parmesan
 ---
 
-![[image_378.png]]
+![IMAGE](image_378.png)
+
 ###### *RELATED* : 
 ---
 Fresh, healthy, and absolutely delicious side dish of sauteed mushrooms and zucchini! Perfectly seasoned and pan fried to perfection, this Skillet Zucchini and Mushrooms recipe is ready in just 20 minutes!

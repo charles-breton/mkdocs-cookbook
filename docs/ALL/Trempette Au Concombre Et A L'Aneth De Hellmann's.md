@@ -27,7 +27,8 @@ ingredients:
   - oignons
 ---
 
-![[image_492.png]]
+![IMAGE](image_492.png)
+
 ###### *RELATED* : 
 ---
 

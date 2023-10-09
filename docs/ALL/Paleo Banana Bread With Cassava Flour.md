@@ -31,7 +31,8 @@ ingredients:
 equipments:
 ---
 
-![[image_651.png]]
+![IMAGE](image_651.png)
+
 ###### *RELATED* : 
 ---
 _Hearty, moist banana bread with tons of banana flavor and the perfect amount of sweetness!  This Paleo Banana Bread with Cassava Flour is gluten and grain free, dairy free, nut free and packed with healthy fats and clean ingredients.  Enjoy it anytime for a quick breakfast, snack, or dessert!_

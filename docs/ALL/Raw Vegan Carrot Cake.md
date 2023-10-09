@@ -32,7 +32,8 @@ ingredients:
   - lemon juice
 ---
 
-![[image_308.png]]
+![IMAGE](image_308.png)
+
 ###### *RELATED* : 
 ---
 This raw vegan carrot cake is surprisingly filling. The recipe below will feed 8 people with cupcake size portions. **Double the recipe for the 6-inch sized cake that is in the photographs.**

@@ -23,7 +23,8 @@ ingredients:
   - sea salt
 ---
 
-![[image_105.png]]
+![IMAGE](image_105.png)
+
 ###### *RELATED* : 
 
 This buttery bar is inspired by the iconic butter tart but replaces all-purpose flour with gluten-free PC® Organics Fine Grind Almond Flour and swaps out the traditional maple-brown sugar filling for PC® Dulce de Leche, a sweet Latin American spread. Don’t you love when worlds collide?
@@ -73,7 +74,8 @@ This buttery bar is inspired by the iconic butter tart but replaces all-purpose 
 
 ## NUTRITIONS
 
-![[image_106.png]]
+![IMAGE](image_106.png)
+
 
 ## NOTES
 

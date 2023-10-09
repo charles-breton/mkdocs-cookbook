@@ -23,7 +23,8 @@ ingredients:
   - kale
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

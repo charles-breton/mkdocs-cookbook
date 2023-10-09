@@ -24,7 +24,8 @@ source: Sophie
 link: https://lowcarbyum.com/mashed-turnips-paleo-low-carb-keto/?ck_subscriber_id=239674602
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

@@ -28,7 +28,8 @@ ingredients:
   - eggs
 ---
 
-![[image_201.png]]
+![IMAGE](image_201.png)
+
 ###### *RELATED* : 
 ---
 _You just can’t beat this easy and delicious homemade **Triple Berry Pie**! It holds together perfectly every single time, and you can use fresh or frozen blueberries, raspberries and blackberries._

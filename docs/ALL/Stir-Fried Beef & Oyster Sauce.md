@@ -21,7 +21,8 @@ ingredients:
 equipments:
 ---
 ![[20231001_150822.jpg]]
-![[image_732.png]]
+![IMAGE](image_732.png)
+
 
 ###### *RELATED* : 
 ---

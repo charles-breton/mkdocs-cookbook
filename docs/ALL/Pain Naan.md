@@ -26,7 +26,8 @@ ingredients:
   - ghee
 ---
 
-![[image_512.png]]
+![IMAGE](image_512.png)
+
 ###### *RELATED* : 
 ---
 Ce pain plat délicieux en trempette se préparer facilement et est très bon pour la santé.

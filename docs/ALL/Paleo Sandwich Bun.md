@@ -32,7 +32,8 @@ ingredients:
 equipments:
 ---
 
-![[image_674.png]]
+![IMAGE](image_674.png)
+
 ###### *RELATED* : 
 ---
 The best **Paleo Hamburger Bun** recipe. This recipe uses almond butter instead of flour to create a light bread like texture. It’s truly unbelievable how good these are! Make a huge batch and freeze them for those weekend BBQ’s.

@@ -32,7 +32,8 @@ equipments:
   - mixer
 ---
 
-![[image_725.png]]
+![IMAGE](image_725.png)
+
 ###### *RELATED* : 
 ---
 These classic loaves of gluten free French bread are just as crusty outside, soft and tender inside, as you remember. They're even quick and easy enough to make on a weeknight!

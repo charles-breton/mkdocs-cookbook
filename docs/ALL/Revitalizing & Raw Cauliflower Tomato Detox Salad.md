@@ -32,7 +32,8 @@ ingredients:
   - agave nectar
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 **_This vegan revitalizing & raw cauliflower-tomato detox salad is packed with detoxifying cruciferous veggies and feel-good ingredients. Raw cauliflower is grated into a fine "rice" and tossed with savory pine nuts, sundried tomatoes, kale, parsley, basil, hemp seeds, and pepitas. The mixture is tossed in a creamy dressing made with tahini, lemon juice, garlic, and seasonings._**

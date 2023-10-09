@@ -32,7 +32,8 @@ ingredients:
   - chiliflakes
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 The most tender and flavorful Korean steak bites cooked on the stovetop or in the air fryer! This paleo and Whole30 dish is sweetened with fruit to recreate an authentic bulgogi flavor that's so addicting.
 
@@ -100,7 +101,8 @@ The most tender and flavorful Korean steak bites cooked on the stovetop or in th
 
 ## NUTRITIONS
 
-![[image_72.png]]
+![IMAGE](image_72.png)
+
 
 
 ## NOTES

@@ -35,7 +35,8 @@ ingredients:
   - buns
 ---
 
-![[image_237.png]]
+![IMAGE](image_237.png)
+
 ###### *RELATED* : 
 ---
 The best Veggie Burger Recipe! These are tangy, smoky, savory, and have a hearty texture from walnuts and mushrooms.

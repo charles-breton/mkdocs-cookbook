@@ -23,7 +23,8 @@ ingredients:
   - flocons d'avoine
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

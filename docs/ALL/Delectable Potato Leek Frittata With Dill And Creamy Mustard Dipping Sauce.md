@@ -27,7 +27,8 @@ ingredients:
   - mayonnaise
 ---
 
-![[image_445.png]]
+![IMAGE](image_445.png)
+
 ###### *RELATED* : 
 ---
 The frittata is similar to the classic omelet, containing scrambled eggs with a filling like cheese or vegetables. It is easy to prepare and highly customizable as well. It is fried on a pan first, and then transferred into an oven to be baked.

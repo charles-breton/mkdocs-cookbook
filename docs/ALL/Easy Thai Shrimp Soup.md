@@ -31,7 +31,8 @@ ingredients:
   - cilantro
 ---
 
-![[image_572.png]]
+![IMAGE](image_572.png)
+
 ###### *RELATED* : 
 ---
 Skip the take-out and try making this at home - it's unbelievably easy and 10000x tastier and healthier!

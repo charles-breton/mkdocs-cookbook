@@ -26,7 +26,8 @@ ingredients:
   - poivron rouge
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Pour faire une _frittata_, un genre de quiche sans croûte, on doit utiliser un poêlon muni d'un couvercle et allant au four, puisque la cuisson est complétée sous le gril du four. Et si on veut que notre _frittata_ soit d'une bonne épaisseur, on devrait choisir un poêlon moyen plutôt qu'un grand poêlon de 10 à 12 po (25 à 30 cm) de diamètre. Dernier truc: pour faire de belles tranches de pommes de terre uniformes et minces, se procurer une mandoline, un instrument pratique pour couper les légumes (de 30 $ à 50 $), dans les épiceries asiatiques et les boutiques d'accessoires de cuisine.

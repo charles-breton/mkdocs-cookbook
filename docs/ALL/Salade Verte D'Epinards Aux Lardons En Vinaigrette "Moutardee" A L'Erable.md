@@ -26,7 +26,8 @@ ingredients:
   - huile d'olive
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

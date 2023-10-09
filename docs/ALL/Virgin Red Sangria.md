@@ -26,7 +26,8 @@ ingredients:
   - club soda
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This Virgin Sangria is a great summer time drink! It’s easy, it’s quick, it’s delicious and refreshing. Kids and adults love it and, as a bonus, you can snack on the fruit.

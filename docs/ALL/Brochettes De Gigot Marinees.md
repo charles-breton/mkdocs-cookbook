@@ -26,7 +26,8 @@ calories:
 link: https://www.marieclaire.fr/cuisine/brochettes-de-gigot-marinees,1202223.asp
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

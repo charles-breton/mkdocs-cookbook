@@ -18,7 +18,8 @@ time:
 source: Diane
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

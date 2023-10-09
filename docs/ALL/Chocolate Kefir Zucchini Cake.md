@@ -17,7 +17,8 @@ calories:
 ingredients:
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 _Making this cake with sprouted flour is ten times better than using store-bought flour. But using regular spelt flour is still better than going to the store and buying a cake. Store-bought cakes are filled with hydrogenated oils, preservatives, and chemicals. It is so much healthier—and tastier—to make it yourself, with or without sprouted flour. There are a ton of nutrients in this cake, not to mention all the love you put into it._

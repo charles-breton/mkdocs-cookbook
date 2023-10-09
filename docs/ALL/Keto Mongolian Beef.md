@@ -32,7 +32,8 @@ ingredients:
   - algae oil
 ---
 
-![[image_73.png]]
+![IMAGE](image_73.png)
+
 
 
 
@@ -80,7 +81,8 @@ ingredients:
 
 ## NUTRITIONS
 
-![[image_74.png]]
+![IMAGE](image_74.png)
+
 
 ## NOTES
 

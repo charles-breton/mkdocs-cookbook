@@ -26,7 +26,8 @@ ingredients:
   - jus de citron
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

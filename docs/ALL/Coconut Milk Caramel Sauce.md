@@ -22,7 +22,8 @@ servings: "8"
 link: http://simplerootswellness.com/coconut-milk-caramel-sauce/
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

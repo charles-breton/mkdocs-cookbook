@@ -21,7 +21,8 @@ ingredients:
 equipments:
 ---
 
-![[image_635.png]]
+![IMAGE](image_635.png)
+
 ###### *RELATED* : 
 ---
 Just three ingredients are needed for these Paleo pizza bases which require NO cauliflower! Just 5 minutes and a stovetop are needed to whip these up and are the perfect low carb, high protein alternative to traditional pizza bases-Gluten free and Whole30 friendly!

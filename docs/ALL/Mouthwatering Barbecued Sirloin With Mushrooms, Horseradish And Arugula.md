@@ -26,7 +26,8 @@ ingredients:
   - oil
 ---
 
-![[image_99.png]]
+![IMAGE](image_99.png)
+
 
 Sirloin is one of the most popular and versatile cuts of beef, although it does come behind options such as rib eye, New York strip, beef tenderloin and T-bone steak.1 It’s a relatively lean cut, without a lot of marbling, and according to The Spruce, should be marinated or pounded to better tenderize the meat.
 

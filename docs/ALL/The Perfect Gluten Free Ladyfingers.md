@@ -25,7 +25,8 @@ ingredients:
   - baking powder
 ---
 
-![[image_197.png]]
+![IMAGE](image_197.png)
+
 ###### *RELATED* : 
 ---
 Perfect for dunking into a cup of coffee, or for making gluten free tiramisu, these gluten free ladyfingers are _the_ cookie to have in your repertoire. Easy to make and equal (_or even better_) in all respects to the store-bought version, these gluten free sponge fingers will blow you away with their simplicity, taste and texture!

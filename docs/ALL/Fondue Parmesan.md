@@ -22,7 +22,8 @@ time:
 source: Jacqueline
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 
@@ -84,7 +85,8 @@ _sur des essuie-tout._Ou mettre sur des petits cabarets et congeler. Faire dége
 
 
 [IDK ]
-![[image_11.png]]
+![IMAGE](image_11.png)
+
 
 
 ## TIPS

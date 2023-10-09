@@ -24,7 +24,8 @@ ingredients:
   - chipotle powder
 ---
 
-![[image_317.png]]
+![IMAGE](image_317.png)
+
 ###### *RELATED* : 
 ---
 

@@ -22,7 +22,8 @@ ingredients:
   - sucre a glacer
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

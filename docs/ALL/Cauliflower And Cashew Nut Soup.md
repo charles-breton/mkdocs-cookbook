@@ -25,7 +25,8 @@ ingredients:
   - pepper
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* :  [[Creme De Chou-Fleur 1]]
 ---
 Voir recette : [[Creme De Chou-Fleur 1]] pour plus de détails sur quoi mettre et comment faire la soupe)

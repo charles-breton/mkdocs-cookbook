@@ -27,7 +27,8 @@ ingredients:
   - dried oregano
 ---
 
-![[image_520.png]]
+![IMAGE](image_520.png)
+
 ###### *RELATED* : 
 ---
 This Vegan Cauliflower Pizza Crust is **egg-free and dairy-free,** and has the BEST taste and texture. I love that you can hold it with your hands, like a real slice of pizza!

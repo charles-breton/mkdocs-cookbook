@@ -27,7 +27,8 @@ ingredients:
   - sel
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 Tout le monde connait la fameuse choucroute alsacienne, garnie de ses non moins fameuses charcuteries. Mais la choucroute, on en fait aussi une soupe délicieuse et très simple à réaliser. Surtout, achetez de la choucroute crue. C'est aussi une idée pour utiliser votre bocal de chou lacto-fermenté ! Si vous cherchez une soupe ragaillardissante en cas de passage à vide au creux de l'hiver, vous avez trouvé

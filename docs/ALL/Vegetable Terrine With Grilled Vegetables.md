@@ -31,7 +31,8 @@ ingredients:
   - black pepper
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 This terrine is a delicious stacked “salad.” Or cut into small squares, dab with garlicky mayonnaise and serve nestled in bib lettuce as a light nibble with drinks. Plated with greens, it makes a pretty lunch (Vegetable Terrine Salad, below).

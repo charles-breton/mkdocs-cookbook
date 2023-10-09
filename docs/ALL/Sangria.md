@@ -25,7 +25,8 @@ ingredients:
   - glacons
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

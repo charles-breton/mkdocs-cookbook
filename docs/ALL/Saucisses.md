@@ -22,7 +22,8 @@ time:
 source: Marguerite
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 
 [CHANGE PHOTO]
 

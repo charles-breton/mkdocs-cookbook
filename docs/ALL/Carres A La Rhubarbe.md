@@ -22,7 +22,8 @@ ingredients:
   - rhubarbe
 ---
 
-![[image_272.png]]
+![IMAGE](image_272.png)
+
 ###### *RELATED* : 
 ---
 **Paru dans le Magazine RICARDO Volume 11 Numéro 5** (p. 166)

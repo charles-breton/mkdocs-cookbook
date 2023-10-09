@@ -36,7 +36,8 @@ ingredients:
   - marshmallows
 ---
 
-![[image_115.png]]
+![IMAGE](image_115.png)
+
 ###### *RELATED* : 
 
 Expect this (no-churn!) keto ice cream recipe to be ridiculously creamy and absolutely tasty! And whichever flavor you go for, it won't freeze rock solid like your usual homemade ice cream. 

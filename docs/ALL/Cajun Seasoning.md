@@ -23,7 +23,8 @@ ingredients:
   - thyme
 ---
 
-![[image_38.png]]
+![IMAGE](image_38.png)
+
 
 
 ## NOTES

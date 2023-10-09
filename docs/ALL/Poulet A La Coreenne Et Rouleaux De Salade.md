@@ -37,7 +37,8 @@ ingredients:
   - poivre
 ---
 
-![[image_528.png]]
+![IMAGE](image_528.png)
+
 ###### *RELATED* : 
 ---
 

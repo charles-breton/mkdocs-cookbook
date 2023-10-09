@@ -33,7 +33,8 @@ ingredients:
   - sea salt
 ---
 
-![[image_178.png]]
+![IMAGE](image_178.png)
+
 ###### *RELATED* : 
 ---
 Ultra moist, absolutely scrumptious and easy-peasy (yup! one bowl!), these gluten free and keto peanut butter blondies are a true delight! Oh, and just 2g net carbs a pop! 

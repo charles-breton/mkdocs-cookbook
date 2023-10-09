@@ -28,7 +28,8 @@ ingredients:
   - chives
 ---
 
-![[image_570.png]]
+![IMAGE](image_570.png)
+
 ###### *RELATED* : 
 ---
 

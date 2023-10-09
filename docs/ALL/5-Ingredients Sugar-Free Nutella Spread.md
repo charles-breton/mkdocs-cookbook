@@ -31,7 +31,8 @@ ingredients:
   - sel
 ---
 
-![[image_254.png]]
+![IMAGE](image_254.png)
+
 ###### *RELATED* : 
 ---
 Make homemade keto sugar-free Nutella with real cocoa and hazelnuts. This easy sugar-free hazelnut spread is sweet, chocolaty, & spreadable!

@@ -35,7 +35,8 @@ ingredients:
   - vanilla extract
 ---
 
-![[image_177.png]]
+![IMAGE](image_177.png)
+
 ###### *RELATED* : 
 ---
 Healthy, vegan friendly, paleo baklava bars are packed full of sweet nutty flavor and healthy fats. Taste like dessert, but made with REAL FOOD.

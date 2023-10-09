@@ -28,7 +28,8 @@ ingredients:
 equipments:
 ---
 
-![[image_654.png]]
+![IMAGE](image_654.png)
+
 ###### *RELATED* : 
 ---
 Un pain aux bananes approuvé par les enfants et qui ne contient pas de gluten. On peut en faire un gros pain, 2 gâteaux ronds ou 2 douzaines de muffins.

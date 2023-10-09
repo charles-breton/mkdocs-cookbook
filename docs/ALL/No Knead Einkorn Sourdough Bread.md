@@ -19,7 +19,8 @@ ingredients:
 equipments:
 ---
 
-![[image_603.png]]
+![IMAGE](image_603.png)
+
 ###### *RELATED* : 
 ---
 Easy recipe for no knead sourdough bread using einkorn flour that even many gluten intolerant people can enjoy

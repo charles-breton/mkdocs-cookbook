@@ -30,7 +30,8 @@ ingredients:
   - almond extract
 ---
 
-![[image_299.png]]
+![IMAGE](image_299.png)
+
 ###### *RELATED* : 
 ---
 _You can use any gluten-free all-purpose flour blend you like in this recipe. I like using this one from King Arthur Flour or this one from Bob’s Red Mill. Use this angel food cake to make all your favorite desserts gluten-free!_

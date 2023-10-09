@@ -20,7 +20,8 @@ calories: "340"
 ingredients:
 ---
 
-![[image_595.png]]
+![IMAGE](image_595.png)
+
 ###### *RELATED* : 
 ---
 
@@ -68,7 +69,8 @@ ingredients:
 ---
 ## NUTRITIONS
 
-![[image_596.png]]
+![IMAGE](image_596.png)
+
 
 ---
 ### *EXTRA* :

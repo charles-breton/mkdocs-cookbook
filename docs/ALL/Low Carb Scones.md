@@ -28,7 +28,8 @@ equipments:
 to-keep: fail
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 A sugar free and low carb life does not mean missing out on great tasting food such as these Low Carb Scones. I just want to clarify that this scone recipe is to make scones that go with jam and cream, otherwise known as Devonshire tea.

@@ -23,7 +23,8 @@ ingredients:
   - bouillon boeuf
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ## PREP
 

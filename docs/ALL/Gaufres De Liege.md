@@ -25,7 +25,8 @@ ingredients:
   - beurre
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 **Gaufres pour 4 à 6 gourmands :**

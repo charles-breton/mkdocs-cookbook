@@ -23,7 +23,8 @@ ingredients:
   - beurre d'arachides
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

@@ -29,7 +29,8 @@ ingredients:
   - parsley
 ---
 
-![[image_471.png]]
+![IMAGE](image_471.png)
+
 ###### *RELATED* : 
 ---
 

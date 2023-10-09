@@ -26,7 +26,8 @@ ingredients:
 equipments:
 ---
 
-![[image_709.png]]
+![IMAGE](image_709.png)
+
 ###### *RELATED* : 
 ---
 Flax seed crackers are a crunchy, flavorful, homemade cracker recipe that's naturally gluten-free, grain-free, nut-free, paleo and vegan. Made from flax seeds, chia seeds, sesame seeds and pumpkin seeds, they're super easy to make and great for snacking.

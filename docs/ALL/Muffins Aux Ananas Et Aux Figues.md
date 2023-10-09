@@ -23,7 +23,8 @@ ingredients:
   - poudre a pate
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

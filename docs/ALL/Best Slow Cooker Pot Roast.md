@@ -37,7 +37,8 @@ ingredients:
   - parsley
 ---
 
-![[image_79.png]]
+![IMAGE](image_79.png)
+
 
 Consistently rated the BEST slow cooker pot roast EVER!
 

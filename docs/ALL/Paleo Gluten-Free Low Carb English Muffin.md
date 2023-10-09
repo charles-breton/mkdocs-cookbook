@@ -33,7 +33,8 @@ ingredients:
 equipments:
 ---
 
-![[image_698.png]]
+![IMAGE](image_698.png)
+
 ###### *RELATED* : 
 ---
 This paleo, gluten-free, low carb English muffin is soft and buttery inside, crusty on the outside. Easy to make in just 2 minutes, with 5 ingredients!

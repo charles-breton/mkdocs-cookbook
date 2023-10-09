@@ -31,7 +31,8 @@ ingredients:
   - chocolate chips
 ---
 
-![[image_169.png]]
+![IMAGE](image_169.png)
+
 ###### *RELATED* : 
 ---
 Monkey bread and brownie collide in this sticky sweet loaf of Chocolate Monkey Bread without sugar or grains for a healthier-than-it-looks fudgy dessert feast!

@@ -29,7 +29,8 @@ ingredients:
   - cacao nibs
 ---
 
-![[image_356.png]]
+![IMAGE](image_356.png)
+
 ###### *RELATED* : 
 ---
 _These **Cacao Peanut Butter Fat Bombs** taste like an indulgent treat, but they’re actually super filling and fueling! Made with peanuts, peanut butter, and cacao nibs, these fat bombs are a gluten-free, keto, vegan, and low-sugar treat that makes the perfect snack._

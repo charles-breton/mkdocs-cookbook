@@ -35,7 +35,8 @@ ingredients:
   - flour
 ---
 
-![[image_97.png]]
+![IMAGE](image_97.png)
+
 
 **This horseradish beef stew with beer is the definition of pure comfort food!  Cooking it in the slow cooker makes the beef and veggies super tender with a rich, silky sauce… and it takes hardly any effort to make!  Come home to a mouthwatering dinner, ready to eat!**
 

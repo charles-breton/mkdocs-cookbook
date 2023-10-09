@@ -28,7 +28,8 @@ ingredients:
 equipments:
 ---
 
-![[image_669.png]]
+![IMAGE](image_669.png)
+
 ###### *RELATED* : 
 ---
 Gluten Free Tortillas are soft, flexible and delicious!  The best grain free tortilla recipe!  Gluten free, Dairy free and grain free.

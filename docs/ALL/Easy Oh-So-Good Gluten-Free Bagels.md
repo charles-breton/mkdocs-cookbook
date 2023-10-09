@@ -31,7 +31,8 @@ ingredients:
 equipments:
 ---
 
-![[image_619.png]]
+![IMAGE](image_619.png)
+
 ###### *RELATED* : 
 ---
 _Have your gluten-free bagels and eat them, too! No yeast, no boiling, and they come together easily and in no time! You'll never guess they're gluten-free!_
@@ -77,27 +78,38 @@ _Have your gluten-free bagels and eat them, too! No yeast, no boiling, and they 
 2. If using toppings for your bagels, like grated Parmesan, prepare it now and set aside until ready to use.
     
 3.  Combine all dry ingredients together in a large bowl and stir together with a whisk to mix.
-![[image_620.png]]
+![IMAGE](image_620.png)
+
 4. Add Greek yogurt.
-![[image_621.png]]
+![IMAGE](image_621.png)
+
 5. Using a fork or mixing spoon, mix really well to combine all the dry and wet ingredients until a dough forms.
-![[image_622.png]]
+![IMAGE](image_622.png)
+
 6. Pour dough onto a work surface dusted with tapioca starch. Fold and knead gently a few times to form into a more cohesive dough.
-![[image_623.png]]
+![IMAGE](image_623.png)
+
 7. Work and shape dough into a flattened ball, using tapioca starch as necessary to prevent dough from sticking to your hands and the work surface.
-![[image_624.png]]
+![IMAGE](image_624.png)
+
 8. Cut the dough into 8 equal pieces.
-![[image_626.png]]
+![IMAGE](image_626.png)
+
 9. Shape and roll each piece into a log.
-![[image_627.png]]
+![IMAGE](image_627.png)
+
 10. Shape log into a bagel, pressing ends together
-![[image_628.png]]
+![IMAGE](image_628.png)
+
 11. Place bagel onto parchment lined baking sheet and repeat with remaining dough. Lightly cover baking sheet with a dry towel to prevent bagels from drying out.
-![[image_629.png]]
+![IMAGE](image_629.png)
+
 12. Brush bagels completely with egg wash, smoothing any cracks you see in the dough. Be sure to brush the inside and outside edges.
-![[image_630.png]]
+![IMAGE](image_630.png)
+
 13. Top bagels with desired toppings, if desired.
-![[image_631.png]]
+![IMAGE](image_631.png)
+
 14. Bake in an upper rack of the oven for 25 minutes.
 15. Move bagels to a cooling rack. Let cool completely before slicing.
 

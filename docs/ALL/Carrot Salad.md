@@ -25,7 +25,8 @@ ingredients:
   - coconut cream
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

@@ -30,7 +30,8 @@ ingredients:
 equipments:
 ---
 
-![[image_606.png]]
+![IMAGE](image_606.png)
+
 ###### *RELATED* : 
 ---
 This Wonderful Gluten Free Sandwich Bread really does earn it’s name. The bread is really simple to make, has a wonderful texture, and will get you eating sandwiches again in no time.

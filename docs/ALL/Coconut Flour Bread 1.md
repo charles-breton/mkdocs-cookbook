@@ -27,7 +27,8 @@ ingredients:
 equipments:
 ---
 
-![[image_690.png]]
+![IMAGE](image_690.png)
+
 ###### *RELATED* : 
 ---
 _A **coconut flour bread recipe** that’s paleo friendly and low carb. It’s sure to become a favorite keto bread loaf for making sandwiches._

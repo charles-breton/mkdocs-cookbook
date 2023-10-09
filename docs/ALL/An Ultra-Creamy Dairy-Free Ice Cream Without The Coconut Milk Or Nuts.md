@@ -27,7 +27,8 @@ ingredients:
   - ice cubes
 ---
 
-![[image_117.png]]
+![IMAGE](image_117.png)
+
 ###### *RELATED* : 
 
 We love this dairy-free ice cream for a bunch of reasons. I love it because it doesn’t use coconut milk. Not that I have anything against coconut milk, there’s just a lot of dairy-free ice cream recipes out there that use it, and I like to do things a little differently.

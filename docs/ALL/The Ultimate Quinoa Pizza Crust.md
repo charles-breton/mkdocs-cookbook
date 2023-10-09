@@ -27,7 +27,8 @@ ingredients:
   - red pepper flakes
 ---
 
-![[image_516.png]]
+![IMAGE](image_516.png)
+
 ###### *RELATED* : 
 ---
 

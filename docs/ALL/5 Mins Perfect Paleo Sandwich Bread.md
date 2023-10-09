@@ -25,7 +25,8 @@ ingredients:
 equipments:
 ---
 
-![[image_614.png]]
+![IMAGE](image_614.png)
+
 ###### *RELATED* : 
 ---
 Perfect paleo sandwich bread. Toastable. Sandwichable. Low carb. Grain free. Yeast free. Light. Fluffy. Awesome crust. And YUMMY!!!
@@ -66,7 +67,8 @@ Perfect paleo sandwich bread. Toastable. Sandwichable. Low carb. Grain free. Yea
 ---
 ## NUTRITIONS
 
-![[image_615.png]]
+![IMAGE](image_615.png)
+
 
 ---
 ### *EXTRA* :

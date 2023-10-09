@@ -22,7 +22,8 @@ ingredients:
   - sel
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 J’ai cuisiné ce plat spécialement pour la salade d’épinards aux framboises et cherchais quelque chose de différent des noix sucrées. Vous pouvez les servir avec beaucoup de salades ou les déguster en apéritifs.

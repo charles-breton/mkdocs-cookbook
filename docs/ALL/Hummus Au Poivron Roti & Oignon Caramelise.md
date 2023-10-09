@@ -31,7 +31,8 @@ ingredients:
   - levure nutritionelle
 ---
 
-![[image_432.png]]
+![IMAGE](image_432.png)
+
 ###### *RELATED* : 
 ---
 

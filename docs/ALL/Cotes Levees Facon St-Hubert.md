@@ -31,7 +31,8 @@ ingredients:
   - bbq sauce
 ---
 
-![[_default.png]]
+![IMAGE](_default.png)
+
 ###### *RELATED* : 
 ---
 

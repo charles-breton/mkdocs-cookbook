@@ -29,7 +29,8 @@ ingredients:
   - salt
 ---
 
-![[image_203.png]]
+![IMAGE](image_203.png)
+
 ###### *RELATED* : 
 ---
 Date Brownies are 100% fruit sweetened, but you’d never know just by tasting them. They are made without flour or oil, and have a rich & chewy texture you’ll love!

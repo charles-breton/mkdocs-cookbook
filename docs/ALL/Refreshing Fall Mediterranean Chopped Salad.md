@@ -27,7 +27,8 @@ ingredients:
   - starfruit
 ---
 
-![[image_485.png]]
+![IMAGE](image_485.png)
+
 ###### *RELATED* : 
 ---
 Salads are the go-to meal for anyone who wants to improve their health for two reasons. The first is it lets them exercise their creativity — with so many fruits, vegetables, herbs and dressings available, the possibilities are absolutely endless. The second is that there are a multitude of health benefits from these eating fresh, raw and organic ingredients.
