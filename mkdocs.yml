@@ -58,6 +58,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+wikilinks:
+  - base_url: http://127.0.0.1:8000/
+  - end_url: .html
+  
 
 extra_css:
   - style.css
